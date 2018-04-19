@@ -1,0 +1,31 @@
+#C (1) by Paul Tooke, Feb 2003
+#C (2) p78 puffer found by Paul Tooke, Apr 2001
+x = 114, y = 163, rule = B3/S23
+112bo$51bobo57boo$50bobbo57bobo$49boo$48bo4bo$47b5obo9bobo$44boo16bobb
+o$43bo3b3o11boo$42bo3bo13bo4bo$42bo5bo10b5obo$42b3o3bo7boo$43bo4boobo
+3bo3b3o$43boo6bobbo3bo$43bobo8bo5bo$43boobbo6b3o3bo$44bobo8bo4boobo$
+55boo6bo$44boo9bobo$44bobbo7boobbo$45bo4bo5b3o$45b4obo41boo$47bo6b3o
+34boo$48boo3boobbo5b3o27bo$48bobbooboo$48b3oboobobo4bobbo$49bo7bobboob
+o$50b4obobobb3o$50bo3boo7bo$52boo3bobb3o$52b4obobboobo$55bobo4bobbo$$
+63b3o$$27bo47bo$26bobo47bo$8boboboo5bobo3boobo45bo$7bobbo5b4obobbo49bo
+bo$6boo5boobboobbob3obo3bo40bobboo$5bo4b3o6bo5bobboobboo33bo3bobooboo$
+4b6oboo3b4obob3obo3boobbo3bo26bobobo5b3o$9booboboobbobbobboob3o6boobo
+8boo19b3oboob3o$bbob3obo3bob4obobo14boo10boo16boo4bo$boobboobo8bobo$bo
+bo71bo$boo72bo$bo7bo25b3o41bo$3o3b4o69bo$o5boo19bobo4bobbo40bobo$o3bo
+19b4obobboobo32bobo5boo$bo3b5o14boo3bobb3o32bobboboobobbo$bboo18bo3boo
+7bo30boo7bobbo$5b3obo12b4obobobb3o30bo4bo7bo$6bo3bo10bo7bobboobo28b5ob
+o4bobbo$7boo11b3oboobobo4bobbo25bo8boobobbo$8bobbo8bobbooboo35boboboob
+o5boo$9bobo8boo3boobbo5b3o24bo3bo3bo7bobo$19bo6b3o33b3obbo11bo$17b4obo
+45b4o7bo$17bo4bo5b3o29bob3o$16bobbo7boobbo27boobboo5b4o$16boo9bobo29bo
+bo8bo$27boo6bo23boo8bobbo$16bobo8bo4boobo23bo9boo6bo$15boobbo6b3o3bo
+25b3o14b3o$15bobo8bo5bo25bobbo7bobobboo$15boo6bobbo3bo26bobbo7boo4bo$
+15bo4boobo3bo3b3o23boo6bo3boo5bo$14b3o3bo7boo33b3o4b6o$14bo5bo10b5obo
+19bobobboo7bobo$14bo3bo13bo4bo18boo4bo11b4obo$15bo3b3o11boo22boo5bo9bo
+3boo$16boo16bobbo20b6o12boo$19b5obo9bobo21bobo14b4o$20bo4bo36b4obo11bo
+$21boo39bo3boo$22bobbo38boo$23bobo38b4o$67bo52$38bo$35b4o$35b3o$33bo3b
+o$33b3o$32bo4bo10bo$31b6o8boobo$30boo10b4o$31bo3boo5boo$33boobbobbo3bo
+boobo$33bobo4b3o4bobbo4boo$32b3o3bo5boobboo6bo$32bo5b3o8b7o$32bo3bo7bo
+bo7bo$33bo3boo5bo4b3o$34boo8b5o3bo$37boo11bo$34boo8b5o3bo$33bo3boo5bo
+4b3o$32bo3bo7bobo7bo$32bo5b3o8b7o$32b3o3bo5boobboo6bo$33bobo4b3o4bobbo
+4boo$33boobbobbo3boboobo$31bo3boo5boo$30boo10b4o$31b6o8boobo$32bo4bo
+10bo$33b3o$33bo3bo$35b3o$35b4o$38bo!

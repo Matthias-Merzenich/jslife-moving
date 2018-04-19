@@ -1,0 +1,32 @@
+#C A period-320 c/10 orthogonal rake constructed by
+#C bouncing gliders between c/10 spaceships.
+#C By Nico Brown, 20 Mar 2016 
+x = 164, y = 109, rule = B3/S23
+28b2o84b2o$27bo2bo82bo2bo$27bo2bo82bo2bo$26bo4bo80bo4bo$26bo4bo80bo4bo
+$27b4o82b4o$26b2o2b2o80b2o2b2o$26bo4bo80bo4bo$11b2o13bo4bo80bo4bo13b2o
+$10bo2bo116bo2bo24b2o$10bo2bo116bo2bo23bo2bo$9bo4bo12b4o82b4o12bo4bo
+22bo2bo$9bo4bo13b2o84b2o13bo4bo21bo4bo$10b4o116b4o22bo4bo$9b2o2b2o10b
+2o4b2o78b2o4b2o10b2o2b2o22b4o$9bo4bo9bo2bo2bo2bo76bo2bo2bo2bo9bo4bo21b
+2o2b2o$9bo4bo10b3o2b3o78b3o2b3o10bo4bo21bo4bo$25b2o4b2o78b2o4b2o37bo4b
+o2$10b4o116b4o$11b2o118b2o24b4o$158b2o$8b2o4b2o112b2o4b2o$7bo2bo2bo2bo
+110bo2bo2bo2bo18b2o4b2o$8b3o2b3o112b3o2b3o18bo2bo2bo2bo$8b2o4b2o112b2o
+4b2o19b3o2b3o$155b2o4b2o$2b4o98bo$104b2o$2bo2bo97bobo$bob2obo$bo4bo$
+156bo$bo4bo147bobo$b2o2b2o148b2o$b6o14b2o$2bo2bo15b2o$3b2o$3b2o2$2o4b
+2o21b2o$2o4b2o21b2o$2o4b2o2$2bo2bo$22bobo$21bo2bo$21bo2bo$20bo3bo$10b
+2o9bobo108b2o$9bo2bo9bo108bo2bo$9bo2bo66bo41b2o8bo2bo$8bo4bo64b2o41b2o
+7bo4bo$8bo4bo64bobo49bo4bo$9b4o118b4o$8b2o2b2o116b2o2b2o$8bo4bo99b2o
+15bo4bo$8bo4bo99b2o15bo4bo3$9b4o118b4o$10b2o120b2o2$7b2o4b2o114b2o4b2o
+$6bo2bo2bo2bo97b2o13bo2bo2bo2bo$7b3o2b3o98b2o14b3o2b3o$7b2o4b2o114b2o
+4b2o$21b2o$21b2o4$11b2o2b2o12b2o96b2o2b2o$11b2o2b2o12b2o90b2o4b2o2b2o$
+10b3o2b3o103b2o3b3o2b3o$10b3o2b3o90b2o16b3o2b3o$108b2o$10bo6bo22b2o2b
+2o52b2o2b2o22bo6bo$10bo2b2o2bo22b2o2b2o52b2o2b2o22bo2b2o2bo$11b6o22b3o
+2b3o50b3o2b3o22b6o$29b2o8b3o2b3o50b3o2b3o$29b2o$13b2o24bo6bo50bo6bo24b
+2o$12bo2bo23bo2b2o2bo50bo2b2o2bo16b2o5bo2bo$12b4o24b6o52b6o17b2o5b4o$
+11b2o2b2o110b2o2b2o$8bo2bo4bo2bo104bo2bo4bo2bo$11bo4bo25b2o56b2o25bo4b
+o$12b4o25bo2bo54bo2bo10b2o13b4o$8bo12b2o18b4o54b4o10b2o6b2o12bo$9bo10b
+4o16b2o2b2o52b2o2b2o16b4o10bo$17bo19bo2bo4bo2bo46bo2bo4bo2bo19bo$13b2o
+4b6o15bo4bo52bo4bo15b6o4b2o$20b4o17b4o54b4o17b4o$37bo10bo46bo10bo$19b
+2o2b2o13bo8bo48bo8bo13b2o2b2o$17b2obo2bob2o86b2o2b2obo2bob2o$20bo2bo
+18b2o56b2o11b2o5bo2bo3$21b2o98b2o$21b2o98b2o2$18bobo2bobo92bobo2bobo$
+17bo2bo2bo2bo90bo2bo2bo2bo$17bo8bo90bo8bo$17bo8bo90bo8bo$17b2o6b2o90b
+2o6b2o$19b6o94b6o!

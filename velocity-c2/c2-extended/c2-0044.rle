@@ -1,0 +1,32 @@
+#C p44 puffer by Hartmut Holzwart, 1994
+x = 73, y = 167, rule = B3/S23
+11bo14bo$8b4o11b4o$8boo13b3o23boo$6bo14bo3bo21bo4bo$6b6o9b3o22bo$3bobo
+12bobo4bo20bo5bo$bb6obobo5b8o21b6o$boo5boobo4boo$oo4boo7b3o3boo10b4o$b
+oo4b5o4b3o3bobbo6b6o$18bo4bobo5boob4o$boo4b4obo3bo15boo20boo$oo4boo4bo
+3bobo34boo$boo5boo5bo39bo$bb6oboo4bo$3bobo7bobo4bobboo$6b6obobo5boboo$
+6bo8bo5bobobo5bo$7b5obobo5bob3o4b3o$8bo4bobo5boboo4boboo$9boo4bo5boo5b
+oobboo$10bobbobo4bobboo4b4o$11bobobo3bo3bobo4b3o$15bo$15bobbo$11bobob
+oo$10bobbobobbo$9boo4bo$8bo6bo$7b6o3bobo$4boo7bobbo$3bo3b3obo6bo4bobo$
+bbo3bo4bo4b3o3bobbo$bbo5bo4bob3o3boo$bb3o3b5o3boo$17b8o$bb3o3b5o5bobo
+4bo$bbo5bo4bo7b3o$bbo3bo4bo9bo3bo$3bo3b3obo11b3o$4boo7bo9b4o$7b6o13bo$
+8bo$9boo$10bobbo$11bobo17$11bo14bo$8b4o11b4o$8boo13b3o$6bo14bo3bo$6b6o
+9b3o$3bobo12bobo4bo$bb6obobo5b8o$boo5boobo4boo22b5o$oo4boo7b3o3boo17bo
+4bo$boo4b5o4b3o3bobbo14bo$18bo4bobo15bo3bo16b4o$boo4b4obo3bo26bo17b6o$
+oo4boo4bo3bobo41boob4o$boo5boo5bo45boo$bb6oboo4bo55boo$3bobo7bobo4bobb
+oo45boo$6b6obobo5boboo47bo$6bo8bo5bobobo5bo21bo$7b5obobo5bob3o4b3o19bo
+boo$8bo4bobo5boboo4boboo18bo3bo$9boo4bo5boo5boobboo18boboo$10bobbobo4b
+obboo4b4o20bo$11bobobo3bo3bobo4b3o$15bo$15bobbo$11boboboo24b6o21boo$
+10bobbobobbo22bo5bo18bo4bo$9boo4bo25bo23bo$8bo6bo26bo4bo17bo5bo$7b6o3b
+obo25boo19b6o$4boo7bobbo$3bo3b3obo6bo4bobo$bbo3bo4bo4b3o3bobbo$bbo5bo
+4bob3o3boo$bb3o3b5o3boo$17b8o$bb3o3b5o5bobo4bo$bbo5bo4bo7b3o$bbo3bo4bo
+9bo3bo$3bo3b3obo11b3o$4boo7bo9b4o$7b6o13bo$8bo$9boo$10bobbo$11bobo14$
+11bo14bo$8b4o11b4o$8boo13b3o$6bo14bo3bo$6b6o9b3o$3bobo12bobo4bo$bb6obo
+bo5b8o$boo5boobo4boo21boo$oo4boo7b3o3boo14bo4bo$boo4b5o4b3o3bobbo10bo$
+18bo4bobo10bo5bo$boo4b4obo3bo19b6o$oo4boo4bo3bobo$boo5boo5bo$bb6oboo4b
+o$3bobo7bobo4bobboo20bo$6b6obobo5boboo20boo$6bo8bo5bobobo5bo12bobo$7b
+5obobo5bob3o4b3o$8bo4bobo5boboo4boboo$9boo4bo5boo5boobboo$10bobbobo4bo
+bboo4b4o$11bobobo3bo3bobo4b3o$15bo$15bobbo$11boboboo25boo$10bobbobobbo
+22boob3o$9boo4bo26b5o$8bo6bo27b3o$7b6o3bobo$4boo7bobbo$3bo3b3obo6bo4bo
+bo$bbo3bo4bo4b3o3bobbo$bbo5bo4bob3o3boo$bb3o3b5o3boo$17b8o$bb3o3b5o5bo
+bo4bo$bbo5bo4bo7b3o$bbo3bo4bo9bo3bo$3bo3b3obo11b3o$4boo7bo9b4o$7b6o13b
+o$8bo$9boo$10bobbo$11bobo!

@@ -1,0 +1,36 @@
+#C c/4 orthogonal dirty puffer (period 4200)
+#C Jason Summers, 27 Feb 1999
+#C This relies on the same MWSS-producing mechanism
+#C as the first c/4 orthogonal puffer.
+#C (see c4o-9732.rle in the c4o-extended collection)
+x = 190, y = 198
+179b3ob3o$178boobbobboo$178booboboboo$179b3ob3o$181bobo$179b3ob3o$178b
+obbobobbo$177b3obobob3o$176bo4bobo4bo$175bo3bobobobo3bo$$175b3obbooboo
+bb3o$180bobobo$182bo$$177boo7boo$177bob3ob3obo$177bobobobobobo$177bobo
+5bobo$178bo7bo3$177b4o3b4o$176bo4bobo4bo$176b6ob6o$178boo5boo3$150b3ob
+3o$151bo3bo$$151bo3bo$150bobobobo$151booboo$148booboboboboo$150bob3obo
+$148boo3bo3boo$148boo7boo$148bo9bo$149boob3oboo$148booboobooboo$148boo
+7boo$151bo3bo$152bobo$151booboo$$152bobo31bo$150boo3boo28b3o$185boboo$
+150boo3boo29b3o$150bobobobo29b3o$151booboo30boo$148b3obobob3o$$148bo9b
+o$149b3o3b3o$152b3o21$36bo3bo$36bo3bo$35bobobobo$$35bobobobo$37bobo$
+34bobo3bobo$34bobo3bobo$34bobb3obbo$$33boo7boo$33bo9bo$34bo7bo$33boob
+5oboo$22b3ob3o5bobbobobbo$23bo3bo7bobobobo$$23bo3bo8booboo$22bobobobo
+7bo3bo$23booboo7boo3boo$20booboboboboo4boo3boo$22bob3obo$20boo3bo3boo
+4boo3boo$20boo7boo3bobbobobbo$20bo9bo6bobo$21boob3oboo4bobbobobbo$20b
+ooboobooboobbooboobooboo$20boo7boobb4obob4o$4bo3bo14bo3bo9b3o$3b3ob3o
+14bobo11bo$3b3ob3o13booboo$$4bo3bo15bobo$3bobobobo12boo3boo$bbo7bo$bbo
+7bo11boo3boo$3boo3boo12bobobobo$bobob3obobo11booboo$o11bo7b3obobob3o$b
+obobbobbobo$3bobobobo10bo9bo$4booboo12b3o3b3o$booboobooboo12b3o$$5bobo
+$4booboo$4booboo$4bo3bo$4bo3bo$$3boo3boo$3bobobobo$5bobo$bbooboboboo$b
+o9bo$bboo5boo$bb9o$3b7o$6bo6$91b3ob3o$$91bobobobo$91bobobobo$92bo3bo$
+91boo3boo$90boo5boo$90bo7bo$91b7o$90boob3oboo$88boobbooboobboo$90bobob
+obobo$90booboboboo$90bo7bo6bo3bo$91b3ob3o7bo3bo$92booboo7bobobobo$92b
+ooboo$104bobobobo$91bo5bo8bobo$91boo3boo5bobo3bobo$103bobo3bobo$91boo
+3boo5bobb3obbo$91boo3boo$91bobobobo4boo7boo$90booboboboo3bo9bo$90bobo
+3bobo4bo7bo$89bobbo3bobbobboob5oboo$89bo3b3o3bo3bobbobobbo$104bobobobo
+13b3ob3o$90bo7bo26bo3bo$92bobobo8booboo$105bo3bo15bo3bo$104boo3boo13bo
+bobobo$104boo3boo14booboo$122booboboboboo$104boo3boo13bob3obo$103bobbo
+bobbo10boo3bo3boo$106bobo13boo7boo$103bobbobobbo10bo9bo$102boobooboob
+oo10boob3oboo$102b4obob4o9booboobooboo$106b3o13boo7boo$107bo17bo3bo$
+126bobo$125booboo$$126bobo$124boo3boo$$124boo3boo$124bobobobo$125boob
+oo$122b3obobob3o$$122bo9bo$123b3o3b3o$126b3o!

@@ -1,0 +1,22 @@
+#C Converts a glider to a MWSS.
+#C David Bell, 23 Sep '06
+x = 148, y = 101, rule = B3/S23
+39boobo$38b3obo6bobo$37bo4bobo4bo$38boo6bobo3bo$39bo3bobbobboo27b3o$
+42boboo3bo27bo3bo$41bobo16boo14bo4bo$41bobo16boo13bo3bo$75bobbob3o$75b
+o7bo$77bo3bobo$28bo3boobboobo37bo3boboo$28bo3boo4boboo37b3oboo$28bo3b
+oobbooboo54boo$32boo34boo25boo$30bobbo25boo7boo$30bobo13bo9bob4o$31bo
+9bo3b5o5boobo3boo15boo38bo$40bobo7boo4bobbooboo15boo38bo5b3o$40bo7bob
+oo5b6o17bo37bobo3boobbo$41bo8boo6bo60bo3bo5bo$42bo3b4o30bo22boo14bo3bo
+$47b3o53boo19bobboo$125boo11boo$78bo5b3o51boo$47boo29bo7bo$47b3o22bo5b
+o5bobo$46bob3o20b3o10boo$31boobb5o7bob3o18b3obo$31bo7bo7b4o18bo3bo$31b
+o4boboo8boo18boobbobbo$35b3o29b3obb4o70boo$69bo3bobbo55bo13boo$69bo6bo
+45boo9boo$55bo15bobbo46bob3o8boo$54bobo16booboo43bo3bo10bo$38boo14bobb
+o15bo48boobo5b5o$38boo15boo66bo10bo$$24bo3boobboobo37bo$24bo3boo4boboo
+34b3o44bo$24bo3boobbooboo34bobobo35b3o3b4o$28boo33bo6b3ob3o34bobo3boob
+oo$26bobbo32bobo6bobobo35b3obbo$26bobo33bobbo6b3o41boo3bo$5bo21bo35boo
+8bo43b4o$6boboobobo62boo40b3o$3o3b4o3bo60booboo$6bobbooboo57bobboo3bo$
+5bo65bobo3boo$3b3o68b4o$3b3o68b3o$24b3o$23bobbo$23bo$23bobbo$23bobbo$
+25b3o$24bobo$24bo$26bo$20b3o4boo$19boboo6bo$5bobooboo7boboo5boo$4b5obb
+oo7b3obo3bo$4bobb3obo8boo5bo$10bo12bobboo$23boobo3boo$25bo3$11boo$11b
+oo$$22bo$22bo$23bo$$22boo$20bobbobo$20bo4bo$20bo$21b3o16$26b3o$28bo$
+27bo!

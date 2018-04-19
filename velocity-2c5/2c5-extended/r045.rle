@@ -1,0 +1,25 @@
+x = 65, y = 150, rule = S23/B3
+26bo7bo$25b3o5b3o$25bo2bo3bo2bo$26b2obobob2o$22bo3b2obobob2o3bo$21bobo
+5bobo5bobo$20b2ob2o3b2ob2o3b2ob2o$21bo7bobo7bo$21bo7bobo7bo$21bo2bo3b
+2ob2o3bo2bo$22bo15bo$21b3o13b3o2$24bo11bo$24bo11bo$21b3o2bo7bo2b3o$21b
+2o4bo5bo4b2o$27bo5bo$24bo2bo5bo2bo$25b2o7b2o$25bo2bo3bo2bo$25bo3bobo3b
+o$25b2o2bobo2b2o$24bobob2ob2obobo$26bo7bo$25b2o2bobo2b2o2$27bobobobo2$
+28bo3bo$27bobobobo$22bo3b2obobob2o3bo$20b2ob2o4bobo4b2ob2o$23b2o4bobo
+4b2o2$21bo2b2o9b2o2bo$21bo3bo9bo3bo2$22bo4b2o3b2o4bo$23bobobobobobobob
+o$26bo7bo$27bo5bo$27bob3obo$26b3obob3o$26b2o5b2o2$26bo7bo$26bo7bo$26b
+3o3b3o$23b2ob2o5b2ob2o$23b2ob2o5b2ob2o$26bobo3bobo$10bo11bo3bob2ob2obo
+3bo$9bobo12bobobo3bobobo$8b2ob2o12b2o2bobo2b2o$3bo7b2o3bo9b3o3b3o$2b3o
+5b3ob2ob2o8b2o3b2o$2ob4ob2ob2ob2ob2o10b3o$o5bo2bob2ob2o13b3o18b3o$9bob
+o4b2o2bo9bo19bobo$b3o12bo3bo28bo2bo4bo$2b2o13bobo23b3o6bo3bobo$17bobo
+22bo3bo2bo2bo2b2ob2o$17bob2o20b2o4b4obo3bo2bo$17b4o13b2o6b2o4bo3bo4b2o
+b2o$17b2o14bo2bo5b2o3bo3bo7b2o$25b3o6b2o9bo12b2o$23b3obo5b3o8bo13bo$
+21b4obobob2o22bo5b2o$21bobo5bo2b4o22b3o$21bo2bo5b2o7b2o14bobo$22b3o6bo
+$23bo7b3o$31bobo$30bo2bo$30bobo$30b3o$26b3o$46b3o$30bo14bo3bo$30bo14b
+2ob2o$30bo15bobo$43b3obobo2b3o$48bo3b3o$43b2o7bo2bo$52bo$53bo$34b2o16b
+obo$34b2o$33bo4b3o$32bob2o2b3obo$19bo11b2obo2bo2b4o$18b3o9bo3bo7b2o$
+17b2ob2o9bo2b3o5bo$32b4o5bo$16bobobobo2bo11bo$15b2o3bo3b3o10bobo$15b2o
+3bo6bo$25bobo$23bobo$24bo2bo$27bo11$45b3o$28b3o13bo3bo$44b2ob2o$28bo
+16bobo$27bobo9b3o2bobob3o$29bo2bo6b3o3bo$27b3o4bo3bo2bo7b2o$32b3o6bo$
+40bo$39bobo8$24bo$23b3o$22bo3bo$22b2ob2o$18bo21bo$17bobo2bob4o12b2o$
+16bo3bo2bo2bo12bobo$17bob2o$18b2o$18b2o$18bo$51b2o$50bobo$52bo5$62b2o$
+63b2o$62bo!

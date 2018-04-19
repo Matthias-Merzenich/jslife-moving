@@ -1,0 +1,29 @@
+#C Back LWSS rake by Noam Elkies and Paul Callahan
+x = 104, y = 207, rule = B3/S23
+24b6o$24bo5bo$24bo$13boo10bo4bo$12boob3o9boo4b5o$13b5o15bo4bo$b4o9b3o
+16bo$bo3bo22bo5bo3bo$bo26boo6bo$bbo26bo$4boo9boo7boo3bo$14bobbo6boo4b
+oo51boo$boo3boobo5bobo64bobo$oob3ob3o7bo66bo$b7o9boo7bo28b4o$bb4o19bo
+29bo3bo$25b3o27bo$56bobbo$$6b6o$6bo5bo$6bo$7bo4bo13bo7bo$9boo13bo3bo4b
+o16bo$23bo9b3o13bobo$13bobbo6bo4bo19bo3bo$4boo6bo10b5o11boo7bo3boo$3b
+ooboo4bo3bo23boo6bobobbo$4b4o4b4o23bo8bo$5boo23boo35b3o$22bo8boo33b5o$
+12bo9boo6bo19boo13boob3o$7b3o3bo10bo41boo$6b3obo3bo8b3o$5boo6bo$6bob5o
+$7boo11bo$9boo$25boo$24booboo$7b5o13b4o$7bo4bo13boo$7bo$8bo3bo$10bo16$
+30boo$29boob4o$30b6o$16bo14b4o27boo$14bo3bo42boob3o$13bo48b5o$13bo4bo
+44b3o5b3o$13b5o52b5o$5boo62boob3o$4booboo26boo3boo28boo$5b4o14b3o5boo
+bboo3boo$6boo7boo4booboo5boo$7bo7boo4booboo25boobboo$5bo3bo8bob3o12b3o
+13b6o22boo$4bo5bo7b3obbo10b4o13boobboo21boob4o$4bo5bo7bo14bo3bo41b6o$
+4b6o7boo14bobo44b4o$34bo12boo$$42boo49bo$15b5o20bobo50boo$15bo4bo20bo
+50bobo$15bo$16bo3bo$18bo50b3o$68b5o$67boob3o$68boo$$79b6o$79bo5bo$79bo
+$80bo4bo$82boo16$30boo$29boob4o$30b6o$16bo14b4o27boo$14bo3bo42boob3o$
+13bo48b5o$13bo4bo44b3o5b3o$13b5o52b5o$5boo62boob3o$4booboo26boo3boo28b
+oo$5b4o14b3o5boobboo3boo$6boo7boo4booboo5boo$7bo7boo4booboo25boobboo$
+5bo3bo8bob3o12b3o13b6o$4bo5bo7b3obbo10b4o13boobboo$4bo5bo7bo14bo3bo$4b
+6o7boo14bobo$34bo12boo$99bobbo$42boo59bo$15b5o20bobo56bo3bo$15bo4bo20b
+o58b4o$15bo$16bo3bo$18bo34$10bobbo$9bo$9bo3bo$9b4o4$9b7o$9bo6bo6bo$9bo
+13b3o$10bo5bo$12boobbo7b4o14b3o21b3o$15boobboo4bobboo$12boobbobboo4bo
+bboo10bo5bo17bo5bo$11bo3boo7bo3boo10bo5bo17bo5bo$11bo3boo16bobo4bo5bo
+17bo5bo$11b3obo9b3o7bo$15boo14bobobbo5b3o21b3o$14b3o14bo4bo$14boo18bo$
+31bo3bo$31bobbo$11boo19b3o$10boob4o$11b6o36bo5bo$12b4o36boo5boo$51boo
+7boo7boo3boo$69boobbobbo$50booboo3booboo11boo$52b4ob4o$47b3obbobooboob
+obb3o$47bo7b3o7bo$47b3o6bo6b3o3boo$51b3o5b3o7boo$53bo5bo$55b3o$55b3o$
+55b3o13boo$71bobo$72bo!

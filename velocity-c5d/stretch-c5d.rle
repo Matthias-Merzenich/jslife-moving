@@ -1,0 +1,16 @@
+#C Double tubstretcher by Matthias Merzenich, 27 Jan 2011
+#C Boateater by Nicolay Beluchenko and Matthias Merzenich
+x = 94, y = 75, rule = B3/S23
+45b2o$45b2o$44bo2bo$41b2obo2bo$47bo$39b2o3bo2bo$39b2o5bo$40bob5o$41bo
+3$38b3o$38bo$36b2o$30b2o4bo$30b3o3bo$28bo4bo$28bo3bo$32bo$27b2obobo$
+25b2o5bo$25b2o4b2o$27b4o3$20b2o8bo$20b2o7b3o$19bo2bo5bo$16b2obo2bo4bob
+obo$22bo3bobo2bobo$14b2o3bo2bo2b2o5bo2bo$14b2o5bo4bob2o3b3o$15bob5o8bo
+$16bo12bobo4b2o3b3o$31bo3bo2bo2b3o$30b2o2bob3ob2o$13b3o17bobo4bo$13bo
+19bobo4b2ob3o$11b2o21b2o5b3obo$5b2o4bo29bobo2b2o$5b3o3bo23b3o3bob2o2bo
+9bo$3bo4bo24b3ob4ob5o3bo5b2o16b2o$3bo3bo25b2o3bo2bo4bo2bobo3b2o3b5ob2o
+b3obo3b3o3b2o$7bo25b2o2b5o8b2o2bo3b2o2bobob3o2bo2bo5bo2b2o2bobo$2b2obo
+bo29bo2b2o12bo2b6o6bo5bo3b2o2bob3o2bo$2o5bo29b2o2bo11bo3bo8bobo7bo7b3o
+2bo2b2o$2o4b2o31bob2o10bo2bo6bo28b2o$2b4o33b2o12bobo8bo$54bo32bo$42bo
+12b2o29b3o$41bobo$42bo$86bo2bo$88bo$85b2o$85b3o$86b3o$86b2o$89bo$86bo
+2bo2$85bo2bo$85bo$84bo2bo$83bo$77bo3b2o$76b4o$75bo7bo$74b5o$74bobobo$
+73b5o4bo$72bo5bo2bo$71b2obo2bo$74bo2bo$75bo!

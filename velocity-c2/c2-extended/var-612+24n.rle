@@ -1,0 +1,19 @@
+#C p612 (+24n) rake
+#C Delaying the spaceships to the right of the
+#C dotted line by 6 generations increases the
+#C period by 24 generations.
+#C By David Bell, 6 Jun 2001, updated Apr 2004
+x = 150, y = 63, rule = B3/S23
+43b3o$42b6o8b3o$41boob5o6b6o$42boo4bo5boob5o$55boo4bo$46bo$46boobo9bo$
+46b3o10boobo$44boo13b3o$43boobo10boo$42boo12boobo$43bobo9boo$44bo11bob
+o$45bo11bo52b4o$47boo9bo51bo3bo$47bo12boo10bo17bo19bo23b4o$42b4o14bo9b
+o3bo13bo3bo18bobbo19bo3bo$41b6obo6b4o10bo17bo46bo$40boob4obboo3b6obo7b
+o4bo12bo4bo42bobbo$bb5o34boo10boob4obboo5b5o13b5o$bbo4bo15boo29boo$bbo
+19boob4o$3bo19b6o$5bobo16b4o$7bo$51bo$5boo$4oboobo$obb4o44bo$o3b4o6boo
+bobboo$b3obboo5bobob5o$6boob3obo37bo$b3obboo5bobob5o122b5o$o3b4o6boobo
+bboo122bo4bo$obb4o44bo92bo$4oboobo136bo3bo$5boo140bo$51bo$7bo$5bobo16b
+4o$3bo19b6o65b6o$bbo19boob4o65bo5bo$bbo4bo15boo29boo11boo18b4o3bo$bb5o
+34boo10boob4obboobboob4o13b6o3bo4bo$40boob4obboo3b6obo5b6o12boob4o5boo
+$41b6obo6b4o9b4o14boo$42b4o14bo$47bo12boo$47boo9bo$45bo11bo$44bo11bobo
+$43bobo9boo$42boo12boobo$43boobo10boo$44boo13b3o$46b3o10boobo$46boobo
+9bo$46bo$55boo4bo$42boo4bo5boob5o$41boob5o6b6o$42b6o8b3o$43b3o!

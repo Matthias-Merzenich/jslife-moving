@@ -1,0 +1,13 @@
+#C Nicolay Beluchenko, 8 Nov '08
+#C No way to support the other side of this wave is known.
+x = 64, y = 59, rule = B3/S23
+26bo$18bo5booboo$17b3o4boobboboo$16bo5booboo5boo$16b3o3boboo6booboo$
+18boobbo7boo5boo$9bo13b3o11booboo$8b3o4b5o5boo8boo5boo$8bo3boob4o3bo4b
+o14booboo$5b5o4bo7bo4bo12boo5boo$3boob4obbobboo8b3o19booboo$6bobb3o13b
+oo18boo5boo$7bo4bo39booboo$9b6o11boo22boo5boo$4bob3o6bo41booboo$11bo3b
+oo38boo5boo$4bobo4bo3bo46boo$3b3o4bo4bo44boo$3bo6b6o$10bo4bo$10boboo$
+11boo$4bo6b3o$3b3obb3o$bboobboo6boo$3bobbo3b3ob3o$3bo7bobb3o$3bo6boobb
+oo$4boo$10boo$10b3o$7boo3boo$6boboo4bo$6b4oboobbo$8b3o4bo$6bobob4oboo$
+6bo8boo$6boboboob3o$6bo3bobbo$5booboboo$5boo3bo$7boboo$7bo$$5boo$4boo$
+7bo$bb6ob3o$oo5bo4bo$3o4boobobo$oobbob3obo$bbob3o$bboob3obbo$boboobbob
+o$$6boo$5b5o$5boobbo$8bo!

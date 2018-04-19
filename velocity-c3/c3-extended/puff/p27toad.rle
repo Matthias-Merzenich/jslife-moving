@@ -1,0 +1,32 @@
+#C A period 27 c/3 toad puffer.
+#C This uses the impact of a period 27 backward rake into the smoke
+#C of a period 27 ship.
+#C David I. Bell, October 2002
+x = 72, y = 132
+11b3o11b3o$10bo17bo$11bobb3ob3ob3obbo$13bobbobobobobbo$15booboboboo$
+15bobbobobbo$18bobo$15bobbobobbo$16bobobobo$16bobobobo$13boobobobobob
+oo$13booboboboboboo$10b3o3bobobobo3b3o$9bo5booboboboo5bo$10boboobbobob
+obobboobo$13booboboboboboo$13booboboboboboo$14bobobobobobo$16bobobobo$
+12bobobobobobobobo$11b3obooboboboob3o$11b5obbobobb5o$15booboboboo$11b
+oo5bobo5boo$10bobbo4bobo4bobbo$11bobobbobobobobbobo$10booboo9booboo$
+10boobobobb3obboboboo$$10boo3b3o3b3o3boo15b3o11b3o$9bo19bo13bo17bo$8b
+oo3boo4bo4boo3boo13bobb3ob3ob3obbo$11b3o11b3o18bobbobobobobbo$11bo15bo
+20booboboboo$8boobobo11boboboo17bobbobobbo$8booboboboo5booboboboo20bob
+o$11boboboo5boobobo20bobbobobbo$10bobob3o5b3obobo20bobobobo$49bobobobo
+$12b3o9b3o19booboboboboboo$12b3obobobobob3o19booboboboboboo$13b5obob5o
+17b3o3bobobobo3b3o$18bobo21bo5booboboboo5bo$18b3o22boboobbobobobobboob
+o$15bobo3bobo22booboboboboboo$46booboboboboboo$13boob3ob3oboo21bobobob
+obobo$13bo11bo23bobobobo$12bobbo7bobbo18bobobobobobobobo$12bo4bo3bo4bo
+17b3obooboboboob3o$17bo3bo22b5obbobobb5o$11b6o5b6o20booboboboo$10boo
+15boo4bo10boo5bobo5boo$17b5o10b4o7bobbo4bobo4bobbo$17b5o9bo3boo7bobobb
+obobobobbobo$17booboo7b3o5bo5booboo9booboo$7bo10b3o5boo4bobo8boobobobb
+3obboboboo$5b4o9b3o5boo4b4obo$booboo3bo3bo12b4ob8o4boo3b3o3b3o3boo$boo
+bbo5b4o5bo16boo3bo19bo$obbo7bo14boo5bo7boo3boo4bo4boo3boo$9bobbobo6bo
+3bobbo3bobo9b3o11b3o$10bo5boboobo4bobbobo12bo15bo$19boo9b4o7boobobo11b
+oboboo$18bobbo8b4o7booboboboo5booboboboo$18bobo7bobbo12boboboo5boobobo
+$19bo23bobob3o5b3obobo$$45b3o9b3o$45b3obobobobob3o$46b5obob5o$27bobo
+21bobo$28boo21b3o$28bo19bobo3bobo$$46boob3ob3oboo$46bo11bo$45bobbo7bo
+bbo$45bo4bo3bo4bo$50bo3bo$44b6o5b6o$43boo7bo7boo$51bobo$51b3o$$64bo$
+35bo27b4o$36bo21bo3bo3booboo$34b3o20b4o5bobboo$56bo3bo7bobbo$57bobobbo
+$51b3o7bo$49boo$49bo4bo$49bo4bo$50bo3bo$52bo5$40boo$42bo$39bo$40boo6$
+41bo$40boo$40boo$40bo6$40boo$42bo$39bo$40boo6$41bo$40boo$40boo$40bo!

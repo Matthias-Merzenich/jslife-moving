@@ -1,0 +1,32 @@
+#C David Bell, 21 Jun 2005
+x = 407, y = 412, rule = B3/S23
+48bo$47b3o$46booboo$45boobobo$44b3obb3o$45bo6bo$46b5obo$47b4oboo$52bo$
+51bo12boo$64boo3$49bo$47boobo$$50bo$47bobbo21boo$48bo23boo$$53boo$46b
+3o5boo$53boo$40b3o10bo$39bo3bo$38bo4bo$37bo3bo$37bobbob3o$37bo7bo$39bo
+3bobo$39bo3boboo$41b3oboo5$41boo$26b3o12boo$25bo3bo12bo$24bo4bo$23bo3b
+o14bo$23bobbob3o$23bo7bo$25bo3bobo8bo5bobo$4bo20bo3boboo7bo7bo$3b3o21b
+3oboo7bo4bobbo$bbooboo37bobbo$boobobo$3obb3o34b3o$bo6bo$bb5obo$3b4oboo
+$8bo$7bo12boo$20boo3$5bo$3boobo15booboboo$21boobo3bo$6bo15bobobobo$3bo
+bbo16bo$4bo$$9boo$bb3o5boo$9boo$9bo11b4o30bo$20boboo32bo$20bobo31b3o$$
+15bo$13bobboo$8boo3bobb4o$8boo3boboobo$16boobo60bo$16bo61bobo$14bo4bo
+59boo$14b3o$14boob3o$17b3o$16bobo$16boo17$87bo$88bo$86b3o6$112bo$110bo
+bo$111boo13$127boo$$126bo3bo$131bo$124bo7bo$123bo4bo$124bobobo4bo$124b
+o8bo$125bo4boobo$119bo6boboob3o$120bo6b3oboo$118b3o23boo$144boo5$144bo
+$142bobo$143boo7boo$152boo$134boo$127bo5bobboo$127bo4b3obbo$127bo4bo4b
+o$132b5o$133boo$160boo$160boo3$132boo$132boo3$168boo$168boo3$140boo$
+140boo$151bo$152bo$150b3o23boo$176boo3$148boo$148boo$176bo$174bobo$
+175boo7boo$184boo3$156boo$156boo3$192boo$192boo3$164boo$164boo3$200boo
+$200boo3$172boo$172boo$183bo$184bo$182b3o23boo$208boo3$180boo$180boo$
+208bo$206bobo$207boo7boo$216boo3$188boo$188boo3$224boo$224boo3$196boo$
+196boo3$232boo$232boo3$204boo$204boo$215bo$216bo$214b3o23boo$240boo3$
+212boo$212boo$240bo$238bobo$239boo7boo$248boo3$220boo$220boo3$256boo$
+256boo3$228boo$228boo3$264boo$264boo3$236boo$236boo$247bo$248bo$246b3o
+23boo$272boo3$244boo$244boo$272bo$270bobo$271boo7boo$280boo3$252boo$
+252boo3$288boo$288boo3$260boo$260boo25boo$$286bo3bo$291bo4boo$284bo7bo
+3boo$283bo4bo$284bobobo4bo$268boo14bo8bo$268boo15bo4boobo$279bo6boboob
+3o$280bo6b3oboo$278b3o4$276boo$276boo$304bo$302bobo$303boo22$311bo$
+312bo$310b3o6$336bo$334bobo$335boo22$343bo$344bo$342b3o6$368bo$366bobo
+$367boo22$375bo$376bo$374b3o4$388bo$386booboo$388bo11bo$398bobobboo$
+399boobobbo$389boo11booboo$388bobbo11bo$387boo3bo10b3o$387bo4bo$387bo
+3bo$388bobbo$389bo$$405bo$401bo3bo$402bobbo$398boobbooboo$398boo3bobo$
+404bo!

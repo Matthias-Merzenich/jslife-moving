@@ -1,0 +1,35 @@
+#C A period 27 c/3 forward rake.
+#C This uses a period 27 backward rake whose gliders impact into the smoke
+#C of a period 27 ship to create forward gliders.  The backward rake and
+#C smoking ship were found by Paul Tooke.
+#C David I. Bell, November 2002
+x = 77, y = 115
+16b3o11b3o$15bo17bo$16bobb3ob3ob3obbo$18bobbobobobobbo$20booboboboo$
+20bobbobobbo$23bobo$20bobbobobbo$21bobobobo$21bobobobo$18boobobobobob
+oo$18booboboboboboo$15b3o3bobobobo3b3o$14bo5booboboboo5bo$15boboobbobo
+bobobboobo$18booboboboboboo$18booboboboboboo$19bobobobobobo$21bobobobo
+$17bobobobobobobobo$16b3obooboboboob3o$16b5obbobobb5o$20booboboboo$16b
+oo5bobo5boo$15bobbo4bobo4bobbo$16bobobbobobobobbobo17bo13bo$15booboo9b
+ooboo15boo13boo$15boobobobb3obboboboo14bobb3o3bo3b3obbo$52b3obobob3o$
+15boo3b3o3b3o3boo22bobo$14bo19bo17b3obobob3o$13boo3boo4bo4boo3boo17boo
+boboboo$16b3o11b3o22booboo$16bo15bo23bobo$13boobobo11boboboo17boobobob
+oo$13booboboboo5booboboboo18bobobobo$16boboboo5boobobo18booboboboboboo
+$15bobob3o5b3obobo15bobbobobobobobobbo$48b5obobobobob5o$17b3o9b3o15bo
+3bobooboboboobo3bo$17b3obobobobob3o18boobbobobobobboo$18b5obob5o23bobo
+bobo$23bobo28bobobobo$23b3o25booboboboboboo$20bobo3bobo22bobbobobobobb
+o$49booboboboboboboboo$18boob3ob3oboo23bobobobo$18bo11bo18bo6bobo6bo$
+17bobbo7bobbo21booboboboo$17bo4bo3bo4bo17boo5bobo5boo$22bo3bo21bobbo4b
+obo4bobbo$16b6o5b6o16bobo3bo3bo3bobo$15boo15boo4bo12bobobooboobobo$22b
+5o10b4o7boobo5bo5boboo$22b5o9bo3boo8boboob5oboobo$22booboo7b3o5bo5bo5b
+o5bo5bo$12bo10b3o5boo4bobo6boo4b3o5b3o4boo$10b4o9b3o5boo4b4obo3b3obboo
+9boobb3o$6booboo3bo3bo12b4ob8o4booboo9booboo$6boobbo5b4o5bo16boo5bobo
+11bobo$5bobbo7bo14boo5bo7boobobbo9bobboboo$14bobbobo6bo3bobbo3bobo6boo
+boboboo5booboboboo$15bo5boboobo4bobbobo10bobobo3bo3bo3bobobo$24boo9b4o
+10b4obo5bob4o$23bobbo8b4o10boo13boo$23bobo7bobbo13boboo7boobo$24bo29bo
+b3obo$50bo3bo5bo3bo$52b3o5b3o$55booboo$56b3o$32bobo17boobbobobboo$33b
+oo16boobbo3bobboo$33bo16boob3o3b3oboo$50boo11boo$54bo5bo$49bobboobo3bo
+boobbo$48b7o5b7o$48boob3o3bo3b3oboo$56bobo$56bobo$57bo$68boo$68booboo$
+62boo4boobb4o$62booboo4bo4bo$40bo20bo3boo7boo$41bo15bo7boo$39b3o13b3o$
+54b5o$53boo$54boobb3o$58bo6$41boo14bo$41bobo12b4o$35bo5bo9bo3bo3booboo
+$34boo14b4o5bobboo$34bobo12bo3bo7bobbo$27b3o20bobobbo$27bo26bo$21boo5b
+o$20boo$14boo6bo$14bobo$8bo5bo$7boo$7bobo$3o$o$bo!

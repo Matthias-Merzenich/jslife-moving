@@ -1,0 +1,38 @@
+#C Either of these p98 puffers could be turned into a
+#C (probably very large) p98 rake by using p2 glider
+#C duplicators and turners.
+x = 46, y = 207, rule = B3/S23
+11bo$8b4o$8boo$6bo3boo$6b4obo$3bobo$bb6o$boo5bo$oo4bo$bobobboo$7b3obo$
+boo6bobo$bobbo6boo$bbobbo4boo$bb3o4bobbo$3bo4bo$3boo3bo$3bobobo4bobo$
+3boo4bobobbo$4boboo3bo$7boo4bo$4b3o5bo$5boo5bobbo$6boobbobobbo$7boobob
+o$12bobbo$7booboboo$6boobbobobbo$5boo5bo$4boobobbobobbo$3bobb3obobobbo
+$3bo8bo20boo$3bobb3obobobbo17boboo$4boobobboboo19bo3bo$5boo5bobbobbo
+15boobbo$6boobbobo4b3o15bobbo$7boobobo3booboo14boboo$12bo3boobboo$7boo
+bobo3booboo13boo$6boobbobo4b3o10boobb3o$5boo5bobbobb3o13b3o$4boobobbob
+oo6boo$3bobb3obobobbo3bobbo$3bo8bo10bo$3bobb3obobobbo7boo$4boobobbobo
+bbo7b3o$5boo5bobbo7boo$6boobbobo10bo20boo$7boobobobbo3bobbo21boo$12boo
+6boobb3o$7boobobobbo8bo$6boobbobo10bobo$5boo5bo3b6obboo$4boobobbobo3b
+7oboo8b3o$3bobb3obobo3b6obboo$3bo8bo10bobo$3bobb3obobobbo8bo$4boobobbo
+boo6boobb3o$5boo5bobbo3bobbo21boo$6boobbobo10bo20boo$7boobobobbo7boo$
+12bobbo7b3o$7boobobobbo7boo$6boobbobo10bo$5boo5bobbo3bobbo$4boobobbob
+oo6boo$3bobb3obobobbobb3o13b3o$3bo8bo4b3o10boobb3o$3bobb3obobo3booboo
+13boo$4boobobbobo3boobboo$5boo5bo3booboo14boboo$6boobbobo4b3o15bobbo$
+7boobobobbobbo15boobbo$12boo19bo3bo$7boobobobbo17boboo$6boobbobo20boo$
+5boo5bobbo$4b3o5bo$7boo4bo$4boboo3bo$3boo4bobobbo$3bobobo4bobo$3boo3bo
+$3bo4bo$bb3o4bobbo$bbobbo4boo$bobbo6boo$boo6bobo$7b3obo$bobobboo$oo4bo
+$boo5bo$bb6o$3bobo$6b4obo$6bo3boo$8boo$8b4o$11bo10$11bo$8b4o$8boo$6bo
+3boo$6b4obo$3bobo$bb6o$boo5bo$oo4bo$bobobboo$7b3obo$boo6bobo$bobbo6boo
+$bbobbo4boo$bb3o4bobbo$3bo4bo$3boo3bo$3bobobo4bobo$3boo4bobobbo$4boboo
+3bo$7boo4bo$4b3o5bo$5boo5bobbo$6boobbobobbo$7boobobo$12bobbo$7booboboo
+$6boobbobobbo$5boo5bo$4boobobbobobbo$3bobb3obobobbo$3bo8bo$3bobb3obobo
+bbo$4boobobboboo5bo$5boo5bobbo3boo$6boobbobo6b3o$7boobobo8boo$12bo8b3o
+$7boobobo8boo$6boobbobo6b3o$5boo5bobbo3boo$4boobobboboo5bo$3bobb3obobo
+bbo$3bo8bo$3bobb3obobo4bo5bo$4boobobbobo4bo5bo$5boo5bo4bo5bo$6boobbobo
+$7boobobobbo$12boo11b3o$7boobobobbo$6boobbobo$5boo5bobbo$4boobobbobobb
+o6b3o$3bobb3obobobbo$3bo8bo$3bobb3obobobbo$4boobobboboo11b3o$5boo5bobb
+o$6boobbobo$7boobobo4bo5bo$12bo4bo5bo$7boobobo4bo5bo$6boobbobo$5boo5bo
+bbo$4boobobboboo5bo$3bobb3obobobbo3boo$3bo8bo6b3o$3bobb3obobo8boo$4boo
+bobbobo8b3o$5boo5bo8boo$6boobbobo6b3o$7boobobobbo3boo$12boo5bo$7boobob
+obbo$6boobbobo$5boo5bobbo$4b3o5bo$7boo4bo$4boboo3bo$3boo4bobobbo$3bobo
+bo4bobo$3boo3bo$3bo4bo$bb3o4bobbo$bbobbo4boo$bobbo6boo$boo6bobo$7b3obo
+$bobobboo$oo4bo$boo5bo$bb6o$3bobo$6b4obo$6bo3boo$8boo$8b4o$11bo!

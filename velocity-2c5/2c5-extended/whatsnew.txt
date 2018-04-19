@@ -1,0 +1,46 @@
+Changes since 4th November 2003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Added Jason Summers' p160 puffer and improvements to p185 rake.  Added puffers
+of period 55, 65, 110, 145 & 155 and rakes of period 55, 65, 105, 110, 115, 135,
+145, 155, 160 & 165.  Improved p45 rake.
+
+
+Changes since 21st May 2002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Added puffers of periods 20,40,60 & 85.
+
+Added rakes of periods 35 (by Jason Summers),40,45,70,85,90,95,100,120,125,130,140,150,
+170,175,180,190 & 195.
+
+Improved period 200+5N rake using a catalysed 3g -> LWSS reaction suggested by David Bell
+
+
+Changes since 22nd March 2002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Added period 200+5N rake (var200) 
+
+Added new variable period puffers (var630.lif and var640.lif).  Made a slight
+improvement to the variable period puffer in var880.lif (it's now var760.lif).
+
+Added puffers and variants of periods 10,15,20,25,30,35,50,125,210 and 320.
+
+Added spaceships of periods 15, 25, 35 and 80.
+
+Added rakes of periods 20 and 25 (both by Jason Summers), 30, 75 and 80.
+
+
+Changes since 15th March 2002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Added new spaceships of period 25 and 45
+
+Replaced period 15 double blinker puffer with Stephen Silver's improvement.
+
+Improved two period 20 puffers
+
+Added new puffers of periods 20(x2),25(x3),40(x2),45(x2),50,80,90,135,225,270
+
+Added new rakes of periods 20 & 50.

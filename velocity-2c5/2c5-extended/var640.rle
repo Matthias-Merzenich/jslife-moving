@@ -1,0 +1,23 @@
+#C Period 640+80N 2c/5 puffer
+#C The pattern shown is period 640.
+#C Moving the two rearmost ships back by 13N cells and out by 5N increases
+#C the period by 80N
+x = 70, y = 112, rule = S23/B3
+26bo16bo$25b3o14b3o$25bobbo12bobbo$26b3o12b3o$25bo18bo$24boob5o6b5oboo
+$24booboo3bo4bo3booboo$30bobbobbobbo$29bobbo4bobbo$27boboboo4boobobo$
+27bo14bo$32bo4bo$28bo4bobbo4bo$28bo3bo4bo3bo$28bo12bo$28bo12bo$29bo10b
+o$27boo12boo$27b3o10b3o$29bo10bo$27bobbo8bobbo$27bobobo6bobobo$29b3o6b
+3o$29boo8boo$30bo8bo$28bobo8bobo$27bobbo8bobbo$27bobo10bobo$27bo14bo$
+29bo10bo$27bo14bo$28boo10boo$26b3o12b3o$30boo6boo$26bobbobbo4bobbobbo$
+27b6o4b6o$27bo6boo6bo$28bobb3obb3obbo$27bo4bo4bo4bo$26booboobb4obboob
+oo$26b3o12b3o$26bo5boobboo5bo$$32bo4bo$29b3o6b3o$29bobbo4bobbo$29b4ob
+oob4o$31boobooboo$31boo4boo$31bobobbobo$31bo6bo$29b3obboobb3o$33b4o$
+30boobobboboo$31bobobbobo$29bo3bobbo3bo$30boob4oboo$31b8o5$31b3obb3o$
+29boobbobbobboo$30boboobboobo$30boo6boo3$31b3obb3o$31bobobbobo$26bo3bo
+bbobbobbo3bo$25b3obbo3boo3bobb3o$24bo20bo$24bobo16bobo$26bobo12bobo$
+24bobbo14bobbo$24bo9boo9bo$33bobbo$34boo$$34boo$33bobbo$33b4o$33bobbo
+$$31bo6bo$31boobooboo$19b3o26b3o$18bo3bo24bo3bo$18booboo24booboo$19bob
+o26bobo$13b3obbobob3o20b3obobobb3o$13b3o3bo30bo3b3o$12bobbo7boo20boo7b
+obbo$15bo38bo$14bo40bo$13bobo38bobo5$4bo60bo$3b3o58b3o$bbooboo56booboo
+$$bobobobobbo48bobbobobobo$oo3bo3b3o46b3o3bo3boo$oo3bo6bo44bo6bo3boo$
+10bobo44bobo$8bobo48bobo$9bobbo44bobbo$12bo44bo!

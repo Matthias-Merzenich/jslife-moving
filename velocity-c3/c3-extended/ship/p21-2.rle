@@ -1,0 +1,16 @@
+#C A period 21 c/3 spaceship.
+#C The engine was found from a truncated spaceship search, and was the
+#C first success of such a search other than period 2 spaceships.
+#C Paul Tooke, January 2002
+x = 68, y = 19, rule = S23/B3
+11bo16bo31boo$10bobo14bobo5bobob3o13boobbo3bo$4bobo3bo3boo10bo6bobbo8b
+ob3o3boo3booboboo$4bo5bobobobo8bobboobobobboobo4boo3boboo3b3o5bo$b3o  
+10bo8b5o12boo6bo3booboob5obo$boobo4boo6bo4bo6bo11bo3bo4boo4bo7bo$obboo
+3boboob3o5boo3boo9boobbo3b3o3boo4b3o4b3o$obboobbob3o4boobo3bobboo6bobb 
+4o3boboobobobo4bo8bo$obbobo3bo6bo3boo11bobo3bo7bobo5bo3bob6o$5boo12boo
+11bobbo3booboobboob3obb3ob3o$obbobo3bo6bo3boo11bobo3bo7bobo5bo3bob6o$o
+bboobbob3o4boobo3bobboo6bobb4o3boboobobobo4bo8bo$obboo3boboob3o5boo3b 
+oo9boobbo3b3o3boo4b3o4b3o$boobo4boo6bo4bo6bo11bo3bo4boo4bo7bo$b3o10bo
+8b5o12boo6bo3booboob5obo$4bo5bobobobo8bobboobobobboobo4boo3boboo3b3o5b
+o$4bobo3bo3boo10bo6bobbo8bob3o3boo3booboboo$10bobo14bobo5bobob3o13boo 
+bbo3bo$11bo16bo31boo!

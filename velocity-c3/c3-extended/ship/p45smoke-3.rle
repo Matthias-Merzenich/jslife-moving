@@ -1,0 +1,34 @@
+#C A period 45 c/3 spaceship with some smoke at the back.
+#C This smoke cannot be reached by backward gliders.  But a forward glider
+#C can easily reach it to produce another glider or other output.  In
+#C particular, a forward glider can be turned into a backward glider
+#C continuing in the same sideways direction.
+#C David I. Bell, December 1999
+x = 82, y = 102
+33b3o$33b3o$13boob3o13bo3bo13b3oboo$13boo4booboo21booboo4boo$12bobbobo
+4boo7bo5bo7boo4bobobbo$19boobobboo4booboboo4boobboboo$25boboo11boobo$
+20b3oboobbo3bo3bo3bobboob3o$20bo3b3obo4bobo4bob3o3bo$18booboboo4bobbo
+3bobbo4booboboo$17bobobbo8bobobobo8bobbobo$15b3obobbo5boobobbobboboo5b
+obbob3o$14boobo9bobobob3obobobo9boboo$13bo3bo9bobobbooboobbobo9bo3bo$
+28b3obbobobb3o$29boboo3boobo$27boo3bo3bo3boo$27bobo4bo4bobo$29bobbobob
+obbo$29bob3ob3obo$29bobo5bobo$26boobobobbobboboboo$26boobobobbobbobob
+oo$29bobob3obobo$28bobb7obbo$bboboob3o49b3oboobo$booboo4boobo16bo7bo
+16boboo4booboo$obbobobbo3b3o18b3o18b3o3bobbobobbo$bo5bo3bo3bo13b3o5b3o
+13bo3bo3bo5bo$14boo4b3o5boob3ob3oboo5b3o4boo$14boobboobo9b3ob3o9boboo
+bboo$15boo4boboo9bo9boobo4boo$20bobbobo3boo7boo3bobobbo$15boobobbobobo
+bo13bobobobobboboo$19bo8bo11bo8bo6boo$26bob13obo12boboo$55boboo$31b7o
+13bo3boob3o$31b7o9b3ob3obbo4bo3bo$33b3o10bo5boobb3o4b4o$28b3o7b3o6bobb
+oboo9bo3bo$28b6ob6o9bo4boo4bobbobo$27boobo3bo3boboo6b3obo9bo$27boobo7b
+oboo4bo3bo16bo$29boobo3boboo6bobbobo3bo6bobb3o$33b3o9boo6b3ob3obobo4b
+5o4boo$45booboo3bobboo3bobo4bobb3o3booboo$45bo12boo3bobob5o4bo3boo$46b
+obboboobbo12boo3bobbobbobo$48bobboobboo16b4obo$53boobo$23bobo25bo$21b
+3obboo24b4o$26boo25boo$26boo3boo$23boboo4boo$23bobo$$28boo$27bobo$27b
+3o$$49booboo$47boobobooboo$44b3obobb3obb4o$40b3o4b3o5bo4bo$29b3obbo4bo
+bobob3obo8boo$32booboobbobobob4o$33bo6bobo4bobbo$30bo18bo6booboo$30b3o
+8bo12boobobooboo$41bo9b3obobb3obb4o$47b3o4b3o5bo4bo$6boob3o16boo16bobo
+bob3obo8boo$6boo4boo13bobbo15bobobob4o$5bobbobo3bo12bobo9bo7bobo4bobbo
+$12b3obb3o8bo8booboo14bo$14b3obobo16b3oboo5bo12boobo$14bo4bo22boo4bo9b
+oobooboo$15boo20boobboo15bobbobobbo$37boo13boo4boo5bo$52booboo$36bo14b
+o3boo$36boo17boo$30boo4b3ob3o$30boo5$37bo$36bo3boo$35bobb4o$39boo$9b3o
+b3o20boo$5boboo4bob4o$4b3o3boboo3boo3bo10boo$3bo3bo3boboo5b4o9b4o$4bo
+9bo3bobo3bo7bo4bo$14bo3bobobobo8bo3bo$14bobo4b3o9bobbo$22bo12boo!

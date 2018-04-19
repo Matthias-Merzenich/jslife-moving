@@ -1,0 +1,29 @@
+#C A period 3 c/3 convoy which duplicates a forward glider. 
+#C This produces two backward gliders which travel in opposite sideways
+#C directions.  This is a smaller version of an earlier reaction.
+#C David I. Bell, October 2002
+x = 112, y = 88
+29bo$27b4o$26boo3bo$25bo5b3o$28bobo4boo$25bob4o4boo$24b8ob4o$24boo$29b
+o5boo$28bobo3bobbo$31bobobbo$29b4o$29b4o12b3o$31bobbo10bo$46bo$$23bo$
+22boboboo24b3o6booboo13b3oboo$21bo4boo25boboo3bo3boboo6booboo4boo$18bo
+boo3bobbo21boobo3bobo4bo4bo4boo4bobobbo$17booboobo25bobobb5o3b3o3b3obb
+oboboo$16bobb6o22b3obobo3boobbobbo3bo4boo$12boo9bobbo16b3obobobobobbo
+4b3o3bobbo$boob3o4boobo3bo3bo3bo15bo6bobobob3o3bobo3bobbo3bo$boo4boobb
+oob3oboobbobboo16booboobobobobo3bobobobo4bo3bo$obbobo3boboo5boo3bobbo
+13boo7bobobobo15boo$7b3o5boo5bo17boobboobbooboo$9b3obo28boobobboobo$9b
+oo27bobb3oboboobb3o4bo$39bobo9b3o3boboo8bo$43bobbobobbo3boboboo6b3ob3o
+$42bo10bo3boobbo4boo6bo$43bo12bo8bobbo3boo$52boobbobobb3o$boob3o44bob
+4ob4obo$boo4boo43bobobobobobobbo$obbobo3bo$7b3obb3o$9b3obobo$9bo4bo$
+10boo$$10boo$9bobbo$9bobbo$8boobo$9boboboo$6boobobo$6boobobobo$7bobobo
+bbo$8bobbo3boo$7b5obb3o$8b3oboboo$12bo$12bo4$38bo$34b3oboo$33bo5b3o$
+34boo7boo$38bo4boo$37bo4b3o$36boo3boo5b3o5bo$34boobboobb3obbo6b3ob3o$
+34b3oboo6boo5boo6bo$35booboobboo3b4obobbo3boo$$50bo$50bobo$56bo3b3oboo
+8boo3b3o14b3o6bo$55b4obo3boo5booboo3b3o4b3o8boboo3boo$54bo3bobob4o5boo
+bobobo3bobbo3boo3boobobo3bobo$46boo5boobobobobbo3bobbobobboobo6bobobo
+3bobooboobobobbo$45bobboobbooboobo4boobbooboboobobbo4bobobboobobo6boob
+oboob3o$44bo3bob3obo8bob3obbobobb6obooboo3boobo4bobbooboobo3bo$45b4o3b
+o5b4obo3bobbobobo3bo6bobbobobo6bo9boo$42boobboo4bobo7boobb3o7b3o5bobo
+14boo$42boo4bobbo4bobo4boob3o10bo$44b4o6bo3bo4bobobobbo$40bobbobbo3boo
+bo$41boboo5bo22boo$45bo3bo4bo5boo9booboboo$48b3obooboobobboob3oboo4bo
+bb4o$46boo3bobobobo4b3oboboo6bo4bo$50bob4obobbobo3bobobbo7boo$51boo11b
+o!

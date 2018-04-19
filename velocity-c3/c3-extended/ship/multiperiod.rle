@@ -1,0 +1,37 @@
+#C Three related c/3 frothing spaceships.
+#C These have periods 21, 12, and 6.  The original period 21 frothing
+#C spaceship was found by Paul Tooke.  The smaller version shown here is
+#C by Stephen Silver.  The spaceships can be changed from one form to
+#C another using glider impacts into the back end of the spaceship.
+#C Most of these conversions use a symmetrical pair of forward gliders.
+#C These spaceships are very useful for period multiplication of c/3
+#C rakes since they change forms so easily and are relatively robust.
+#C David I. Bell, October 2002
+x = 95, y = 53
+7boo9boo21boo9boo21boo9boo$4booboo9booboo15booboo9booboo15booboo9boob
+oo$b4obbobo7bobobb4o9b4obbobo7bobobb4o9b4obbobo7bobobb4o$o4bo4bo5bo4bo
+4bo7bo4bo4bo5bo4bo4bo7bo4bo4bo5bo4bo4bo$boo7bo5bo7boo9boo7bo5bo7boo9b
+oo7bo5bo7boo$10bo5bo27bo5bo27bo5bo$6b3o9b3o19b3o9b3o19b3o9b3o$5bo15bo
+17bo15bo17bo15bo$6boboo7boobo19boboo7boobo19boboo7boobo$10bo5bo27bo5bo
+27bo5bo$6boo11boo19boo11boo19boo11boo$5bo3bo7bo3bo17bo3bo7bo3bo17bo3bo
+7bo3bo$8bo9bo23bo9bo23bo9bo$6bo13bo19bo13bo19bo13bo$6bo13bo19bo13bo19b
+o13bo$12b3o31b3o31b3o$6boo4b3o4boo19boo4b3o4boo19boo4b3o4boo$11bo3bo
+29bo3bo29bo3bo$5b3o11b3o17b3o11b3o17b3o11b3o$7bobbo5bobbo21bobbo5bobbo
+21bobbo5bobbo$6bo3boo3boo3bo19bo3boo3boo3bo19bo3boo3boo3bo$12bobo31bob
+o31bobo$5b3o5bo5b3o17b3o5bo5b3o17b3o5bo5b3o$5b4obooboboob4o17b4oboobob
+oob4o17b4obooboboob4o$7bobb7obbo21bobb7obbo21bobb7obbo$8b4o3b4o23b4o3b
+4o23b4o3b4o$7b3o7b3o21b3o7b3o21b3o7b3o$6bo4bo3bo4bo19bo4bo3bo4bo19bo4b
+o3bo4bo$5bo3bo3bo3bo3bo17bo3bo3bo3bo3bo17bo3bo3bo3bo3bo$10bob3obo27bob
+3obo27bob3obo$5bob4o5b4obo17bob4o5b4obo17bob4o5b4obo$5bo4b3ob3o4bo17bo
+4b3ob3o4bo17bo4b3ob3o4bo$8boo3bo3boo23boo3bo3boo23boo3bo3boo$11bo3bo
+29bo3bo29bo3bo$7boobbooboobboo21boobbooboobboo21boobbooboobboo$6bobobb
+ooboobbobo19bobobbooboobbobo19bobobbooboobbobo$6bo6bo6bo19bo6bo6bo19bo
+6bo6bo$5boo6bo6boo17boo6bo6boo17boo6bo6boo$5bob3obbobobb3obo17bob3obbo
+bobb3obo17bob3obbobobb3obo$9bo7bo25bo7bo25bo7bo$8bobo5bobo23bobo5bobo
+23bobo5bobo$5b3obbob3obobb3o17b3obbob3obobb3o17b3obbob3obobb3o$4bobobo
+boo3boobobobo15boboboboo3boobobobo15boboboboo3boobobobo$4boboboboo3boo
+bobobo15boboboboo3boobobobo15boboboboo3boobobobo$5boob3obobob3oboo17b
+oob3obobob3oboo17boob3obobob3oboo$6boo3booboo3boo19boo3booboo3boo19boo
+3booboo3boo$8b3obobob3o23b3obobob3o23b3obobob3o$5bo4bobobobo4bo17bo4bo
+bobobo4bo17bo4bobobobo4bo$10bobobobo27bobobobo27bobobobo$11bo3bo30bobo
+31bobo$46bobo30booboo$46bobo$46bobo30booboo!

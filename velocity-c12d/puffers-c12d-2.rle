@@ -1,0 +1,9 @@
+#C [Editor's note: This file is very incomplete]
+#C 1. David Bell, 3 Jul 2005
+x = 70, y = 57, rule = B3/S23
+33bo$32boo7bo$31bobob3obbobo$30b3o3boo3bo$31boboboobobo$32booboo$33bob
+5obo$37b4o11boo$52boo6$25bo$24b3o33boo$60boo$24b3o$25booboo5bo$27bo7bo
+$35bo3bo$38bobo$b3o35bo$bbo65boo$bbobbo62boo$bbobbo$3bobo$18boo$18boo$
+24bo$23b3o$bbo19booboo$bobo18bobo$bbo19bo3$4o$oo3bo13bo$bo4bo11bobo$3b
+oboo11bo$4bo15boo$21bo$18b3o$19boo$16bo$16boo$16boo$6boo6boo$6boo4boo$
+12boobo$14boo5$14boo$14boo!

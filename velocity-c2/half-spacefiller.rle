@@ -1,0 +1,25 @@
+#C Combining pieces of a wickstretcher and a
+#C spacefiller yields a half-spacefiller.
+#C Hartmut Holzwart and Jason Summers, May 2005.
+x = 65, y = 80, rule = B3/S23
+5bobo49bobo$4bobbo49bobbo$3boo55boo$bbo59bo$b4o55b4o$o4bo53bo4bo$obbo
+24b3o3b3o24bobbo$obbo24bobbobobbo24bobbo$bo26bo7bo26bo$bb4obo20bo7bo
+20bob4o$3bo3bo21bobobobo21bo3bo$4bo24bobobobo24bo$4bobo23bo3bo23bobo$
+29b3ob3o$3b3o26bo26b3o$3boo23b9o23boo$3b3o21bo9bo21b3o$26b13o$4bobo18b
+o13bo18bobo$4bo19b17o19bo$3bo3bo15bo17bo15bo3bo$bb4obo14b21o14bob4o$bo
+19bo21bo19bo$obbo16b25o16bobbo$obbo15bo25bo15bobbo$o4bo12b29o12bo4bo$b
+4o12bo29bo12b4o$bbo13b33o13bo$3boo10bo33bo10boo$4bobbobo4b37o4bobobbo$
+5bobobbobbo37bobbobbobo$8bo3b20ob20o3bo$9bo21bobo21bo$10b21o3b21o$$8b
+21o3bo3b21o$7bo21bobobobo21bo$6bo3boobboboobooboob5obobob5oboobooboobo
+bboo3bo$6bo4bobobboo4boo7bobo7boo4boobbobo4bo$6bo8bo5bo5b3obobob3o5bo
+5bo8bo$7b3o20booboo20b3o$9bo17boo3bo3boo17bo$6boobbo3boo11b4obob4o11b
+oo3bobboo$4bo5boobo17bobo17boboo5bo$3bo6bo18bobobobo18bo6bo$3bo4boobo
+bbo10boobb3ob3obboo10bobboboo4bo$3b5o3boo5bo6boobboo3boobboo6bo5boo3b
+5o$13boo4bo25bo4boo$10boo3booboobo7b3ob3o7bobooboo3boo$13bo4bobo23bobo
+4bo$9bo4b5obo4bo3b3ob3o3bo4bob5o4bo$8boobboo4bo3b3o3bo7bo3b3o3bo4boobb
+oo$9boo3bo4boo7b4ob4o7boo4bo3boo$10boo8bo10bobo10bo8boo$30booboo$22bo
+3bobooboboboobo3bo$21boboboboboo3boobobobobo$21bobobobo9bobobobo$22bob
+ob3o7b3obobo$24bobo3b5o3bobo$24boo6bo6boo$$27bobbobobobbo$27b11o$$29bo
+5bo$28bobo3bobo$28bobooboobo$26boboboobooboboo$25bobo9bobo$25bobb3o3b
+3o$26boo$29bobbobboo$26b3obobobobbo$26bo3boboboboo$27bobo4bo$28boobobb
+oboo$30bobobobo$30bobobobo$31booboo!

@@ -1,0 +1,5 @@
+#C An example of a period-4 c/4 orthogonal spaceship.
+#C For more period-4 ships, see ships-c4o.rle and ships-c4o-small.rle
+x = 12, y = 19, rule = B3/S23
+9bo$7bo2b2o$5b3o$4bobo$4bob2o$3bo4bo$2b2o2$bo4b2o$5bo$2b3o$4bo$5bo$4b
+2o$5bo$5b2o$2bo2b2o$2o3bo$2bo!

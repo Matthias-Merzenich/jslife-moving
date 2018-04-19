@@ -1,0 +1,14 @@
+#C By Stephen Silver
+x = 100, y = 48, rule = B3/S23
+18bo$15b4o$15boo16bo63b3o$13bo16b4o65bo$13b6o11b3o65bo$10bobo15bo3bo$
+9b6obobo9b3o$8boo5boobo6bobo4bo$7boo4boo9b8o$8boo4b5o4boo$22b3o3boo$8b
+oo4b4obo3b3o3bobbo$7boo4boo4bo5bo4bobo$8boo5boo6bo$9b6oboo5bobo$10bobo
+7bobo$13b6obobo$13bo8bobbo$14b5oboboo9bo$15bo4bobobbo6b3o$16boo4bo36bo
+$17bobbobo3bo7bo7bo14b3o$18bobobo4bo3bo3bo5bobo13b6o$22bo5bo7bo3booboo
+7boobb3obbobo$10bobo5bobobo14boobbobo8boo5bobo$7b4oboobobobbobo6bobboo
+b5obo15b4obboo$7boobboboobbo4bo10bobobbooboo14boo5bo$5bo4boo5bobbobo8b
+obbo5bo15bobbo$5b5o6b3obobo33boo$4bo6bobobo6bo6bobbobbo21boboo$bb4obob
+obbobbobbobobo4bobbo4bo$bbo4bo8bobo3bo8booboo$bobbo17bo8boo48boo$boo
+20bobo54booboo$8bobo12bo57b4o$bobo3bobbo14bo56boo$oo4boo15b3o$boo19bo
+bboo$bb8o12b3obo$3bobo4bo10bo21boo$6b3o11b3o19boob4o$6bo3bo8b3obbo18b
+6o$8b3o9bo23b4o$8b4o9b4o$11bo9bo$23boo$23b4o$26bo!

@@ -1,0 +1,9 @@
+#C "Weekender": 2c/7 spaceship found by David Eppstein, 12 Jan 2000
+#C Tagalong by Stephen Silver, 27 Apr 2000
+x = 37, y = 52, rule = B3/S23
+11bo12bo$11bo12bo$10bobo10bobo$11bo12bo$11bo12bo$12bo3b4o3bo$16b4o$12b
+4o4b4o$$14bo6bo$15boobboo18$bo12bo7bo12bo$bo12bo7bo12bo$obo10bobo5bobo
+10bobo$bo12bo7bo12bo$bo12bo7bo12bo$bbo3b4o3bo9bo3b4o3bo$6b4o8bo8b4o$bb
+4o4b4obb5obb4o4b4o$15bobobobo$4bo6bo13bo6bo$5boobboo6bobo6boobboo$14bo
+bbobobbo$14bobbobobbo$14bobo3bobo3$14boo5boo$14boo5boo$$16booboo$15bob
+obobo$15bobobobo$17bobo$15boo3boo!

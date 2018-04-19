@@ -1,0 +1,36 @@
+#C It's easy to build c/5 puffers by bouncing gliders between
+#C c/5 spaceships. Often, you can reduce the period by
+#C circulating multiple gliders.
+#C Here's a demonstration of such a puffer, cleaned
+#C up by David Bell to form a p360 rake.
+x = 201, y = 124, rule = B3/S23
+61bo77bo$61boo75boo$59bobbo75bobbo$58bo83bo$55boobbo81bobboo$54bobbo
+85bobbo$55bo89bo$51bo3boo87boo3bo$50boboo93boobo$49boobbo93bobboo$49b
+ooboo93booboo$49bobbobboo87boobbobbo$48boo6boo85boo6boo$49bobooboboo
+85booboboobo$48bob3obo91bob3obo$48bobobobo91bobobobo$$46bo3bo99bo3bo$
+45boo107boo$43b3obbo103bobb3o$40booboo111booboo$41bo117bo$42bobo111bob
+o$41bo117bo$41bobbo111bobbo$40bo119bo$43bo113bo$40b4o113b4o$38boboobo
+113boboobo$43bo113bo$38bo123bo$39bobbo115bobbo$41bo117bo3$50b3o$bboo5b
+oo5boo5boo25bo125boo5boo5boo5boo$o3bo3bobbo3bobbo3bo3bo24bo122bo3bo3bo
+bbo3bobbo3bo3bo$o3bobob3o5b3obobo3bo147bo3bobob3o5b3obobo3bo$o5boobb3o
+b3obboo5bo147bo5boobb3ob3obboo5bo$oob3o15b3oboo147boob3o15b3oboo$o25bo
+147bo25bo$bo3bo15bo3bo149bo3bo15bo3bo$bbobbo15bobbo151bobbo15bobbo$
+103b3o$105bo$104bo7$140b3o$140bo$141bo6$8bo3b3o5b3o3bo$5boob5oboo3boob
+5oboo$3boboobo5bobobobo5boboobo139bo5boo5boo5bo$bbo3bobo3b5ob5o3bobo3b
+o126boo8bobbooboobbo3bobbooboobbo$6b3o5boo3boo5b3o130boo6b3o4bobo3bobo
+3bobo4b3o$3bobbob3o13b3obobbo135boobbobb3oboo3boob3obbobboo$5bo23bo
+115booboo9boo6b3obb3o4bo3bo4b3obb3o$145bobb3o7bobbo6bobobbo15bobbobo$
+145bo4bo8boo8bo23bo$147bo4bo$74boo5boo35boo5boo20bo6bo$66b4obobobo5bob
+obob4o19b4obobobo5bobobob4o19bo$65b3oboboboobo3boboobobob3o17b3obobob
+oobo3boboobobob3o15b3oboobboo$65bo3bobo13bobo3bo17bo3bobo13bobo3bo10b
+3obo5bobboo$66bob3o5booboo5b3obo19bob3o5booboo5b3obo9booboobo3b3o$66b
+oo21boo19boo21boo10b4obo$66b5o15b5o19b5o15b5o40bo7bo$69boo15boo25boo
+15boo37booboboboo3booboboboo$166b3obob3o9b3obob3o$166bo3bobo5bobo5bobo
+3bo$170boo6bobo6boo$167boo9bobo9boo$167booboo15booboo$171bo15bo6$59boo
+5boo5boo5boo41bo5boo5boo5bo$57bo3bo3bobbo3bobbo3bo3bo37bobbooboobbo3bo
+bbooboobbo$57bo3bobob3o5b3obobo3bo35b3o4bobo3bobo3bobo4b3o$57bo5boobb
+3ob3obboo5bo35boobbobb3oboo3boob3obbobboo$57boob3o15b3oboo35b3obb3o4bo
+3bo4b3obb3o$57bo25bo36bobobbo15bobbobo$58bo3bo15bo3bo38bo23bo$59bobbo
+15bobbo3$36b3o3$49boo5boo$41b4obobobo5bobobob4o$40b3oboboboobo3boboobo
+bob3o$40bo3bobo13bobo3bo$41bob3o5booboo5b3obo$41boo21boo$41b5o15b5o$
+44boo15boo11$25bobo$25boo$26bo!

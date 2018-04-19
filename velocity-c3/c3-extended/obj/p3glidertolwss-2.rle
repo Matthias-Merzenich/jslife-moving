@@ -1,0 +1,36 @@
+#C A period 3 c/3 convoy which converts a forward glider into a backward LWSS.
+#C Removing one of the spaceships at the back allows a glider to escape so
+#C this can also act as a glider duplicator.
+#C David I. Bell, October 2002
+x = 118, y = 152
+51booboo$48boobooboboo$45b4obb3obbob3o$44bo4bo5b3o4b3o$45boo8bob3obobo
+bo$56b4obobobo$54bobbo4bobo15b3o$55bo24bo$63bo17bo$63bo4$82b3o$81bo$
+80boo$74boboobboobb3o$73boobooboo5bo4boo$72bobboo3boboo4booboo$78b4o6b
+oo3bo$74boboboo8boo$76bo$73boo18bo$72boobbo4boobo3bo3boob3o$74b3oboobo
+boobooboobob3obbo3b3o$70bobbo5boboo6bo9bobboboboo$71bob4obo3b3o3bobobb
+o3bobobbobo3bo$76b3obboo10bo4boobbobbobo$76boo4bo16b5o$77boboobo17boo
+$$78bobbo10bo12boo$78bobbo4bo3b3o10booboboo$85b4o5b3o4bo4bobb4o$84bo3b
+o5b3o3boo6bo4bo$82b3obo5bobboobboobbo7b3o$80bobboobboboo7boo3bo$80bo3b
+obo3boo7b3obobo8bo$80boo4bobobooboboobboboboboo4b4oboo$80bobboobo4bobo
+bbo4boboobbo3bobboboo$84booboboo3bo3boobb3o4b3obobobo$82bobbo12b4o7boo
+$84boo12b3o4bobobbo$102bobo5$88boobo$85boobooboo$85bobbobobbo$79boo4b
+oo5bo$79booboo$39b3o36bo3boo$37boo3bo39boo$36bo3bobbo$36bo6boobo$39b3o
+booboo$36b3o3boboobbo$35boo$47bo$39b3o4boo$40boo3b3o$40boobboo$43b3o$
+41bobbo$43bo12$25bo$25boo$25boboo$23bobbo$22boo6b3oboo$16b3obboob3obb
+oo3boo$15bobob3o4bo5b4o$16bo4bo4boobbobo$19boo9bobbo$31bobboo28bo$12bo
+b3o16b4o23boobobo$4bo6bo4boob3oboob3obboo3bo23boo4bo$bb4o4boobbob4obob
+oo4b6obo22bobbo3boobo$boo3boboobb4obo3bobo3bobo5boo27bobooboo$o3bob4o
+9bo8b3ob5o26b6obbo$4bo22bobbo3bo26bobbo9boo$5bo4bo14booboo31bo3bo3bo3b
+oboo4b3oboo$9bo17bobb3o28boobbobboob3oboobboo4boo$27b4o30bobbo3boo5boo
+bo3bobobbo$65bo5boo5b3o$74bob3o$77boo8$74b3o$73bo$72boo$66boboobboobb
+3o$65boobooboo5bo4boo$64bobboo3boboo4booboo$70b4o6boo3bo$66boboboo8boo
+$68bo$65boo18bo$64boobbo4boobo3bo3boob3o$66b3obooboboobooboobob3obbo3b
+3o$62bobbo5boboo6bo9bobboboboo$63bob4obo3b3o3bobobbo3bobobbobo3bo$68b
+3obboo10bo4boobbobbobo$68boo4bo16b5o$69boboobo17boo$$70bobbo$70bobbo5$
+76boob3o$76boo4boo$75bobbobo3bo$12boo9b3o5boo49b3obb3o$7bobooboo7boobo
+bobooboo51b3obobo$6b3obo3boo4bo3bobobobbobo50bo4bo$5bo3boobobobo4bobob
+oo3bobbo39bo11boo$6bo3b3obob3o5bobob4obbo37b4o$10bo3bobbooboobboboboob
+o35bo3bo3booboo5boo$11boobbobboo6b4o4bo31b4o5bobboo4bobbo$10b3o5bo4bo
+9b3o29bo3bo7bobbo3bobbo$9boobboo3bo6bo6bo3boo28bobobbo13boboo$12boo3b
+oo8bobboo3b3o32bo11boobobo$9booboo4bo12bo3boo48boboboo$18bo64boboboboo
+$82bobbobobo$80boo3bobbo$80b3obb5o$81boobob3o$84bo$84bo!

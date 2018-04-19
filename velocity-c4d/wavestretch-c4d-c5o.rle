@@ -1,0 +1,28 @@
+#C c/4 diagonal antstretcher by Hartmut Holzwart, 12 Jan 2006
+#C   based on an antstretcher by Nicolay Beluchenko, 5 Jan 2006
+#C c/4 diagonal anteater by Hartmut Holzwart, 4 Aug 2005
+#C c/5 orthogonal anteater by Matthias Merzenich, 17 Apr 2011
+#C   based on an anteater by Matthias Merzenich, 15 Apr 2011
+#C   (see wavestretch-c5o-c4d.rle under velocity-c5o)
+x = 112, y = 107, rule = B3/S23
+89b2o$88b2o$82b2o5bo$81b2o5b2o$83bo4bobo2b2o$85b2o3b2ob4o$31b2o52b2o
+10bo$30b2o65bo$31bobo57bo$26bo4b3o59b2o$25b5ob3o2bob2o$25bo2b2o6bo3b2o
+b2o48b3o$35bo4b2o3b2ob2o42b2o2bo$27b2o2b2ob2o2b2o5b2o3b2ob2o39bo$35bo
+7b2o5b2o3b2ob2o$21b3o3bo5b2o13b2o5b2o3b2ob2o23b3o2bo$21bo5bo2bob2o19b
+2o5b2o3b2ob2o18bo2b3o$22bo3b2obo28b2o5b2o3b2ob2o16b2o$25b2o3bobo30b2o
+5b2o3b2ob2o9b2ob2o$13b3o10bo41b2o5b2o3b2ob2o7b2o$13bo5b3o2b2o47b2o5b2o
+3b2obobo$14bo2b2ob3ob2o52b2o5b2o$16bo10bo55b2o4bo$17bobob2o4bo60bo$19b
+2obo$17b2o3bobo$16b2o$18bo$15b2o$14b3o$13b2obo$12b4obo$17b3o$18b2o$10b
+3ob2o$9bo3b3o$12b3o$8bobobo$7b4o$7bo$8b2o$9bo2bo$2o$obo3b3o$o3bo4bo$3b
+2o$3bo5bo11$51b2o5b2o5b2o5b2o$49bo3bo3bo2bo3bo2bo3bo3bo$49bo3bobob3o5b
+3obobo3bo$49bo5b2o2b3ob3o2b2o5bo$49b2ob3o15b3ob2o$49bo25bo$50bo3bo15bo
+3bo$46b2o3bo2bo15bo2bo$40bobo3bobo$31b2o6b2o2b2o2bo$30b2o10bobo31bo10b
+o3b3o5b3o3bo$31bobo9bobo5bo7bob4obo8bo2bo5b2ob5ob2o3b2ob5ob2o$26bo4b3o
+9b2o4b4o4bob3obobobo2b2o3bo2bo3bob2obo5bobobobo5bob2obo$25b5ob3o2bobob
+2o2b3ob2o3b4o12bobo2bo4bobo3bobo3b5ob5o3bobo3bo$25bo2b2o6bo4bo2bo2bo3b
+o2b2o5bobo3bob2o3bo4bo5b3o5b2o3b2o5b3o$35bo3bo4bo3b4obo3bo4b7o10bo2bo
+2bob3o13b3obo2bo$27b2o2b2ob2o2bo10b2ob2o4bo4bo9b2obobo5bo23bo$35bo28bo
+8bo$21b3o3bo5b2o18bo$21bo5bo2bob2o17b2o$22bo3b2obo$25b2o3bobo$13b3o10b
+o$13bo5b3o2b2o$14bo2b2ob3ob2o$16bo10bo$17bobob2o4bo$19b2obo$17b2o3bobo
+$16b2o$18bo$15b2o$14b3o$13b2obo$12b4obo$17b3o$18b2o$10b3ob2o$9bo3b3o$
+12b3o$8bobobo$7b4o$7bo$8b2o$9bo2bo$2o$obo3b3o$o3bo4bo$3b2o$3bo5bo!

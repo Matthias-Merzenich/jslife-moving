@@ -1,0 +1,53 @@
+#C A period 90 c/3 spaceship which produces a very large cloud of smoke.
+#C The smoke extends many cells past the edge of the c/3 convoy and thus
+#C can be used to perturb or delete objects as the ship passes by.
+#C This uses a period 90 rake whose gliders are transformed into the smoke
+#C by a convoy of period 3 ships.  This is an improvement on a previous
+#C version of this spaceship.
+#C David I. Bell, October 2002
+x = 83, y = 229
+48bo$47bobo$31bo14bo3bo14bo$27b3ob3o13b3o13b3ob3o$26bo6bob3o21b3obo6bo
+$27boo3bo5bo6boo3boo6bo5bo3boo$35b7o3boo3boo3b7o$33bobboo3boobb3ob3obb
+oo3boobbo$34boobo4boo9boo4boboo$40b4obbooboobb4o$32boob4o7booboo7b4ob
+oo$31boboboo5boobob3oboboo5boobobo$28boobo10boobo5boboo10boboo$28boobo
+9bobobo5bobobo9boboo$28bobo10bo3bo5bo3bo10bobo$47bobo$41bo3b3ob3o3bo$
+41bob5ob5obo$41bobo9bobo$43bobooboboobo$42boobob3oboboo$43bobob3obobo$
+40booboboo3booboboo$40boobobo5boboboo$41bobobo5bobobo$22bo21boo5boo21b
+o$15boob3ob3o20b7o20b3ob3oboo$15boo4bobbooboo19bo19booboobbo4boo$14bo
+bboboo3bobboo14bobobbobbobo14boobbo3boobobbo$26bobbo5bo6boobo5boboo6bo
+5bobbo$30bobb4o5boo3bobo3boo5b4obbo$33bo3bo6boo5boo6bo3bo$28b3obbobob
+oo5b9o5boobobobb3o$31bobbooboboo15booboboobbo$33boobo3boboo9boobo3bob
+oo$40bobob9obobo$41b15o$43bo9bo$45bo5bo$44bo7bo$31bo13bo5bo$30boboboo
+10b5o$29bo4boo$26boboo3bobbo$25booboobo$24bobb6o$20boo9bobbo$9boob3o4b
+oobo3bo3bo3bo$9boo4boobboob3oboobbobboo5bo15bo$8bobbobo3boboo5boo3bobb
+o4boo15boo$15b3o5boo5bo8bo17bo$17b3obo23boo3boo$17boo20boo3bobo3bobo3b
+oo$39bob5o5b5obo$39bo3boo7boo3bo$40b3o11b3o$40b3o11b3o4$43b3o5b3o$43bo
+bbo3bobbo$42bo11bo$43bo3bobo3bo$44bobbobobbo$44bobooboobo$43boobo3bob
+oo$43booboobooboo$43booboobooboo$45bo5bo4$45boo3bo$45boo3bo$44boo$45b
+3o$45b3o$46boo5$48boo$48boo$$41bo$40bobo$41bo$38bobo6boo$38b3o7booboo$
+37bobbo11boo$38b3obo4boo$41bo$41bo$71boobo$68boobooboo$68bobbobobbo$
+62boo4boo5bo$62booboo$43bo17bo3boo$42bobo20boo$41bobbobb3o$42boo3bobbo
+$50bo$46boobbo$45bo3bo$13bo3bo$11b3oboobobo23boo$7booboo6bobbo$7boobbo
+bbo3bobboobboo$6bobbo4bobbobbooboboo$17boo4bo3bo$16boobbobbobobo$18bo$
+24b3o8$26boo$17boo7boo$14booboo7boo$11b4obboo4boo27boo$10bo4bo4booboo
+26bobo$11boo7boo3bo7bo16b3o$20boo9b4o16b5o$27booboo3bo3bo$27boobbo5b4o
+15bo$26bobbo7bo3bo11bobbo$35bobbobo13b3o$36bo11boo6boo$47b3o3boboo$53b
+3o$54bo25$18boo$13b3obob3o49b3oboo$9booboo3bo3boo5bo40boo4boo$5boobobb
+3obo3bo3bo3boob3o35bo3bobobbo$5boo5boboboobbooboo8bo29b3obb3o$4bobbo3b
+o5b5obob3o3boo20boo7bobob3o$9bob3obboobboo3b4o17bo6boo8bo4bo$9boo3boo
+13bo15boo19boo$14boo4bo5bobo16bobo27boobo$10bo10bo4bo45boobooboo$9bobo
+60bobbobobbo$5b3o3bo54boo4boo5bo$4bobobo57booboo$4bobobo56bo3boo$5bobo
+15boo44boo$22boo$6bo17bo$6bo4$25b3o11boboo22boobo$24bo13boobooboo16boo
+booboo$23boo12bobbobobbo16bobbobobbo$17boboobboobb3o8bo5boo4boo4boo4b
+oo5bo$16boobooboo5bo4boo11booboo4booboo$15bobboo3boboo4booboo11boo3bo
+bbo3boo$21b4o6boo3bo10boo10boo$4b3o10boboboo8boo$4bobo12bo$4boobo8boo
+18bo$15boobbo4boobo3bo3boob3o$17b3obooboboobooboobob3obbo3b3o$13bobbo
+5boboo6bo9bobboboboo$14bob4obo3b3o3bobobbo3bobobbobo3bo$19b3obboo10bo
+4boobbobbobo$19boo4bo16b5o$20boboobo17boo$$21bobbo10bo12boo$21bobbo4bo
+3b3o10booboboo$28b4o5b3o4bo4bobb4o$27bo3bo5b3o3boo6bo4bo$25b3obo5bobb
+oobboobbo7b3o$23bobboobboboo7boo3bo$23bo3bobo3boo7b3obobo8bo$23boo4bob
+obooboboobboboboboo4b4oboo$23bobboobo4bobobbo4boboobbo3bobboboo$27boob
+oboo3bo3boobb3o4b3obobobo$25bobbo12b4o7boo$27boo12b3o4bobobbo$45bobo$
+5boo$4bobo$4b3o7bo$5boo5boobo$oo4bo4bo3bo15boobo$obo8boboo13boobooboo$
+boo9bo15bobbobobbo$22boo4boo5bo$boo9bo9booboo$obo8boboo6bo3boo$oo4bo4b
+o3bo9boo$5boo5boobo$4b3o7bo$4bobo$5boo!

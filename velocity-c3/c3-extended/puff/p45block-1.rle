@@ -1,0 +1,21 @@
+#C A period 45 c/3 puffer which produces a block every period.
+#C David I. Bell, July 1997
+x = 69, y = 69
+12bo7bo27bo7bo$11b4o3b4o25b4o3b4o$10bo3booboo3bo10b3o10bo3booboo3bo$
+10bo4bobo4bo10b3o10bo4bobo4bo$8bobobobooboobobobo7bo3bo7bobobobooboobo
+bobo$7bo6booboo6bo17bo6booboo6bo$6boobo3bo5bo3boboo4bo5bo4boobo3bo5bo
+3boboo$4booboboo11boobobo3booboboo3boboboo11booboboo$bboobo22bo11bo22b
+oboo$bo3bo22bo3bo3bo3bo22bo3bo$bbobo23bo4bobo4bo23bobo$29bobbo3bobbo$
+31bobobobo$28boobobbobboboo$27bobobob3obobobo$27bobobbooboobbobo$28b3o
+bbobobb3o$29boboo3boobo$27boo3bo3bo3boo$27bobo4bo4bobo$29bobbobobobbo$
+29bob3ob3obo$29bobo5bobo$26boobobobbobboboboo$26boobobobbobboboboo$29b
+obob3obobo$28bobb7obbo$bboboob3o49b3oboobo$booboo4boobo16bo7bo16boboo
+4booboo$obbobobbo3b3o18b3o18b3o3bobbobobbo$bo5bo3bo3bo13b3o5b3o13bo3bo
+3bo5bo$14boo4b3o5boob3ob3oboo5b3o4boo$14boobboobo9b3ob3o9boboobboo$15b
+oo4boboo9bo9boobo4boo$20bobbobo3boo7boo3bobobbo$15boobobbobobobo13bobo
+bobobboboo$19bo8bo11bo8bo$26bob13obo4$31boo3boo$31boo3boo$33b3o$29boo
+3bo3boo14b3oboo$28bobbo5bobbo11boo4boo$28bobooboboboobo10bo3bobobbo$
+27boobobbobobboboo4b3obb3o$29bo9bo5bobob3o$46bo4bo$8boboo37boo$7booboo
+boo$6bobbobobbo11b3o11b3o$7bo5boo4boo$16booboo9b3o3b3o$16boo3bo7boboo
+3boobo$16boo10bo4b3o4bo$29bo9bo$30boo5boo$32bo3bo3$36boo$36boo3bo$40bo
+bo$39bobbo$40boo$28boo$28boo!

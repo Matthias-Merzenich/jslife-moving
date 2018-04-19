@@ -1,0 +1,18 @@
+#C A period 54 puffer which produces a blinker every period.
+#C David I. Bell, July 1997
+x = 87, y = 49
+43bo$42b3o$$39bobo3bobo$35b3ob4ob4ob3o$34bo7bobo7bo$35boo3b3ob3o3boo$
+40boo3boo$41bo3bo$41bo3bo$36b3obbo3bobb3o$35boboboo5boobobo$36bo6bo6bo
+$43bo$29boboo9bobo9boobo$24boobbooboobobo5bobo5bobobooboobboo$21boboo
+bbo3bo4boo11boo4bo3bobboobo$20boboo6b5oboo3booboo3boob5o6boobo$19bo3b
+3o7boboo3bobobobo3boobo7b3o3bo$20boobobb3o10boo5boo10b3obboboo$29bobo
+3bobobob5obobobo3bobo$32boo4boobo3boboo4boo$$43bo$bboboob3o30b3ob3o30b
+3oboobo$booboo4boobo26bobobobo26boboo4booboo$obbobobbo3b3o24b3o3b3o24b
+3o3bobbobobbo$bo5bo3bo3bo22bo3bobo3bo22bo3bo3bo5bo$14boo4b3o15bobobobo
+bobo15b3o4boo$14boobboobo17b3o3b3o17boboobboo$15boo4boboo4b3o8bo5bo8b
+3o4boobo4boo$20bobbobo6bo21bo6bobobbo$15boobobbobob3o4b5o5bobo5b5o4b3o
+bobobboboo$19bo5boboo3boboobo3booboo3boboobo3boobo5bo$25bo4bobobobbo3b
+o3bo3bobbobobo4bo$29bo4booboo9booboo4bo$35boboboob3oboobobo$32boo4b11o
+4boo$40bo5bo$42bobo$41bo3bo$42bobo$22boboo15b5o15boobo$21boobooboo11b
+oo3boo11boobooboo$20bobbobobbo10bobo3bobo10bobbobobbo$21bo5boo4boo5bo
+5bo5boo4boo5bo$30booboo17booboo$30boo3bo15bo3boo$30boo23boo!

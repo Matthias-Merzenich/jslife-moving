@@ -1,0 +1,18 @@
+#C p604 (+24n) rake
+#C Delay the spaceship to the right of the dotted
+#C line by 6 generations to increase the period
+#C by 24.
+#C David Bell, 27 Apr 2001 (updated Apr 2004)
+x = 202, y = 46, rule = B3/S23
+117b3o$116b5o18b3o$115boob3o17b5o$116boo19boob3o$97b4o37boo$97bo3bo$
+97bo$98bobbo$$158boo$157b4o$156booboo$54boo101boo$52bo4bo$51bo$51bo5bo
+6b4o6bobbo$9bobo39b6o6b6o4bo$8bobbo26b5o19boob4o4bo3bo101boo$7boo29bo
+4bo19boo8b4o101boob3o$6bo8bo22bo140b5o$5b6ob4o23bo3bo15bo120b3o$bboo7b
+oobo26bo$bo3b3oboo3bobo6boobboboo$o3bo4boo3boo4bobboobboboobboo24bo
+127b6o$o5bo3boo3bobobobo4b3obobb3o6boobobboo137bo5bo$3o3b4obo4boboobb
+4o7b3o5bobob5o137bo9b4o$29b3ob3ob3obo17bo128bo4bobb6o$3o3b4obo4boboobb
+4o7b3o5bobob5o140boo3boob4o$o5bo3boo3bobobobo4b3obobb3o6boobobboo146b
+oo$o3bo4boo3boo4bobboobboboobboo24bo$bo3b3oboo3bobo6boobboboo$bboo7boo
+bo26bo$5b6ob4o23bo3bo15bo$6bo8bo22bo$7boo29bo4bo$8bobbo26b5o$9bobo39b
+6o$51bo5bo$51bo142b6o$52bo4bo136bo5bo$54boo138bo$185b6o4bo4bo$185bo5bo
+5boo$185bo$186bo4bo$188boo!

@@ -1,0 +1,12 @@
+#C A wave stretches a series of closely-spaced tubs.
+#C By Hartmut Holzwart, 14 Aug 2016
+x = 43, y = 50, rule = B3/S23
+18b2o$18bobo$18bo$21bo3bobo$21b3obo2bo$11b2o7bobobo2bo2b3o$10b2o7b2obo
+4bo2b2o$12bo13bo5bobo5b2o$14b2o3bo3bo10bo5bobo$14b2o2bo15bob3o$9b2o6b
+2o3bo9b2o3b4o$8b2o7b2o3bobo7b2o3bob2o$10bo12bobo10bo$12b2o3bo2bo3bo8b
+2o$12b2o2bo16bo$7b2o6b2o3bo13bo$6b2o7b2o3bobo$8bo12bobo$10b2o3bo2bo3bo
+$10b2o2bo$5b2o6b2o3bo$4b2o7b2o3bobo$6bo12bobo$8b2o3bo2bo3bo$8b2o2bo$3b
+2o6b2o3bo$2b2o7b2o3bobo$4bo12bobo$6b2o3bo2bo3bo$6b2o2bo$b2o6b2o3bo$2o
+7b2o3bobo$2bo12bobo$4b2o3bo2bo3bo$4b2o2bo$7b2o3bo$7b2o2$7bo2b2o$7bo9b
+2o$7bo3bo5bobo$8bo3bo4bo$7bo3bo8bo$8bo10bobo$6b2o3bo7bobo$19bo$7bo3bo
+7bo$8b3o3b2o3bo$10bo2b2o4bo$14bo3bo!

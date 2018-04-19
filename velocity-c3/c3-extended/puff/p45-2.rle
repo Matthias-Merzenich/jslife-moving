@@ -1,0 +1,21 @@
+#C A period 45 c/3 puffer which produces four blocks every period.
+#C This was the first puffer found which has an odd period.  The exhaust
+#C of this puffer can easily be perturbed by c/3 edge spark spaceships to
+#C produce much dirtier puffers, or to produce clean rakes.
+#C David I. Bell, May 1996
+x = 85, y = 39
+8bo7bo51bo7bo$boob3ob3o5boobo8bo27bo8boboo5b3ob3oboo$boo4bobbooboobb4o
+5b4o25b4o5b4obbooboobbo4boo$obboboo3bobboobbo3bo3boo3bo10b3o10bo3boo3b
+o3bobboobbo3boobobbo$12bo8bo3bo4bo10b3o10bo4bo3bo8bo$23boboobobobo7bo
+3bo7boboboboobo$23boboo6bo17bo6boobo$18boobo5bo3boboo4bo5bo4boobo3bo5b
+oboo$10bo7boo10boobobo3booboboo3boboboo10boo7bo$3boob3ob3o5boo16bo11bo
+16boo5b3ob3oboo$3boo4bobbooboo19bo3bo3bo3bo19booboobbo4boo$bbobboboo3b
+obboo19bo4bobo4bo19boobbo3boobobbo$14bo22bobbo3bobbo22bo$39bobobobo$
+36boobobbobboboo$35bobobob3obobobo$35bobobbooboobbobo$36b3obbobobb3o$
+37boboo3boobo$35boo3bo3bo3boo$35bobo4bo4bobo$37bobbobobobbo$37bob3ob3o
+bo$37bobo5bobo$34boobobobbobboboboo$34boobobobbobboboboo$37bobob3obobo
+$36bobb7obbo$10boboob3o49b3oboobo$9booboo4boobo16bo7bo16boboo4booboo$
+8bobbobobbo3b3o18b3o18b3o3bobbobobbo$9bo5bo3bo3bo13b3o5b3o13bo3bo3bo5b
+o$22boo4b3o5boob3ob3oboo5b3o4boo$22boobboobo9b3ob3o9boboobboo$23boo4bo
+boo9bo9boobo4boo$28bobbobo3boo7boo3bobobbo$23boobobbobobobo13bobobobo
+bboboo$27bo8bo11bo8bo$34bob13obo!

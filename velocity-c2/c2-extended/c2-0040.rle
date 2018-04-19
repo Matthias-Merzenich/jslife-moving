@@ -1,0 +1,24 @@
+#C 1. David Bell and Hartmut Holzwart, 1993.
+x = 95, y = 176, rule = B3/S23
+11bobbo$10bo9boo$10bo3bo4boob3o33boo$10b4o6b5o34boo$21b3o34bo4$12b3o8b
+oo7boo$12bo11bo6bobb3o$12bobo3boo3boo6boob4o$13boo7bo9boobobbo$33boob
+oo$27bobo$11bobbo5boo6bo4bobo$10bo8b4o11bo$10bo3bo3booboo$10b4o5boo21b
+oo$41boob3o$42b5o$43b3o31$28b4o$12bobbo12bo3bo$11bo16bo$11bo3bo13bobbo
+$11b4o$$38bo$16bobo18bo$15bo3boob3o12b3o$13boobob4o4boo$13bo4b5o5boo$
+13bo3bo5bo4boo13bo$14b3o8b5o12bo$16bo9boo14b3o$$12bobbo5boo$11bo8b4o
+24bo$11bo3bo3booboo12bobbo7bo$11b4o5boo5boo6bo11b3o$26booboo4bo3bo$27b
+4o4b4o$28boo23bo$41boo9bo$52b3o10b3o$30b3o7bobbo20b5o$29boo3bo5booboo
+18boob3o$28boobbobobb5obo14bo5boo$29bo5bob3obbo14bo$30boobbo3bo18b3o$
+34bo$32bo35bo$54bo11boobo$27boo23bobo11bobbo$26booboo22boo13bo$27b4o
+14boo22bo22boo$28boo14booboo20bo20booboo$10bobbo31b4o16bo3bo20b4o$9bo
+9boo25boo18b3o22boo$9bo3bo4boob3o33boo$9b4o6b5o34boo$20b3o34bo4$11b3o
+8boo7boo$11bo11bo6bobb3o$11bobo3boo3boo6boob4o$12boo7bo9boobobbo$32boo
+boo$26bobo$10bobbo5boo6bo4bobo$9bo8b4o11bo10bo$9bo3bo3booboo20bo3bo$9b
+4o5boo21bo$41bo4bo$41b5o27$16bobo$15bobbo$14boo$o12bo$12b4o$o10bo4bo$
+11bobbo$o10bobbo$12bo$o12b4obo$14bo3bo$o14bo$15bobo$$14b3o$14boo$14boo
+4bobo4bobo8boo$14b5obobbobbobbobooboboboo7bo$16bo4bo3boo7bo3boo5boobo$
+14bo7bo6bo5boobbo6bobo$14bobo6b5obo7b3o3boobbo$13bo17boo5boo3b3o$14bob
+o6b5obo8boo3b3o$14bo7bo6bo7b3o3b3o$16bo4bo3boo8boobbo$14b5obobbobbobbo
+boobo3boo$14boo4bobo4bobo4boboboo$14boo22boo$14b3o$$15bobo$15bo$14bo3b
+o$13b4obo$12bo$11bobbo$11bobbo$11bo4bo$12b4o$13bo$14boo$15bobbo$16bobo
+!

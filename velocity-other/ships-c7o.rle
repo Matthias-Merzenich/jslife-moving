@@ -1,0 +1,19 @@
+#C Small c/7 orthogonal "Loafer" spaceship by Josh Ball, 17 Feb 2013
+#C Larger ship by Matthias Merzenich, 4 Feb 2017
+#C Much larger c/7 orthogonal spaceships have been constructed by
+#C Michael Simkin using the caterloopillar design.
+x = 67, y = 96, rule = B3/S23
+7bo47b2o3b2o$6bobo44b2o2bobo2b2o$5bo2bo$6b2o49bobo$52bo4bobo4bo$2bo5bo
+43bo3bo3bo3bo$bobo3bo44bo2bo5bo2bo$o2bo3b2o$o2b2o3bo43bo11bo$52bo2b2o
+3b2o2bo$51bo3b2o3b2o3bo$52bo2bobobobo2bo$52b2o3bobo3b2o$55bobobobo$55b
+obobobo$54b2obobob2o$57bobo$56b2ob2o3$58bo$54bob2ob2obo$54b2obobob2o$
+53bob2obob2obo$54bo7bo$54bo7bo$52b2o3b3o3b2o$52bo11bo$51b2o11b2o$58bo$
+50bo2b3o5b3o2bo$51bo13bo2$55bo5bo$55b2obob2o$51b4o7b4o$51b3o2b5o2b3o$
+55bo5bo$51b2ob3obob3ob2o$52bo2bo5bo2bo$52bo11bo2$53bo4bo4bo$54b2o5b2o$
+54b2o5b2o2$52bo3bo3bo3bo$51bo4bo3bo4bo$51b3obo5bob3o3$54bo7bo$53b2o7b
+2o$54bo7bo$52b3o7b3o$51bobo9bobo2$51b3o9b3o$52bo11bo$52b3o7b3o3$53bo9b
+o$51b2obo7bob2o$51bo3bo5bo3bo$50b3obo7bob3o$53b2o7b2o$51bob2o7b2obo$
+52b3o7b3o$54bo7bo$52bobo7bobo$55b2o3b2o$54b4ob4o$52bo2bobobobo2bo$56bo
+3bo$55b2o3b2o$55b2o3b2o2$56bo3bo$55bobobobo$54bo7bo$54bo7bo$55bo5bo2$
+56b2ob2o$56bo3bo$56bo3bo$57b3o$56bo3bo$55b2o3b2o4$51b2o3bo3bo3b2o$52b
+4o5b4o$53b2o7b2o!

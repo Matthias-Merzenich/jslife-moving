@@ -1,0 +1,46 @@
+#C 1. By Jason Summers
+#C 2. By Stephen Silver
+x = 106, y = 255, rule = B3/S23
+30bobo$29bobbo$28boo$27bo$13bobo10b4o$12bobbo9bo4bo$11boo12bobbo$10bo
+14bobbo$9b4o13bo$8bo4bo6bo6b4obo$8bobbo5boobo7bo3bo$8bobbo5bo11bo$9bo
+7bo11bobo$10b4obo$11bo3bo12b3o$12bo15boo$12b5o6bo4b3o$20boobo$14b3o3bo
+8bobo$14bo5bo7bobbo$14bo3bo9bo$15bo3b3o5bobbo$16boo9boo$19b5obobo$20bo
+4bobo$21boo4bo3bo$22bobbobo4bo4bo$23bobobo5bo3bo$27bo5bo3boo$23bobobo
+5bo$22bobbobo5bo$21boo4bo5bo3boo$20bo4bobo5bo3bo$19b5obobo4bo4bo$18bo
+8bo3bo$18b6obobo$15bobo7bobo$14b6oboo4boo$13boo5boo5bobbo$12boo4boo4bo
+3bo$13boo4b4obo3bobbo$29bobo$13boo4b5o$12boo4boo8b3o$13boo5boobo4boo$
+14b6obobo4b3o$15bobo19bo$18b6o5bobobboobo$18bo9bobbobbo$20boo6bo5bo$
+20b4o4bo3bo$23bo5bo3b3o$30boo$33b5obo$34bo4bo$35boo$36bobbo$37bobo9$
+30bobo$29bobbo$28boo$27bo$13bobo10b4o$12bobbo9bo4bo$11boo12bobbo$10bo
+14bobbo$9b4o13bo$8bo4bo6bo6b4obo$8bobbo5boobo7bo3bo$8bobbo5bo11bo$9bo
+7bo11bobo10b3o$10b4obo25b5o$11bo3bo12b3o9boob3o$12bo15boo11boo$12b5o6b
+o4b3o$20boobo24b3o$14b3o3bo8bobo16bo$14bo5bo7bobbo17bo$14bo3bo9bo$15bo
+3b3o5bobbo$5bo10boo9boo$19b5obobo$5bo14bo4bobo$21boo4bo3bo$5bo16bobbob
+o4bo4bo$23bobobo5bo3bo$5bo21bo5bo3boo$23bobobo5bo$5bo16bobbobo5bo$21b
+oo4bo5bo3boo$20bo4bobo5bo3bo$19b5obobo4bo4bo$18bo8bo3bo$18b6obobo$15bo
+bo7bobo$14b6oboo4boo$13boo5boo5bobbo$12boo4boo4bo3bo$13boo4b4obo3bobbo
+$29bobo$13boo4b5o$12boo4boo8b3o$13boo5boobo4boo$14b6obobo4b3o$15bobo
+19bo$18b6o5bobobboobo$18bo9bobbobbo$20boo6bo5bo$20b4o4bo3bo$23bo5bo3b
+3o$30boo$33b5obo$34bo4bo$35boo$36bobbo$37bobo15$26bobo$19bo5bobbo$16b
+4o4boo$16boo5bo$14bo7b4o$14b4o3bo4bo$13bo7bobbo$12b3obbo3bobbo$13b3o6b
+o$14bo8b4obo$15b3obo4bo3bo$15bobboo5bo$16b3o6bobo$18bo$16bo7b3o$16bobo
+5boo$15bo8b3o$16bobo$16bo8bobo$18bo5bobbo$16b3o5bo64b5o$15b3o5bobbo62b
+o4bo$obobo11boo5boo38boo24bo$17boobbobo15b3o20booboo23bo3bo$4bo13boobo
+bo14b5o20b4o25bo$23bo13boob3o4b4o13boo$obobo13boobobobbo11boo6b6o$17b
+oobboboo20boob4o$o15boo5bobbo19boo48boo$15boobobbobo71boob3o$obobo9bo
+bb3obobobbo11boo56b5o$14bo8bobbo11b3o56b3o$14bobb3obobobbo11boo25boo5b
+oo$15boobobbobo6boo24boo8bobo3bobo$16boo5bobbo3boo23bobbo8bo6bo13boo$
+17boobboboo30bo16bobo13boo$18boobobobbo14bo14b3o13boo$23bo9bo5bo3bo$
+18boobobo7bo3bobbo$17boobbobo6bo7bo4bo7bo51bo$16boo5boo5bo4bobb5o6bo3b
+o18b4o28boo$15b3o5bobbo3b5o13bo22b6o26boo$16b3o5bo23bo4bo16boob4o$18bo
+5bobbo20b5o18boo$16bo8bobo$16bobo$15bo8b3o$16bobo5boo$16bo7b3o$18bo$
+16b3o6bobo$15bobboo5bo$15b3obo4bo3bo$14bo8b4obo$13b3o6bo$12b3obbo3bobb
+o$13bo7bobbo$14b4o3bo4bo$14bo7b4o$16boo5bo$16b4o4boo$19bo5bobbo$26bobo
+12$39bo$36b4o$36boo$34bo$34b4o$33bo$32b3obbo$33b3o$34bo$35b3obo$35bobb
+oo$36b3o$38bo$36bo$36bobo$16boo3boo12bo$13boo3bo5bo10bobbo$12boobo3boo
+b3o6bobobo$13b3o8bo5bobbobobbo$14boobb5o6boo4boo$23b3o7bobobbo$7b7o6b
+oobb8obobo$7bo6bo5bo14bobbo13boo$7bo13booboob5obobobbo3bo8bobbo$8bo11b
+o3boobbo4bobobbo5bo5boob3obo$10boo4bo3b6o3boo4bobbo4bobo4boobb3obbo$
+13b5obobboboo4bobbobobbo5boo5boo3boo$12boo7bobb3o4bobobo20bo$13b4obob
+oo3boo9bobo$14b3obobo15bo$38bo$36b3o$35bobboo$35b3obo$34bo$33b3o$32b3o
+bbo$33bo$34b4o$34bo$36boo$36b4o$39bo!

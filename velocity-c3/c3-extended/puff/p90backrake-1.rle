@@ -1,0 +1,41 @@
+#C A period 90 c/3 backward rake.
+#C This works by perturbing the output from a period 45 puffer using many
+#C edge-spark and edge-fixing spaceships to create the backwards glider.
+#C This is an improvement on a previous version of the rake.
+#C David I. Bell, August 2002
+x = 86, y = 252
+43bo$42bobo$26bo14bo3bo14bo$22b3ob3o13b3o13b3ob3o$21bo6bob3o21b3obo6bo
+$22boo3bo5bo6boo3boo6bo5bo3boo$30b7o3boo3boo3b7o$28bobboo3boobb3ob3obb
+oo3boobbo$29boobo4boo9boo4boboo$35b4obbooboobb4o$27boob4o7booboo7b4ob
+oo$26boboboo5boobob3oboboo5boobobo$23boobo10boobo5boboo10boboo$23boobo
+9bobobo5bobobo9boboo$23bobo10bo3bo5bo3bo10bobo$42bobo$36bo3b3ob3o3bo$
+36bob5ob5obo$36bobo9bobo$38bobooboboobo$37boobob3oboboo$38bobob3obobo$
+35booboboo3booboboo$35boobobo5boboboo$36bobobo5bobobo$17bo21boo5boo21b
+o$10boob3ob3o20b7o20b3ob3oboo$10boo4bobbooboo19bo19booboobbo4boo$9bobb
+oboo3bobboo14bobobbobbobo14boobbo3boobobbo$21bobbo5bo6boobo5boboo6bo5b
+obbo$25bobb4o5boo3bobo3boo5b4obbo$28bo3bo6boo5boo6bo3bo$23b3obboboboo
+5b9o5boobobobb3o$26bobbooboboo15booboboobbo$28boobo3boboo9boobo3boboo$
+35bobob9obobo$36b15o$38bo9bo$40bo5bo$39bo7bo$40booboboo13bo$56boobobo$
+56boo4bo$55bobbo3boobo$37boo4bo4boo10bobooboo$41bo3bo13b6obbo$36bobbo
+7bobbo6bobbo9boo$35bo7bo7bo5bo3bo3bo3boboo4b3oboo$36bo4bo3bo4bo6boobbo
+bboob3oboobboo4boo$36bo3bo5bo3bo6bobbo3boo5boobo3bobobbo$37boo9boo11bo
+5boo5b3o$70bob3o$35b3o11b3o21boo$39bobo3bobo$41bo3bo$42bobo$36bo5bobo
+5bo$36bo5bobo5bo$37bo11bo$39b3o3b3o3$40boo3boo$40boo3boo$$49bo$48bo$
+48b3o$$40boo3boo$40boo3boo$$40boo3boo$40boo3boo3$47bo$45b3o$45b3o$44b
+oo$43boo$42bobb4o$42bo4boboo$45bo3boo$42bobboo$41bobbo3b3o$41bobo5bo$
+41b3o8bo$52bo$52bo$$48b3o4$17boboo$16boobooboo$15bobbobobbo$16bo5boo4b
+oo$25booboo3bo3bo8b3o$25boo3bobo4bo8bobbo$25boo6bobb4obo4boobo$34bo3b
+ooboo4bo$41bo5boo$36bo4bo$37bobbo10bo$38boo9b3o$49bobbo21bo3bo$50b3o
+18boboboob3o$40b3o27bobbo6booboo$41boo4bobbo14boobboobbo3bobbobboo$38b
+oo7bobb3o12booboboobbobbo4bobbo$47bo16bo3bo4boo$42b6o16bobobobbobboo$
+43bobobo25bo$43bo21b3o$44boo8$73boo$73booboo$67boo4boobb4o$67booboo4bo
+4bo$58bo7bo3boo7boo$57b4o9boo$52bo3bo3booboo$51b4o5bobboo$50bo3bo7bobb
+o$51bobobbo$55bo$$7boo9b3o5boo$bbobooboo7boobobobooboo$b3obo3boo4bo3bo
+bobobbobo$o3boobobobo4boboboo3bobbo$bo3b3obob3o5bobob4obbo20bo$5bo3bo
+bbooboobboboboobo22b4o$6boobbobboo6b4o4bo14bo3bo3booboo$5b3o5bo4bo9b3o
+12b4o5bobboo$4boobboo3bo6bo6bo3boo9bo3bo7bobbo$7boo3boo8bobboo3b3o10bo
+bobbo$4booboo4bo12bo3boo15bo$13bo5$35bo$34bobo$37bob3o$37bo4boo$35bobb
+obobbo$35bobobbobbo$36boobbobo$41bo16$57b3o9b3o$55boobobo7boboboo$52bo
+bo4bo9bo4bobo$51boboo9bo9boobo$50bo3b4o5bobo5b4o3bo$53bobbo5bo3bo5bobb
+o$51bo11b3o11bo$53b4o15b4o$52b4obbooboo3booboobb4o$54bo4boboo3boobo4bo
+$57bobobo5bobobo12$23bo$23bobo$23boo50$bo$o$3o!

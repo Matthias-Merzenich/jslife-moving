@@ -1,0 +1,28 @@
+#C A period 45 c/3 puffer which produces just a blinker every period.
+#C David I. Bell, July 1997
+x = 87, y = 140
+30bo7bo27bo7bo$29b4o3b4o25b4o3b4o$28bo3booboo3bo10b3o10bo3booboo3bo$
+28bo4bobo4bo10b3o10bo4bobo4bo$26bobobobooboobobobo7bo3bo7bobobobooboob
+obobo$25bo6booboo6bo17bo6booboo6bo$24boobo3bo5bo3boboo4bo5bo4boobo3bo
+5bo3boboo$22booboboo11boobobo3booboboo3boboboo11booboboo$20boobo22bo
+11bo22boboo$19bo3bo22bo3bo3bo3bo22bo3bo$20bobo23bo4bobo4bo23bobo$47bo
+bbo3bobbo$49bobobobo$46boobobbobboboo$45bobobob3obobobo$45bobobbooboo
+bbobo$46b3obbobobb3o$47boboo3boobo$45boo3bo3bo3boo$45bobo4bo4bobo$47bo
+bbobobobbo$47bob3ob3obo$47bobo5bobo$44boobobobbobboboboo$44boobobobbo
+bboboboo$47bobob3obobo$46bobb7obbo$20boboob3o49b3oboobo$19booboo4boobo
+16bo7bo16boboo4booboo$18bobbobobbo3b3o18b3o18b3o3bobbobobbo$19bo5bo3bo
+3bo13b3o5b3o13bo3bo3bo5bo$32boo4b3o5boob3ob3oboo5b3o4boo$32boobboobo9b
+3ob3o9boboobboo$33boo4boboo9bo9boobo4boo$38bobbobo3boo7boo3bobobbo$33b
+oobobbobobobo13bobobobobboboo$37bo8bo11bo8bo$44bob13obo5$12boo$10b3obo
+10b3o$6booboo3boobo5bo3boobb3o$6boobbobboboobo3boo3b4obobo$5bobbo6bo3b
+o5boobo3boo$4bo10bo3bobbo5bo3bobb3o$7bo6booboobo7bo3boobb3o5bo15bo$bb
+3o7boobobo5bo4bobobobo4bo4b3o11b3o$booboboo3bo5bobobb5obboobo11b4o9b4o
+$o3bo3bobboobobobbo4bo3boobobboobobo8bo7bo$9b3oboobb3o14b3o11boo5boo$
+7bobbo3b3o4bo12bo10boboo7boobo$9bo5boo3bo13bo9boobo9boboo$45boboo7boob
+o5$49bobobobo$48bobbobobbo$47bo3bobo3bo$47bo9bo$47bo9bo$49bo5bo$47bo9b
+o$48b3o3b3o$49bo5bo5$54boo$49bobobboo$48bobbo$49bobobboo$50bo3boo5$47b
+ooboo$49b4o$29bo18boobo$25b3ob3o17b3oboo$24bo6boo13bobboob3o$25boo3bo
+bbo3bo7bo3booboo$35b4o4b3obb3obbobo$35bo3bo8boo3bob3o$33bobbobo3boboo
+5bobbobbo$34bo7bo7b3obboo$42bobbo5boobbo$42bobboo5bo$44b3o$46boo$75bo$
+73b3ob3o$72boo6bo$67bo3bobbo3boo$66b4o$65bo3bo$66bobobbo$70bo6$43b3o
+14$44bo$44bo$44bo14$43b3o!

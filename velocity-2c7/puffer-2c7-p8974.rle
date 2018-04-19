@@ -1,0 +1,74 @@
+#C Period-8974 2c/7 dirty puffer
+#C This was the first 2c/7 puffer to be found.
+#C Hartmut Holzwart suggested a simpler puffer design based
+#C on the same components (see puffer-2c7-p6622.rle).
+#C Ivan Fomichev, 26 Dec 2013
+x = 185, y = 785, rule = B3/S23
+159bo12bo$137bo12bo8bo12bo$136b3o10b3o6bobo10bobo$136b3o10b3o7bo12bo$
+159bo12bo$160bo3b4o3bo$139bo3b2o3bo15b4o$137bob4o2b4obo9b4o4b4o$137bob
+4o2b4obo$162bo6bo$141b6o7b3o6b2o2b2o$140b2o4b2o6bo2bo$140b2o4b2o6bo$
+154bo$155bobo$130bo12bo25bo12bo$129bobo10bobo23bobo10bobo$128bo3bo8bo
+3bo21bo3bo8bo3bo$129bo2bo8bo2bo23bo2bo8bo2bo$129bobo4b2o4bobo23bobo4b
+2o4bobo$130b3o3b2o3b3o25b3o3b2o3b3o$133bo6bo31bo6bo$132bo2b4o2bo29bo2b
+4o2bo$136b2o37b2o$133b3o2b3o31b3o2b3o7$163b3o10b3o$163bobo10bobo$163b
+3o10b3o$164b2o4b2o4b2o$169bo2bo$165bobo6bobo$166b10o$168bo4bo$168bo4bo
+$121bo12bo33bo4bo$121bo12bo$120bobo10bobo$121bo12bo$121bo12bo$122bo3b
+4o3bo$126b4o$122b4o4b4o2$124bo6bo$125b2o2b2o32$161b3o10b3o$160bo3bo8bo
+3bo2$164bo8bo$160bo7b2o7bo$162b3o2bo2bo2b3o$163b2ob2o2b2ob2o3$165b8o$
+166bob2obo6$165bo12bo$165bo12bo$164bobo10bobo$165bo12bo$165bo12bo$166b
+o3b4o3bo$170b4o$166b4o4b4o2$168bo6bo$169b2o2b2o10$116b3o10b3o$115bo3bo
+8bo3bo2$119bo8bo$115bo7b2o7bo$117b3o2bo2bo2b3o$118b2ob2o2b2ob2o3$120b
+8o$121bob2obo14$96b3o10b3o$96bobo10bobo$96b3o10b3o$97b2o4b2o4b2o$102bo
+2bo$98bobo6bobo19b3o10b3o$99b10o$101bo4bo22bobo10bobo$101bo4bo23bo12bo
+$101bo4bo$131b2ob6ob2o2$132bo2bo2bo2bo2$133b8o$136b2o$133b2o4b2o8$129b
+3o10b3o$128bo3bo8bo3bo2$132bo8bo$128bo7b2o7bo$130b3o2bo2bo2b3o$131b2ob
+2o2b2ob2o3$133b8o$134bob2obo6$133bo12bo$133bo12bo$132bobo10bobo$133bo
+12bo$133bo12bo$134bo3b4o3bo$138b4o$134b4o4b4o2$136bo6bo$137b2o2b2o10$
+84b3o10b3o$83bo3bo8bo3bo2$87bo8bo$83bo7b2o7bo$85b3o2bo2bo2b3o$86b2ob2o
+2b2ob2o3$88b8o$89bob2obo14$64b3o10b3o$64bobo10bobo$64b3o10b3o$65b2o4b
+2o4b2o$70bo2bo$66bobo6bobo19b3o10b3o$67b10o$69bo4bo22bobo10bobo$69bo4b
+o23bo12bo$69bo4bo$99b2ob6ob2o2$100bo2bo2bo2bo2$101b8o$104b2o$101b2o4b
+2o8$97b3o10b3o$96bo3bo8bo3bo2$100bo8bo$96bo7b2o7bo$98b3o2bo2bo2b3o$99b
+2ob2o2b2ob2o3$101b8o$102bob2obo6$101bo12bo$101bo12bo$100bobo10bobo$
+101bo12bo$101bo12bo$102bo3b4o3bo$106b4o$102b4o4b4o2$104bo6bo$105b2o2b
+2o10$52b3o10b3o$51bo3bo8bo3bo2$55bo8bo$51bo7b2o7bo$53b3o2bo2bo2b3o$54b
+2ob2o2b2ob2o3$56b8o$57bob2obo14$32b3o10b3o$32bobo10bobo$32b3o10b3o$33b
+2o4b2o4b2o$38bo2bo$34bobo6bobo19b3o10b3o$35b10o$37bo4bo22bobo10bobo$
+37bo4bo23bo12bo$37bo4bo$67b2ob6ob2o2$68bo2bo2bo2bo2$69b8o$72b2o$69b2o
+4b2o8$65b3o10b3o$64bo3bo8bo3bo2$68bo8bo$64bo7b2o7bo$66b3o2bo2bo2b3o$
+67b2ob2o2b2ob2o3$69b8o$70bob2obo6$69bo12bo$69bo12bo$68bobo10bobo$69bo
+12bo$69bo12bo$70bo3b4o3bo$74b4o$70b4o4b4o2$72bo6bo$73b2o2b2o10$20b3o
+10b3o$19bo3bo8bo3bo2$23bo8bo$19bo7b2o7bo$21b3o2bo2bo2b3o$22b2ob2o2b2ob
+2o3$24b8o$25bob2obo14$3o10b3o$obo10bobo$3o10b3o$b2o4b2o4b2o$6bo2bo$2bo
+bo6bobo19b3o10b3o$3b10o$5bo4bo22bobo10bobo$5bo4bo23bo12bo$5bo4bo$35b2o
+b6ob2o2$36bo2bo2bo2bo2$37b8o$40b2o$37b2o4b2o6$33b3o10b3o2$33bobo10bobo
+$34bo12bo2$35b2ob6ob2o2$36bo2bo2bo2bo2$37b8o$40b2o$37b2o4b2o10$8b3o10b
+3o2$8bobo10bobo$9bo12bo2$10b2ob6ob2o2$11bo2bo2bo2bo2$12b8o$15b2o35bo
+12bo$12b2o4b2o31b3o10b3o$51b3o10b3o3$54bo3b2o3bo$52bob4o2b4obo$52bob4o
+2b4obo2$56b6o$55b2o4b2o$55b2o4b2o30$10b3o10b3o2$10bobo10bobo$11bo12bo
+2$12b2ob6ob2o2$13bo2bo2bo2bo2$14b8o$17b2o$14b2o4b2o2$42b3o10b3o$41bo3b
+o8bo3bo2$45bo8bo$41bo7b2o7bo$43b3o2bo2bo2b3o$44b2ob2o2b2ob2o2$10bo12bo
+$10bo12bo22b8o$9bobo10bobo22bob2obo$10bo12bo$10bo12bo$11bo3b4o3bo$15b
+4o$11b4o4b4o2$13bo6bo$14b2o2b2o5$13bo12bo25bo12bo$12b3o10b3o23b3o10b3o
+$11b5o8b5o21b5o8b5o$11b5o8b5o21b5o8b5o$12bo6b2o6bo23bo6b2o6bo$13b3o3b
+2o3b3o25b3o3b2o3b3o$16bobo2bobo31bobo2bobo$18bo2bo35bo2bo$16bo6bo31bo
+6bo$17b6o33b6o$17bo4bo33bo4bo5$18bo12bo$17bobo10bobo$16bo3bo8bo3bo$17b
+o2bo8bo2bo$17bobo4b2o4bobo$18b3o3b2o3b3o$21bo6bo$20bo2b4o2bo$24b2o$21b
+3o2b3o2$60b3o10b3o$60bobo10bobo$60b3o10b3o$61b2o4b2o4b2o$66bo2bo$62bob
+o6bobo$63b10o$65bo4bo$65bo4bo$65bo4bo29$20bo12bo$20bo12bo$19bobo10bobo
+$20bo12bo$20bo12bo$21bo3b4o3bo$25b4o$21b4o4b4o2$23bo6bo$24b2o2b2o11$
+16bo12bo$16bo12bo$15bobo10bobo$16bo12bo$16bo12bo$17bo3b4o3bo$21b4o$17b
+4o4b4o2$19bo6bo$20b2o2b2o$58b3o10b3o2$58bobo10bobo$59bo12bo2$60b2ob6ob
+2o2$61bo2bo2bo2bo2$62b8o$65b2o$62b2o4b2o28$18bo12bo$17b3o10b3o$17b3o
+10b3o3$20bo3b2o3bo$18bob4o2b4obo$18bob4o2b4obo2$22b6o$21b2o4b2o$21b2o
+4b2o10$14bo12bo$13b3o10b3o$13b3o10b3o3$16bo3b2o3bo$14bob4o2b4obo$14bob
+4o2b4obo2$18b6o$17b2o4b2o$17b2o4b2o31b3o10b3o$55bo3bo8bo3bo2$59bo8bo$
+55bo7b2o7bo$57b3o2bo2bo2b3o$58b2ob2o2b2ob2o3$60b8o$61bob2obo29$16bo12b
+o$15b3o10b3o$14b5o8b5o$14b5o8b5o$15bo6b2o6bo$16b3o3b2o3b3o$19bobo2bobo
+$21bo2bo$19bo6bo$20b6o$20bo4bo13$7bo12bo25bo12bo$6bobo10bobo23bobo10bo
+bo$5bo3bo8bo3bo21bo3bo8bo3bo$6bo2bo8bo2bo23bo2bo8bo2bo$6bobo4b2o4bobo
+23bobo4b2o4bobo$7b3o3b2o3b3o25b3o3b2o3b3o$10bo6bo31bo6bo$9bo2b4o2bo29b
+o2b4o2bo$13b2o37b2o$10b3o2b3o31b3o2b3o8$45b3o10b3o2$45bobo10bobo$46bo
+12bo$6bo12bo$5b3o10b3o26b2ob6ob2o$4b5o8b5o$4b5o8b5o26bo2bo2bo2bo$5bo6b
+2o6bo$6b3o3b2o3b3o29b8o$9bobo2bobo35b2o$11bo2bo34b2o4b2o$9bo6bo$10b6o$
+10bo4bo!

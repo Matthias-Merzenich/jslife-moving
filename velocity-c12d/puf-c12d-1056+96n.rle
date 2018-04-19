@@ -1,0 +1,27 @@
+#C p1056 block puffer
+#C Advancing the front Cordership by multiples of 64
+#C generations increases the period by multiples of 96
+#C generations.
+#C David Bell, 7 Feb 2008
+x = 170, y = 94, rule = B3/S23
+117bo$$113bo7bo$113bo8bobb3o$112bo4boo3bobb3o$113bobo6bobboobbo$113bob
+oo10bobo$127b3o$118bo18boo$137boo6$138bo$136boobo5boo$134booboboo4boo$
+136bo$125boo4boobo$33bo83boo8boobo$33bo83boo5b3obob4o$33bo95bo$30bob3o
+bo$30bob5o13bo71b3o$34bobo12bobo71boo$31boo19bo52boo7boo3bob3o$31boo
+16bo3bo51b3o6b3obbob3o$32bo16bo55boobobo33bo$32boo16bobbo54boo34bo$33b
+o3boo10boobo34bo56bo$33bo16boo5boo86boo$31boboo22boo24bo7bo53b3o$32bo
+50bo8bobb3o47boo$82bo4boo3bobb3o62boo$83bobo6bobboobbo60boo$83boboo10b
+obo$97b3o$88bo55bo$48bo94bobo$48boo15boo76bobbo$47boboo11bobobbo93boo$
+48bobboo6boobobo3bo91bo7boo$39bobo7boobo14bo74bobbo14b3o5boo$25b3o9bo
+3b3o3booboboo8bobboo3b3o30b3o36boob3o10b3o$38bo4b4o3bo11bobbo4bo31boo
+bboo36boobbo9b3o$29bo9boobbo5bobb3o16bo30boobboo37bobbo$25bo3boo12bobo
+3bobb3o48boboo38bobo$27bobo17boo3boo49boo$24b3o21bo4boo40boo6boo$3bo
+22bo18boo6boo32boo8b3o8bobo42bobobboo$3bo48bo34boo5b3oboo8boo43bobb3o$
+3bo21boo16bo65bo26b3o19boo$ob3obo19boo15bo93bo16bobboo$ob5o13bo5bo110b
+obbo14b3o3boo$4bobo12bobo4boo109bobbo19bobo$boo19bobboo111bobo21bo$boo
+16bo3bo$bbo16bo75boo17bo$bboo16bobbo71boo17bo$3bo3boo10boobo91bo$3bo
+16boo93boo$boboo110b3o19boo$bbo112boo$130boo$130boo$$135b3o$114bo19bo
+bbo$18bo94bobo17bo3bo$18boo93bobbo18bo$17bo113bobbo$18b3o109bo$7boo10b
+o92bobbo$7boo103boob3o$114boobbo11b3o$115bobbo11bobo$115bobo14boo$130b
+obbo$131boo$131bo$15boo110bo$15boo111boo$126bobo$118boo6bo$118boo4boo$
+125bobo$126boo5$126boo$126boo!

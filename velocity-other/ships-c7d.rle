@@ -1,0 +1,13 @@
+#C "Lobster"
+#C By Matthias Merzenich, 19 Aug 2011
+x = 98, y = 34, rule = B3/S23
+65b3o$65bo$54boobbobo5bobboo$54boboboo9boo$12b3o39bo4bobbobboo$12bo47b
+o5boo$13bobboo38boo7bobbo$16boo38boo$12boo53bo16b3o$13boo59b3o7bo$12bo
+bbo58bo10bobboo$63boobbobo5bobboo8boo$14bobbo45boboboo9boo4boo$14bo3bo
+44bo4bobbobboo9boo$15b3obo49bo5boo7bobbo$20bo44boo7bobbo$oobbobo13bo
+44boo19bobbo$oboboo13bo56bo9bo3bo$o4bobboo13boo62b3obo$6bo3bo6boobboo
+bbo66bo$bboo6bo6bobbo51boobbobo13bo$bboo4bobo4boo55boboboo13bo$9bo5bo
+3bo3bo48bo4bobboo13boo$10bobbo4boo58bo3bo6boobboobbo$11boo3bo5bobo49b
+oo6bo6bobbo$15bo8boo48boo4bobo4boo$15bo4bo60bo5bo3bo3bo$14bo3bo63bobbo
+4boo$14bo5boo61boo3bo5bobo$15bo5bo65bo8boo$87bo4bo$86bo3bo$86bo5boo$
+87bo5bo!

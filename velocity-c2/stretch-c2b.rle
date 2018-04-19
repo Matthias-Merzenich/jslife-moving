@@ -1,0 +1,36 @@
+#C Hartmut Holzwart found a way to build a new wickstretcher
+#C (22 Apr 2005). A stationary part needed to complete the
+#C pattern was first found by Karel Suhajda.
+#C There are many possible variations of the wickstretcher,
+#C some of which are easy to find, and others not.
+#C One is shown below, with one-sided stationary
+#C parts found by Jason Summers and Holzwart.
+x = 47, y = 139, rule = B3/S23
+8bo$7b4o6bobo$6bob4o4bo4boo$5boo7bobo$6boo3b4o6boo$7boboo5b5o$3bo5b3ob
+oboobbo$bo5boo4bobobo$o11boo$o6bo$6o4boo12boo$7bobboo11bobbobbo$6bo17b
+ob4o$5bo3bo11b4o7boo$4bo3bo12bo3boboobobbo5bo$3bo4boo14booboobooboboob
+obo$3bobb3oboo3boobo13bobboboobbo$3bo3booboob4obobob5ob3o4bo3boobboo$
+4bo11bob3obbobobobob4ob3obboobbo$5b11obboobbo4bobo4bo4bo3bobo$20bo6boo
+bbo3bobo3b3oboo$5b11obboobbo4bobo4bo4bo3bobo$4bo11bob3obbobobobob4ob3o
+bboobbo$3bo3booboob4obobob5ob3o4bo3boobboo$3bobb3oboo3boobo13bobboboo
+bbo$3bo4boo14booboobooboboobobo$4bo3bo12bo3boboobobbo5bo$5bo3bo11b4o7b
+oo$6bo17bob4o$7bobboo11bobbobbo$6o4boo12boo$o6bo$o11boo$bo5boo4bobobo$
+3bo5b3oboboobbo$7boboo5b5o$6boo3b4o6boo$5boo7bobo$6bob4o4bo4boo$7b4o6b
+obo$8bo12$34boo$35bo$34bo3bo$27boo4bob4o$28bo4bobo$28boboobo3boo$29bob
+obbo3bo$27bobo3bobbo$27boobobbob3o$30bob3o3bo$27boobobobbobbo$8bo18boo
+bobo3boboo$7b4o6bobo10bobboboobbo$6bob4o4bo4boo3bobooboo4bo$5boo7bobo
+9boobo4booboo$6boo3b4o6boo8boboobo$7boboo5b5o9boobobbo$3bo5b3oboboobbo
+9bobbo3boo$bo5boo4bobobo8boobbobobobo$o11boo11bobboobobbobo$o6bo17boob
+obbo3boboo$6o4boo16bobb4obbo$7bobboo16bobo6bobo$6bo22boobb4obobo$5bo3b
+o23boo3bobbo$4bo3bo27boobobo$3bo4boo5bo5bo5bo5b3oboboo$3bobb3oboo4boo
+4boo4boo7bo$3bo3booboobooboobooboobooboob5obo$4bo30boboo$5b30o$$5b30o$
+4bo30bo$3bo3b28o$3bo3bo$3bo3b28o$4bo30bo$5b30o$$5b30o$4bo30bo$3bo3b28o
+$3bo3bo$3bo3b28o$4bo30bo$5b30o$$5b30o$4bo30bo$3bo3b28o$3bo3bo$3bo3b28o
+$4bo30bo$5b30o$$5b30o$4bo30boboo$3bo3booboobooboobooboobooboob5obo$3bo
+bb3oboo4boo4boo4boo7bo$3bo4boo5bo5bo5bo5b3oboboo$4bo3bo27boobobo$5bo3b
+o23boo3bobbo$6bo22boobb4obobo$7bobboo16bobo6bobo$6o4boo16bobb4obbo$o6b
+o17boobobbo3boboo$o11boo11bobboobobbobo$bo5boo4bobobo8boobbobobobo$3bo
+5b3oboboobbo9bobbo3boo$7boboo5b5o9boobobbo$6boo3b4o6boo8boboobo$5boo7b
+obo9boobo4booboo$6bob4o4bo4boo3bobooboo4bo$7b4o6bobo10bobboboobbo$8bo
+18boobobo3boboo$27boobobobbobbo$30bob3o3bo$27boobobbob3o$27bobo3bobbo$
+29bobobbo3bo$28boboobo3boo$28bo4bobo$27boo4bob4o$34bo3bo$35bo$34boo!

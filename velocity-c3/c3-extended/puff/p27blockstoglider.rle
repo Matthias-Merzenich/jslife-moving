@@ -1,0 +1,32 @@
+#C A period 27 c/3 convoy which converts blocks into backward gliders.
+#C This uses two period 27 smoking spaceships.  Forward gliders can
+#C easily be turned into blocks using small period 3 spaceships.
+#C This reaction allows the blocks can be restored to gliders at a
+#C later time.
+#C David I. Bell, November 2002
+x = 68, y = 70
+11boo13boo$11boobo9boboo$11b3obbobbobbobb3o12b3o11b3o$13bobb3ob3obbo
+13bo17bo$18bobo19bobb3ob3ob3obbo$14bobobobobobo17bobbobobobobbo$14bo3b
+obo3bo19booboboboo$16bobobobo21bobbobobbo$16bobobobo24bobo$15boobobob
+oo20bobbobobbo$14bobobobobobo20bobobobo$13booboboboboboo19bobobobo$10b
+oo4bobobobo4boo13booboboboboboo$10boo4bobobobo4boo13booboboboboboo$10b
+o5bobobobo5bo10b3o3bobobobo3b3o$12b3obobobobob3o11bo5booboboboo5bo$15b
+ooboboboo15boboobbobobobobboobo$16bobobobo19booboboboboboo$13boobobobo
+boboo16booboboboboboo$16bobobobo20bobobobobobo$12boobbobobobobboo18bob
+obobo$11boobbobbobobbobboo13bobobobobobobobo$15booboboboo16b3oboobobob
+oob3o$11boo5bobo5boo12b5obbobobb5o$11boo5bobo5boo16booboboboo$10bobbo
+3booboo3bobbo11boo5bobo5boo$13bobboo3boobbo13bobbo4bobo4bobbo$10boobo
+bb7obboboo11bobobbobobobobbobo$11bobobo7bobobo11booboo9booboo$10bob15o
+bo10boobobobb3obboboboo$9bo3bo4b3o4bo3bo$8bo4boobo5boboo4bo8boo3b3o3b
+3o3boo$8bobboo13boobbo7bo19bo$11bo15bo9boo3boo4bo4boo3boo$9bobobo11bob
+obo10b3o11b3o$8boobob3o7b3oboboo9bo15bo$11boboboo5boobobo9boobobo11bob
+oboo$8boobo5bo3bo5boboo6booboboboo5booboboboo$14bo9bo15boboboo5boobobo
+$39bobob3o5b3obobo$11b3obo3bo3bob3o$13bobbooboboobbo15b3o9b3o$16bobbo
+bbo18b3obobobobob3o$15boo5boo18b5obob5o$15b4ob4o23bobo$47b3o$13b3oboob
+oob3o18bobo3bobo$12bo4booboo4bo$15b3o3b3o18boob3ob3oboo$12b4obo3bob4o
+15bo11bo$12b5o5b5o14bobbo7bobbo$10boo5bo3bo5boo12bo4bo3bo4bo$46bo3bo$
+10bo5bobbobbo5bo11b6o5b6o$14bobbooboobbo14boo15boo$48bo$17bo3bo24boob
+oo$6b3o9b3o26bobo$bboboo3bo23boo13bo11bo$b3o3b3obb3o18boo24b4o$o3bo4b
+3obobo38bo3bo3booboo$bo7bo4bo38b4o5bobboo$10boo40bo3bo7bobbo$53bobobbo
+$23bo33bo$23boo$17boo3boboo18boo$16bobbobbobo8boo8boo4boo$17boo3boo9b
+oo9boo3boo$45bo3boo!

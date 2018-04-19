@@ -1,0 +1,28 @@
+#C A period 45 c/3 backward rake.
+#C David I. Bell, November 2002
+x = 71, y = 145
+34bo$33bobo$17bo14bo3bo14bo$13b3ob3o13b3o13b3ob3o$12bo6bob3o21b3obo6bo
+$13boo3bo5bo6boo3boo6bo5bo3boo$21b7o3boo3boo3b7o$19bobboo3boobb3ob3obb
+oo3boobbo$20boobo4boo9boo4boboo$26b4obbooboobb4o$18boob4o7booboo7b4ob
+oo$17boboboo5boobob3oboboo5boobobo$14boobo10boobo5boboo10boboo$14boobo
+9bobobo5bobobo9boboo$14bobo10bo3bo5bo3bo10bobo$33bobo$27bo3b3ob3o3bo$
+27bob5ob5obo$27bobo9bobo$29bobooboboobo$28boobob3oboboo$29bobob3obobo$
+26booboboo3booboboo$26boobobo5boboboo$27bobobo5bobobo$8bo21boo5boo21bo
+$boob3ob3o20b7o20b3ob3oboo$boo4bobbooboo19bo19booboobbo4boo$obboboo3bo
+bboo14bobobbobbobo14boobbo3boobobbo$12bobbo5bo6boobo5boboo6bo5bobbo$
+16bobb4o5boo3bobo3boo5b4obbo$19bo3bo6boo5boo6bo3bo$14b3obboboboo5b9o5b
+oobobobb3o$17bobbooboboo15booboboobbo$19boobo3boboo9boobo3boboo$26bobo
+b9obobo13b3o$27b15o13bo$29b3o5b3o14boo$34bo13boboobboobb3o$34bo12boob
+ooboo5bo4boo$46bobboo3boboo4booboo$52b4o6boo3bo$48boboboo8boo$50bo$47b
+oo$46boobbo$48b3oboo$26boo19bo5b3o$25boobo11bobobbob4obo3bo$25booboo9b
+oo3bo7boo4bo6bo$26booboo7boo13bo4boo4boob3o$27bobo9bo12bo3bobboobboo5b
+o$27bo13bo12bobbobobbo5boo$27b3o9b3o13bob3o4bo$28boo9boo15b3obb3obo$
+55boo3b3o$32booboo25bobbo$63bo$32booboo$32bo$30bo$29bobo$28bo3b3o$32bo
+bo13b3ob3o$18b3o8boo3bo10b4obo4boobo$14boboo3bo9boo8bo3boo3boobo3b3o$
+13b3o3bobo18b4o5boobo3bo3bo$12bo3bo4boo16bo3bobo3bo9bo$13bo7b3o4boo9bo
+bobobo3bo$19bobo5bobbo9b3o4bobo$18boo7bobo11bo$17bo3bo6bo$21bo$18boboo
+$13bo4bo11bob3o$12bobo3b3o9booboo4b3o$11bo3bo12boobo3bo3bo$12boobo3bo
+7bobboo3bo3boobo$17boo7bobbobo3bo5boo$30bo3bo$17bobbo9b4o$17bobo$22b3o
+$22b3obo$21bo3boo$22b3obo$22b3o$28bo3b3o$27bobo3bo$27bobo4bo$28bo14bo$
+41bobo$42boo$32boo$32bobo$35bo$33bobo$34bo$30boo$33boo$33bobo$29bobobo
+3boo$29boo6boo3$33b3o11$53bo$54boo$53boo24$65bo$66bo$64b3o!

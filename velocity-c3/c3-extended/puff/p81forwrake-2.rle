@@ -1,0 +1,50 @@
+#C A period 81 c/3 forward rake.
+#C This uses a pair of period 27 c/3 smoking spaceships whose smoke
+#C react with each other to form two gliders and a blinker.  One of
+#C the gliders is deleted with a period 3 spaceship.  The blinker
+#C is deleted with another smoking spaceship.  The period 27 spaceships
+#C were found by Paul Tooke.
+#C David I. Bell, November 2002
+x = 103, y = 166
+12bo13bo$11boo13boo$10bobb3o3bo3b3obbo$14b3obobob3o12bo13bo$18bobo15b
+oo13boo$14b3obobob3o10bobb3o3bo3b3obbo$15booboboboo15b3obobob3o$17boob
+oo21bobo$18bobo18b3obobob3o$15booboboboo16booboboboo$16bobobobo19boob
+oo$13booboboboboboo17bobo$11bobbobobobobobobbo12booboboboo$10b5obobobo
+bob5o12bobobobo$9bo3bobooboboboobo3bo8booboboboboboo$12boobbobobobobb
+oo9bobbobobobobobobbo$16bobobobo12b5obobobobob5o$16bobobobo11bo3boboob
+oboboobo3bo$13booboboboboboo11boobbobobobobboo$13bobbobobobobbo15bobob
+obo$11booboboboboboboboo13bobobobo$16bobobobo15booboboboboboo$11bo6bob
+o6bo10bobbobobobobbo$15booboboboo12booboboboboboboboo$11boo5bobo5boo
+13bobobobo$10bobbo4bobo4bobbo7bo6bobo6bo$11bobo3bo3bo3bobo12booboboboo
+$13bobobooboobobo10boo5bobo5boo$10boobo5bo5boboo6bobbo4bobo4bobbo$12bo
+boob5oboobo9bobo3bo3bo3bobo$10bo5bo5bo5bo9bobobooboobobo$8boo4b3o5b3o
+4boo4boobo5bo5boboo$8b3obboo9boobb3o6boboob5oboobo$10booboo9booboo6bo
+5bo5bo5bo$11bobo11bobo5boo4b3o5b3o4boo$8boobobbo9bobboboobb3obboo9boo
+bb3o$8booboboboo5booboboboo4booboo9booboo$9bobobo3bo3bo3bobobo6bobo11b
+obo$11b4obo5bob4o5boobobbo9bobboboo$11boo13boo5booboboboo5booboboboo$
+12boboo7boobo7bobobo3bo3bo3bobobo$16bob3obo13b4obo5bob4o$12bo3bo5bo3bo
+9boo13boo$14b3o5b3o12boboo7boobo$17booboo19bob3obo$18b3o16bo3bo5bo3bo$
+14boobbobobboo14b3o5b3o$13boobbo3bobboo16booboo$12boob3o3b3oboo16b3o$
+12boo11boo12boobbobobboo$16bo5bo15boobbo3bobboo$11bobboobo3boboobbo9b
+oob3o3b3oboo$10b7o5b7o8boo11boo$10boob3o3bo3b3oboo12bo5bo$18bobo15bobb
+oobo3boboobbo$18bobo14b7o5b7o$19bo15boob3o7b3oboo$7boo34b3o$4booboo33b
+ooboo$b4obboo4boo4bo22booboo$o4bo4booboo4bo24bo10boo$boo7boo3bo3bo35b
+ooboo$10boo37boo4boobb4o$49booboo4bo4bo$43b3obbo3boo7boo$24bo27boo$24b
+3o$18bo3boo3bo$17boo8bo$16bobbo4boboo$17bo7bo10bo$35boo8bo$34boo4bo3bo
+bbo$35b5o5boo$37b3o9$12bo3bo20b3o$10b3oboobobo16bo3boo$6booboo6bobbo
+20bo$6boobbobbo3bobboobboo9bo5bo$5bobbo4bobbobbooboboo9bo3boo$16boo4bo
+3bo6boob3o$15boobbobbobobo6booboo$17bo14bo$23b3o7boo$34bo$60boo$59bobo
+$61bo3$13boo13boo$13boobo9boboo$13b3obbobbobbobb3o50boo$15bobb3ob3obbo
+53boo$20bobo57bo$16bobobobobobo$16bo3bobo3bo$18bobobobo$18bobobobo$17b
+ooboboboo74b3o$16bobobobobobo75bo$15booboboboboboo73bo$12boo4bobobobo
+4boo$12boo4bobobobo4boo$12bo5bobobobo5bo$14b3obobobobob3o$17booboboboo
+$18bobobobo$15booboboboboboo$18bobobobo$14boobbobobobobboo$13boobbobbo
+bobbobboo5b3o$17booboboboo$13boo5bobo5boo$13boo5bobo5boo$12bobbo3boob
+oo3bobbo$15bobboo3boobbo$12boobobb7obboboo$13bobobo7bobobo$12bob15obo$
+11bo3bo4b3o4bo3bo$10bo4boobo5boboo4bo$10bobboo13boobbo$13bo15bo$11bobo
+bo11bobobo$10boobob3o7b3oboboo$13boboboo5boobobo$10boobo5bo3bo5boboo$
+16bo9bo$$13b3obo3bo3bob3o$15bobbooboboobbo$18bobbobbo$17boo5boo$17b4ob
+4o$$15b3obooboob3o$14bo4booboo4bo7bo$17b3o3b3o10bo$14b4obo3bob4o7bo$
+14b5o5b5o$12boo5bo3bo5boo$21bo$12bo7b3o7bo$16bo4bo4bo3$8b3o$4boboo3bo
+9bo$3b3o3b3obb3o4bo$bbo3bo4b3o3bo$3bo7bo3boo$12boo7boo$20boobo$19bobob
+oo$19b5o$20bobo$21bo!

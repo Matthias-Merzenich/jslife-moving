@@ -1,0 +1,18 @@
+#C A glider turning reaction using a period 24 c/3 spaceship.
+#C A forward glider is turned into a reversed forwards glider.
+#C David I. Bell, February 1999
+x = 82, y = 53
+11boo3boo46boo3boo$8booboo3booboo40booboo3booboo$8boo3bobo3boo3b3o28b
+3o3boo3bobo3boo$bbob3obbobobobobobobboo6boo18boo6boobbobobobobobobb3ob
+o$boob3o6bobo6boo4booboboo12booboboo4boo6bobo6b3oboo$obbob3obo3bobo3bo
+b4obboobboboo12boobobboobb4obo3bobo3bob3obobbo$bo11bobo9bobboboboobo
+10boboobobobbo9bobo11bo$10booboboboo5boo9bo10bo9boo5booboboboo$24boo4b
+obbobo10bobobbo4boo$32bobbobo6bobobbo$34bob3o4b3obo$$36bo8bo$36bo8bo$
+37bo6bo$$16bo19bobo4bobo19bo$9boob3ob3o18boo4boo18b3ob3oboo$9boo4bobb
+ooboo14bobobbobo14booboobbo4boo$8bobboboo3bobboo16bobbo16boobbo3boobo
+bbo$20bobbo5bo8bo4bo8bo5bobbo$24bobb4o7boboobo7b4obbo20b3o$27bo3bo7b4o
+7bo3bo23bo$22b3obboboboo5b6o5boobobobb3o19bo$25bobbooboboo12booboboobb
+o$27boobo3boboo6boobo3boboo$34bobob6obobo$35b12o$37b8o13$15bo11bo$13b
+4o9b4o$12boo3bo7bo3boo$9bobo4bo9bo4bobo$8boo3bo7bo7bo3boo$9bo3boo5b3o
+5boo3bo$11boboo4bo3bo4boobo$9boobbo6b3o6bobboo$13bo5b5o5bo$9bo3boboob
+oo3booboobo3bo$11boo3bo9bo3boo$15bobboo3boobbo!

@@ -1,0 +1,24 @@
+#C pseudo-p10 rake.
+#C Releases 2 gliders every 20 generations.
+x = 84, y = 107, rule = B3/S23
+22boo$21b4o$20booboo$4boo15boo$3booboo$4b4o$5boo$$12bo3bo13bobo$7b3o5b
+oo13boo$6b3obo9boo9bo$5boo8bo6bo$6bob8o3bo3bo$7b4o7bo3bo12bobo$9bo8bo
+16boo$36bo$13bobbo$4boo6bo11boo$3booboo4bo3bo5bo4bo12bobo$4b4o4b4o5bo
+8b5o5boo$5boo14bo5bobbo4bo5bo$21b6o3bo$31bo3bo$35bo$34boo$35boo$19boo
+22boo$18boob7o15b3o$19b9o14boboo$20b8o14b3o$24boo17bo$bobbo5boo10bo4bo
+9boo$o8b4o8bo15bobo$o3bo3booboo8bo5bo9bo$4o5boo10b6o$$32boo19boo$6boo
+24bobo18b3o$4bo4b3o3boo15bo19boboo$bboo4b5o6boo31b3o$bbo6boobo4b3o33bo
+$bbo9boo4bo8boo7bobbo5boo$3bobbo5boo13bobo5bo8b4o$5bo6boo13bo7bo3bo3b
+ooboo$35b4o5boo$bobbo$o62boo$o3bo50bo7b3o8bobbo$4o13b4o18boo13bobbo4bo
+boo7bo$17bo3bo15booboo11bo3bo4b3o8bo3bo$17bo19bobbo12bo3bo5bo9b4o$18bo
+bbo15bobbo12bo3bo$38boo9boo3bobo$49boo4bo18boo$75boo$26bobbo6bobbo34bo
+$25bo9bo$25bo3bo5bo3bo14bobbo8bobo$8b4o13b4o6b4o14bo13boo$8bo3bo40bo3b
+o9bo6bo$8bo44b4o18boo$9bobbo61boo$81bobo$22boo4bo53boo$11boo9boo3bobo
+6bo26bo18bo$10bobbo12bo3bo5bobo23b3o$10bobbo12bo3bo5boo24boboo$10boob
+oo11bo3bo32b3o$12boo13bobbo32boo$28bo12bo$41bobo$41boo$8b4o5boo10b6o$
+8bo3bo3booboo8bo5bo$8bo8b4o8bo16bo6bo$9bobbo5boo10bo4bo10bobo3b3o$32b
+oo12boo4boboo$28b7o18b3o$27b8obboo14boo$26boob6o$27boo8bo6boo$36bo6bo$
+44boo$41bo$39bo3bo$29b6o3bo11bo$13boo14bo5bobbo4bo5boo$12b4o4b4o5bo8b
+5o6bobo$11booboo4bo3bo5bo4bo$12boo6bo11boo$21bobbo20bo$44boo$44bobo$
+15boo13b3o$14bobo13b4o$13boobo12bo3bo6bo$14boo14b3o6boo$15bo9boo3b3o6b
+obo$25boo$$13boo$12b4o$11booboo$12boo15boo$28booboo$29b4o$30boo!

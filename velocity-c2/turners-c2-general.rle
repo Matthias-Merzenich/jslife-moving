@@ -1,0 +1,50 @@
+#C General-period glider turners for c/2 rakes,
+#C labeled with the minumum period for which they work.
+#C These can be used to build a forward rake using
+#C multiple backward rakes, or vice versa.
+#C 
+#C These reactions work for any period, but note that
+#C for most periods, there are more-efficient ways to
+#C turn gliders than this.
+x = 402, y = 223, rule = B3/S23
+245bobo48bo$246boo46boo$246bo48boo8$249bo$250boo39bobo$249boo40boo$
+292bo8$252bobo34bo$253boo32boo$253bo34boo8$256bo$257boo25bobo$256boo
+26boo$285bo8$259bobo20bo$260boo18boo$260bo20boo5$241bo$242boo$241boo$
+263bo$264boo11bobo$263boo12boo$278bo5$244bobo$245boo$245bo$64bo201bobo
+6bo$62boo203boo4boo$63boo202bo6boo$336boo$bo333bobo61b3o$bbo334bo61bo$
+3o397bo$248bo90b3o54boo$249boo90bo54bobo$248boo18bo71bo55bo$268bo74boo
+$268bo73bobo47b3o$344bo47bo$393bo$346b3o40boo$100b3o245bo40bobo$102bo
+165bo78bo41bo$57bobo41bo166bo81boo$57boo192bobo14bo80bobo33b3o$58bo
+114boo77boo97bo33bo$172boo78bo133bo$7bo99boo65bo178b3o26boo$5bobo98bob
+o246bo26bobo$6boo100bo159bo85bo27bo$268bo88boo$167bo100bo87bobo19b3o$
+166boo190bo19bo$166bobo210bo$113b3o139bo104b3o12boo$115bo140boo104bo
+12bobo$114bo140boo11bo92bo13bo$268bo95boo$160boo106bo94bobo5b3o$53bo
+105boo204bo5bo$51boo67boo39bo210bo$52boo65bobo$121bo$12bo255bo101b3o$
+13bo140bo113bo$11b3o139boo103bobo7bo$153bobo103boo$126b3o109bo20bo$
+128bo110boo$127bo110boo$268bo101b3o$147boo119bo24bo$146boo120bo24bobo$
+133boo13bo144boo$132bobo$134bo127bo78boo$46bobo214boo77boo$46boo93bo
+120boo4bo72bo28b3o$47bo92boo99bobo24bo76bo54boo$140bobo99boo24bo76boo
+52boo$18bo223bo101bobo54bo$16bobo271bo106bo$17boo270bo58boo46boo$289b
+3o57boo45bobo$266boo80bo21b3o$265bobbo83bo40boo$266bobo83boo38boo$138b
+o128bo83bobo40bo$139boo104bo144bo$138boo106boo107boo32boo$245boo109boo
+31bobo$266boo87bo14b3o$42bo222bobbo17bo72bo26boo$40boo224bobo17bobo70b
+oo24boo$41boo224bo18boo70bobo26bo$383bo$23bo338boo18boo$24bo338boo17bo
+bo$22b3o241boo94bo7b3o$248bobo14bobbo97bo12boo$249boo15bobo97boo10boo$
+249bo17bo97bobo12bo$283bo92bo$282bo92boo$282b3o90bobo$266boo100b3o$
+265bobbo98b4o$144bobo119bobo97bo4bo$145boo120bo99b5obo$35bobo107bo106b
+o115b5o$35boo216boo117bo$36bo215boo$266boo$29bo235bobbo10bo$27bobo236b
+obo10bobo$28boo237bo11boo85bo$367bo$365b3o$$266boo$255bobo7bobbo$256b
+oo8bobo$256bo10bo$276bo$32boo241bo$33boo240b3o$32bo118bo114boo102bo$
+152boo111bobbo99bobo$151boo113bobo100boo$38bo228bo$38boo219bo$37bobo
+220boo$259boo$266boo$265bobbo3bo$43boo221bobo3bobo$44boo221bo4boo99bo$
+43bo330bo$372b3o$$266bobo$265bo$265bo3bo$266bobbo$267boobo$269bo6$271b
+3o$273bo$272bo$275boo$274bobo$267boboo5bo$268boo$278b3o$280bo$279bo12$
+31boobo6boobo90boobo6boobo120boo3boo3boo85boo3boo3boo$31boboo6boboo90b
+oboo6boboo121bo3boo3boo86bo3boo3boo$35boo8boo92boobboo124bo96bo$35bo9b
+o93bo3bo125boo3boo3boo85boo3boo3boo$36bo9bo93bo3bo129bobobobo90bobobob
+o$35boo8boo92boobboo124boo5bobo87boo5bobo$31boobo6boobo90boobo6boobo
+121bo4boobo88bo4boobo$31boboo6boboo90boboo6boboo120bo9boo85bo9boo$29b
+oo8boo92boo8boo4boo118boo9bo85boo9bo$29bo9bo93bo9bo5bo129bo96bo$30bo9b
+o93bo9bo5bo118boo8boo85boo8boo$29boo8boo92boo8boo4boo119bo9bo86bo9bo$
+31boobo6boobo90boobo6boobo120bo9bo86bo9bo$31boboo6boboo90boboo6boboo
+120boo8boo85boo8boo!

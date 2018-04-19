@@ -1,0 +1,12 @@
+#C p28 puffer by Hartmut Holzwart, 9 Feb 2004
+#C (The original was much larger than the improved
+#C forms shown here.)
+x = 86, y = 36, rule = B3/S23
+10b3o57b3o$10bo59bo$11bo59bo$13boo58boo$14bo59bo$$11bo59bo$8b4obo54b4o
+bo$8bo4bo54bo4bo$9bo4boo53bo4boo$11bobb3o54bobb3o$15boo40boo16boo$12b
+ooboo40bobo12booboo$12booboo40bo14booboo$10boo3boobobo39bo9boo3boobobo
+$9boo4bo3bo40boo7boo4bo3bo$10boob3o6bo37boo8boob3o6bo$7b5oboo6bobo35b
+oo6b5oboo6bobo$6boo3boboo7bo32booboo6boo3boboo7bo$8boboo43bo4bo7boboo$
+11bo43bob4o10bo$59boo$11bo12bo34boo5boo3bo12bo$4bo5b3o10bobo33boo5bo3b
+oobo9bobo$3boo5bo12bobo35bo4bobo3bo10bobo$3bobo7boo9bo35boo3boobo15bo$
+8b3o3boo44bo$bo4b5obbo47bo$oo3b3o$obo3bo$$3boo$bb3o$$boo$bo!

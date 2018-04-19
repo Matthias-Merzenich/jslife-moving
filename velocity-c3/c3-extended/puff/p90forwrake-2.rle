@@ -1,0 +1,42 @@
+#C A period 90 c/3 forward rake.
+#C This is based on a period 45 forward rake whose output is thinned by
+#C a period 6 c/3 spaceship found by Jason Summers using a reaction
+#C found by Stephen Silver.  This is an improved version of a previous
+#C version of this rake.
+#C David I. Bell, November 2002
+x = 102, y = 133
+53bo$52b3o$33boboo14bo3bo14boobo$32boobooboobo10b3o10boboobooboo$31bo
+bbobobooboo8b5o8booboobobobbo$32bo6bo5bo4boo3boo4bo5bo6bo$40bo3b4obo7b
+ob4o3bo$44bo3b3obobob3o3bo$39boobobbo3boo5boo3bobboboo$38bo4bobbobobb
+ooboobbobobbo4bo$37boobobo6boo5boo6boboboo$35boobobo6booboboboboboo6bo
+boboo$33boobo9bo3bobbobbo3bo9boboo$32bo3bo9boboboo3boobobo9bo3bo$33bob
+o11bobobo3bobobo11bobo$50bobobobo$47bo11bo$45boobo3bobo3boboo$48bo4bo
+4bo$48bobooboboobo$47boobo5boboo$46bobobo5bobobo$45boobobob3oboboboo$
+48bobo5bobo$45booboboo3booboboo$24boboo24b3o24boobo$20b3obooboboo18b9o
+18booboboob3o$19bo6boobb4o15boo5boo15b4obboo6bo$20boo3bo3bo4bo12boo9b
+oo12bo4bo3bo3boo$32b3o5boo9bobobo9boo5b3o$38boboo5bobboo3boobbo5boobo$
+35boboo3boo19boo3boobo$34booboobobobo4bob5obo4bobobobooboo$34boobo4bob
+3ob11ob3obo4boboo$38boobo3bob13obo3boboo7bo$45bo15bo13boo$46bo13bo12b
+oobo$53bo21bobbo$48bo9bo7boob3o6boo$49bo7bo8boo3boobb3oboobb3o$47bo3bo
+3bo3bo6b4o5bo4b3obobo$47b3obb3obb3o9bobobboo4bo4bo$48bo3bobo3bo9bobbo
+9boo$51bo3bo10boobbo$50bo5bo8b4o16b3obo$47bobbo5bobbo5bo3boobb3oboob3o
+boo4bo6bo$47bobbobobobobbo5bob6o4boobob4obobboo4b4o$47bo3bo3bo3bo5boo
+5bobo3bobo3bob4obboobo3boo$51bo3bo9b5ob3o8bo9b4obo3bo$52bobo12bo3bobbo
+22bo$53bo18booboo14bo4bo$69b3obbo17bo$71b4o$42bo$40booboo$43booboo$43b
+oo5boo$44bo5boo$44boo$$47boo$46bobbo$46bobo19bo3bo$47bo17boboboob3o$
+64bobbo6booboo$59boobboobbo3bobbobboo$52boo5booboboobbobbo4bobbo$49boo
+7bo3bo4boo$48b5obo3bobobobbobboo$47b4o3bo12bo7bo3bo$46b3o4boo4b3o10bob
+oboob3o$71bobbo6booboo$66boobboobbo3bobbobboo$26boboo36booboboobbobbo
+4bobbo$25boobooboo32bo3bo4boo$24bobbobobbo13b3o9bo6bobobobbobboo$25bo
+5boo4boo7bobo8bobo14bo$34booboo7bobo7bo9b3o11bo$34boo3bo7bo9bob5o14b3o
+b3o$34boo24boobbo12boo6bo$56boboo4bo7bo3bobbo3boo$55bo3bobb3o6b4o$55bo
+boo11bo3bo$55bo15bobobbo$54b3o18bo$54bobboboo$49boo4bobobbo$49boo5boob
+oo3$37boo$34booboo$31b4obbobo17bo$30bo4bo4bo17bo$31boo7bo16bo$40bo$36b
+3o$35bo17boo$36boboo10bo4bo$40bo8bo5bo$36boo11bo3bobo$10bo9bo9b3obbo3b
+o9boboobo$8b4o7b4o7b3o5bo11booboo14bo$4booboo3bo5bo3booboobbo3bobbo15b
+3o12b3ob3o$4boobbo3bo5bo3bobboo6bobbo29boo6bo$3bobbo7bobo7bobbo8boo23b
+o3bobbo3boo$11bobbobobbo15b3o22b4o$10b3obobob3o15boo21bo3bo$60bobobbo$
+12boo3boo45bo$12boo3boo$12bobobobo$14bobo$12bobobobo16bo$11booboboboo
+14boo$11bobo3bobo14bobo$$23boo$23bobo$23bo6$3o$o30b3oboo$bo8b3o16boo4b
+oo$6boboo3bo14bo3bobobbo$5b3o3b3obb3o4b3obb3o$4bo3bo4b3o3bobbo3b3o$5bo
+7bo3boo4boo3bo$14boo10boo!

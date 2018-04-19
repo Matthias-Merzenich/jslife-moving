@@ -1,0 +1,36 @@
+#C A period 90 c/3 spaceship with useful smoke at the back.
+#C The smoke can be reached by forward or backward gliders to produce
+#C another glider or other output.  In particular, a backward glider can
+#C be turned into a forward glider traveling in the same sideways direction.
+#C David I. Bell, December 1999
+x = 80, y = 158
+34bo$33bobo$17bo14bo3bo14bo$13b3ob3o13b3o13b3ob3o$12bo6bob3o21b3obo6bo
+$13boo3bo5bo6boo3boo6bo5bo3boo$21b7o3boo3boo3b7o$19bobboo3boobb3ob3obb
+oo3boobbo$20boobo4boo9boo4boboo$26b4obbooboobb4o$18boob4o7booboo7b4ob
+oo$17boboboo5boobob3oboboo5boobobo$14boobo10boobo5boboo10boboo$14boobo
+9bobobo5bobobo9boboo$14bobo10bo3bo5bo3bo10bobo$33bobo$27bo3b3ob3o3bo$
+27bob5ob5obo$27bobo9bobo$29bobooboboobo$28boobob3oboboo$29bobob3obobo$
+26booboboo3booboboo$26boobobo5boboboo$27bobobo5bobobo$8bo21boo5boo21bo
+$boob3ob3o20b7o20b3ob3oboo$boo4bobbooboo19bo19booboobbo4boo$obboboo3bo
+bboo14bobobbobbobo14boobbo3boobobbo$12bobbo5bo6boobo5boboo6bo5bobbo$
+16bobb4o5boo3bobo3boo5b4obbo$19bo3bo6boo5boo6bo3bo$14b3obboboboo5b9o5b
+oobobobb3o$17bobbooboboo15booboboobbo$19boobo3boboo9boobo3boboo$26bobo
+b9obobo$27b15o$29b11o$$31booboboo15bo5boo11bo$32bobobo15b4o3booboo7b4o
+$32bo3bo14bo3boobo3boo6bo3bob3o$30b9o12bo4bobobb3o5boobobbo3bo$28boobo
+5boboo9booboboobo8booboboo3boo$31bob3obo13b3o4bob6obobbobbo$27bo13bo8b
+oobobobbob3o6booboo$27boboo7boobo6bobboob3obbo5bo4boo$28b3o7b3o7bo4b7o
+6boobbo3boo$29b3o5b3o8boo4bobbo16boo$27boboo7boobo6bobbo12bobbo3b4o$
+27b3o9b3o10bobo10bobo4bo$28b3o7b3o31bo$29b3o5b3o$29bo9bo$29boobbobobb
+oo$30bobo3bobo$24bobo4bobbobbo$24bobo5bo3bo$25bo$$26bo4boo3boo$25bobo
+3boo3boo$25bobo13bo$41bobo$41boo3$31boo3boo$31boo3boo$$31boo3boo$31boo
+3boo4$37boo$37bobo$38bobo$39boo$36boobo$35bo3bo$30bobobo3bo$30bobo4bo$
+30bo4boobb3o$29b6o$31b3o3bo5bo$37bo5bo$37bo5bo$$39b3o5$63b3oboo$8boboo
+32bo16boo4boo$7boobooboo11bo9boo5bo16bo3bobobbo$6bobbobobbo10boo8bobb
+oobb3o10b3obb3o$7bo5boo4boo4bo4boo6bob4o3bo6bobob3o$16booboo5bo3boo6bo
+boo5bo7bo4bo$16boo3bo5booboo26boo$16boo9boo10boo$28b3o8bo18boo$39boo
+16bobbo$39b3o15bobbo$40bobbo14boboo$37bo3b3o11boobobo$33bobbobobb3o14b
+oboboo$32b6o18boboboboo$34boobo17bobbobobo$31bo4bo16boo3bobbo$31boboo
+18b3obb5o$32bobbo18boobob3o$35bo21bo$32bobbo21bo$33boo13$49bo$48b4o$
+43bo3bo3booboo$42b4o5bobboo$41bo3bo7bobbo$42bobobbo$46bo6$41bo$40b4o$
+35bo3bo3booboo$34b4o5bobboo$33bo3bo7bobbo$34bobobbo$38bo6$30boo$25boo
+3boo$25boobbobbo$29bobo$28boobo$28bo!

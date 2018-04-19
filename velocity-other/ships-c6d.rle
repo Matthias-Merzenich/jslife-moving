@@ -1,0 +1,25 @@
+#C 1. First known c/6 diagonal spaceship, named "seal",
+#C    found by Nicolay Beluchenko, 18 Sep 2005
+#C 2. By Nicolay Beluchenko, 22 Sep 2005
+#C 3. By Josh Ball, 25 Mar 2011
+x = 119, y = 100, rule = B3/S23
+o11boo38bobobo9boo$11b3ob3o47b3ob3o$o12bo3boo37bo10bo3boo$10booboobbo
+bbobo41booboobbobbobo$o9bo6bob4o29bobobo7bo6bob4o$16boobobbo47boobobbo
+$o9bo4boo3boboo28bo11bo4boo3boboo$10boo8bobobbo38boo8bobobbo$o9bobb5ob
+3o4bo25bobobo7bobb5ob3o4bo$11bo9bo4bo38bo9bo4bo$11boobobbo3bo3bo39boob
+obbo3bo3bo$12bo9boo42bo9boo$19boobboo4bo43boobboo4bo$12bo3boobo4b3obbo
+36bo3boobo4b3obbo$13boobob5o5boboo35boobob5o5boboo$17booboobooboobb3o
+38booboobooboobb3o$27bobo4bo46bobo4bo$18boo4bobo3b6o36boo4bobo3b6o$23b
+o7boo44bo7boo$23bo3bo49bo3bo$23bo4bo3b3o6bo35bo4bo3b3o6bo$24b5o3booboo
+bbooboo34b5o3booboobbooboo$27boobobboboobbo41boobobboboobbo$26boo5bo4b
+obb3o36boo5bo4bobb3o$25b3obobobobo43b3obobobobo$32bobbo50bobbo$28bobo
+51bobo9bo3bo$29bo53bo8b6obo$90boo3b4obo$31b3o51b3o5bo4bo3bo$31b3o51b3o
+bb3o6bo3bo$90bo9booboo$30boo52boo13boobbobboo$30boo52boo3bo8bobo4bobbo
+$31bo53bo3bobo5bo$90b3o4bobo5boboo$92b3obboo9bo$96boo5bobobboo$93boobo
+4booboboboo$94boboo3boboo4bo$101bobo$101boobobboo$95bo3bo3b3o3bo$95boo
+bbobbo4bobbo$99boo5bo5b3o$101bo4b5obo$102bobboobbo5bo$113boboo$108bo4b
+o$108bo5booboo$107bobboo$108b3o$110boboo$112bo$111bo10$42bo$8bobobo28b
+obo$39boobbo$12bo$38bo$8bobobo22boobboo$35boo$12bo22bo$33bobo$8bobobo
+20boo$31bobbo$30bo4bo$29bo5bo$26bo3bo$25bobo3boo$24booboo$23boo4bobo$
+22boo7bo$21bo9bo$22boo$23bo$20bo3bo$19bobo$18bo3bob3o$22bo$16boo$17boo
+$13b4obboo$13boo$$12bo$10bobbo$10bobbo$9bo$8bo$9boo!

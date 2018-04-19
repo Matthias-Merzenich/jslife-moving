@@ -1,0 +1,20 @@
+#C A period 6 c/3 spaceship.
+#C This is the first period 6 c/3 spaceship.  Only the middle part of
+#C the spaceship is period 6.  The front and back are both period 3.
+#C The period 6 component is glide-reflective.
+#C Stephen Silver, February 1999
+x = 103, y = 19
+58bo12bo14bo$3o45bo8bobo7booboo10booboo10bo$3o33b3o3bo4boobbo4boo8bo3b
+o10bo3bo9bobbo$bboo20bo11b3obbo3boboobbo5bo8bo3bo7b4o3bobboo5bo$bo3boo
+10b3o3bo15b3o3boboobo5boo7bo4bo3bo3b3o3bobo5b4obb3obo$7bobbobo4bobboob
+o12bobbo5bobb4obbobb3o5b3obbobbobobboo7bobobboo8bo$bboobo4bo6bobo6boo
+8bobboobobo9bo4bo4bo6b3o3bobo9bobbo3boobo$3bo4boo5bo4boo4b5o4bo6boo3b
+4o3bo4boo5b4obobobb3o10bobboobbobo3bo$3b7o5bobb4obo6boo3boo7b4o4boo6b
+5o3bobbooboo13b3obbobooboobo$bbo6bo3bo4bo4b5ob3obobo12bobo15boobboo4bo
+17bo$3b7o6boobbobo3bo6boboo7b4o4boo6b5o3bobbooboo13b3obbobooboobo$3bo
+4boo5booboo4boobbobboobbo6boo3b4o3bo4boo5b4obobobb3o10bobboobbobo3bo$b
+boobo4bo5boobo4bo3bo6bo3boobobo9bo4bo4bo6b3o3bobo9bobbo3boobo$7bobbobo
+4bo3bo7bo6bobbo5bobb4obbobb3o5b3obbobbobobboo7bobobboo8bo$bo3boo10bobb
+obboo14b3o3boboobo5boo7bo4bo3bo3b3o3bobo5b4obb3obo$bboo14bo4boo11b3obb
+o3boboobbo5bo8bo3bo7b4o3bobboo5bo$3o33b3o3bo4boobbo4boo8bo3bo10bo3bo9b
+obbo$3o45bo8bobo7booboo10booboo10bo$58bo12bo14bo!

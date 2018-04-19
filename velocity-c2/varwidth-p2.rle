@@ -1,0 +1,27 @@
+#C This doesn't look like much, but it is the first
+#C period-2 spaceship found that is one cell wider in
+#C one phase than the other.
+#C Jason Summers, 20 Apr 2000
+x = 54, y = 72, rule = B3/S23
+14b3o11b3o$13bo3bo9bo3bo$7b3obboo4bo7bo4boo$6bobb3obobooboo5booboobobo
+$5bo4bobbo4bobooboobo4boboo$5bo4boobbo3bobbobobbo3bo4bo$7bo13bobo$bb3o
+bo11booboboboo7boo$boobobob5o3bo4bobo$bobobobbob3oboobo9b3o$oobb3o5bo
+16bo$3bo10bo$ooboboo8boo12boo10bo$bbobo32boob3o$bobobob3o25boobo3boo$
+4boo3bo21b5o4bobboo$bboo23booboobobobo5bo$5boobboo11bobboobo3bo3bo6boo
+$20boob3o4bo10boboboo$3b3o13bo3bobobo3bo8boobobo$boobobo11boobobobbo
+12bo3boboboo$bo4bo10bobo3bo19bo3boo$3bo12boobbobo12bo3boo3bob3o$oobob
+oo8bobo13boob3o11boo$3bo10boo13boobo3boo$bobobo7bobo9b5o4bobboo$12boo
+7booboobobobo5bo$bbobo6bobo5boobo3bo3bo6boo$bobbo5boo6bo5bo10boboboo$
+bbo6bobo5bo3bo3bo8boobobo$8boo7bo3bo11bo3boboboo$boo4bobobbo3boobo17bo
+3boo$o5boo4boobbob3o12boo3bob3o$bo5bobo4bobo3bo21boo$3b3ob4obobobbobo
+9bo17bo$bboobobboo4bo13b3o15b3o$5bo5bobo12boob3o13b3oboo$bbo24bobboboo
+4bo4boobobbo$5boo17boobo4bobobooboobobo4boboo$bboo3bo16boobobobbobo7bo
+bobboboboo$4bo12b3o4bo8b3obobob3o8bo$bbo3boo9bobbobboo7boo9boo7boo$bob
+o17bo$obbo12boo3b4o$o11b6obbobo$bbo8boobobboo10bo$oo7booboboo9boob3o$
+10bobbo9boobo3boo$oo5boobobb3o3b5o4bobboo$oo5booboboobboboobobobo5bo$
+oobb5obo5bo3bo3bo6boo$boobbo4boboo4bo10boboboo$bbo3bo3boo7bo8boobobo$
+6bobbobo15bo3boboboo$bb3obb3o21bo3boo$b4obobo18boo3bob3o$6bo3b3o3boo4b
+o13boo$3boobobb4oboobboob3o$3booboo4bo8b4o$bbo3boboo4bo3boboobboo$9bo
+5boo7bo$bbooboobobo13boo$9b3o10boboboo$11boo8boobobo$11bo8bo3boboboo$
+11boo11bo3boo$9boboboo5boo3bob3o$8boobobo15boo$7bo3boboboo$11bo3boo$7b
+oo3bob3o$16boo!

@@ -1,0 +1,21 @@
+#C This could be turned into a clean p174 rake
+#C by using additional p6 spaceships and/or glider
+#C duplicators.
+#C (Or, one could just triple the period of a p58 rake.)
+x = 84, y = 58, rule = B3/S23
+51bo$48b4o$48boo$46bo3boo$46b4obo11bo$43bobo14b4o$42b6o12boo$41boo5bo
+9bo3boo$40boo4bo11b4obo$41bobobboo7bobo$47b3o4b6o$41boo6bo3boo5bo$41bo
+bbo7boo4bo$42bobbo7bobobboo$42b3o14b3o$43bo9boo6bo$43boo8bobbo$43bobo
+8bo$43boobboo5b4o$44bob3o$52b4o$46b3obbo10bo$46bo3bo3bo6b3o$47boboboob
+o5boboo$47bo8boobo$48b5obo4boo$49bo4bo7boo$50boo7boo$51bobboboobo$52bo
+bo5boboo$61b3o$62bo$$12bo18bobo6bo$10boobo14bobobbo3boobo$10boo3bo11bo
+bbo6bo24b3o$8bo3boobo10boo4bo4bo26bo$8b4oboo10bo6bobbo27bo$6bo6bo10b4o
+4boobobbo$6b7o3boo3boo5bo9bo15boo11boo$3bobo6boobbobobo3b3o3b4oboo3bo
+25bobbo$bb9o5b4o3bo3b3obbo3b4o27boo$boo14bo3bo3boobobbobboo5bo5bo4bobb
+o20bo5boo$oo4boobo10bo4boo7boobb3o6bo5boo21bo5boo$boo4bo9boo8boobo5boo
+3bo5bo28bo$9bo7b3o10bobo6bo$boo4bo9boo8boobo5boo3bo5bo28bo$oo4boobo10b
+o4boo7boobb3o6bo5boo21bo5boo$boo14bo3bo3boobobbobboo5bo5bo4bobbo20bo5b
+oo$bb9o5b4o3bo3b3obbo3b4o27boo$3bobo6boobbobobo3b3o3b4oboo3bo25bobbo$
+6b7o3boo3boo5bo9bo15boo11boo$6bo6bo10b4o4boobobbo$8b4oboo10bo6bobbo27b
+o$8bo3boobo10boo4bo4bo26bo$10boo3bo11bobbo6bo24b3o$10boobo14bobobbo3b
+oobo$12bo18bobo6bo!

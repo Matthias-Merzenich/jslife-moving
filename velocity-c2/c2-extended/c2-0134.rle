@@ -1,0 +1,26 @@
+#C Paul Tooke, 27 Oct 2003
+x = 151, y = 115, rule = B3/S23
+68bobo$67bobbo63bobo$66boo65bobbo$65bo66boo$64b4o63bo$63bo4bo61b4o$63b
+obbo62bo4bo$63bobbo62bobbo$64bo64bobbo$65b4obo59bo$66bo3bo60b4obo$67bo
+64bo3bo$67bobo63bo$133bobo$66b3o$66boo64b3o$66b3o63boo$75bo56b3o$67bob
+obboobo65bo$66bobbobbo60bobobboobo$66bo5bo9bo49bobbobbo$66bo3bo8boobo
+49bo5bo9bo$67bo3b3o5bo52bo3bo8boobo$68boo9bo53bo3b3o5bo$71b5obo56boo9b
+o$72bo4bo59b5obo$73boo5bo57bo4bo$74bobbobobbo56boo5bo$75bobo3boo57bobb
+obobbo$79b3o59bobo3boo$79b3obbo60b3o$82boo61b3obbo$82bobo63boo$148bobo
+4$14bobo6bobo21bobo$11b4obo4boobbobo8boo6b4obo$11boo3bobboobo6bo4boo8b
+oobbo$9bo3boo4b3obobbobbobboo3boobboo5boo$9b4obobo4boboo4bobboo3b4o7bo
+bo$8bo6bobbobboo4bo6bo7b3o3boobo$7b8obobo3b4obo11bobo7boo3bo$6bo8bobo
+20b5obo6b4o$5b6oboboboobobb7o8boo16bo$bboo7boobo4bobo14boo4b3obboob5o$
+bo3b3oboo5bo4bobbob5o6boo3bo3bo3bo$o3bo4boo5bo4bo3bobo11bo3b3o3bob3o$o
+5bo3boo4boobobo3boobbo5b3o3bo4boo3bo3bo$3o3b4obo7bobo3boobo6boo4b3o9b
+3o$21bo3boobobb3o3bo14bo$3o3b4obo7bobo3boobo6boo4b3o9b3o$o5bo3boo4boob
+obo3boobbo5b3o3bo4boo3bo3bo$o3bo4boo5bo4bo3bobo11bo3b3o3bob3o$bo3b3ob
+oo5bo4bobbob5o6boo3bo3bo3bo$bboo7boobo4bobo14boo4b3obboob5o$5b6obobob
+oobobb7o8boo16bo$6bo8bobo20b5obo6b4o$7b8obobo3b4obo11bobo7boo3bo$8bo6b
+obbobboo4bo6bo7b3o3boobo$9b4obobo4boboo4bobboo3b4o7bobo$9bo3boo4b3obo
+bbobbobboo3boobboo5boo$11boo3bobboobo6bo4boo8boobbo$11b4obo4boobbobo8b
+oo6b4obo$14bobo6bobo21bobo17$95bo$93bobobo$92bo3bo$91boo$89bobbobbo$
+86b4obobobo$86boo3bo$84bo3boo$84b4obobo$81bobo7bo$80b6o5boo$79boo5bo5b
+3o$78b3o3bo9bo$79b3obboo$81bo3b3o$79bo7bo$79bobo$78bo$79bobo$79bo$81bo
+$79b3o$78bobboo$78b3obo$77bo$76b3o$75b3obbo$76bo$77b4o$77bo$79boo$79b
+4o$82bo!

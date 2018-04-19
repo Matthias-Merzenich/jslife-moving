@@ -1,0 +1,18 @@
+#C Some c/2 period-4 spaceships with sparks that are sometimes useful.
+#C By Jason Summers
+x = 88, y = 59, rule = B3/S23
+b5o13b6o$bo4boobo9bo5boobo$bo5bobo9bo6bobo$bbo4bo12bo5bo15b6o$4bob3o
+13boob3o14bo5boo$6b3o16b3o14bo17bo$43bo4boo6b3obbo$4boo17boo25bobobboo
+3bo$bboo17boo23boobbob3obobbo$bbobbo15bobbo17boo6bo3bobo4boo$bbo18bo
+19booboobbo5bobb5o$3boo17boo18b5obobobobbobo5bo$8bo18bo15b4o6bobob3o3b
+o$5bo18bo24bobo3bo$6boo17boo22boo5b3o3bo$42b8o8boobo$b6obo10b7obo14bo
+6bo$bo6bo10bo7bo14bo6bo$bo6bo10bo7bo15bo$bbo17bo24boo$4bo17boo18$bb5o
+22b5o35b5o$boo4boobo17boo4boo32boo4boo7b4o$ooboobbobo17booboobboboo29b
+ooboobboboo3boo4bo$boobbo3bobo16boobbobboobbo28boobbobboobboo$5boobbo
+22booboob4o4bo25booboob3o6bo$5boobbobbo19boo3bo3boobbobo24boo3bo6bo$5b
+oo3bo21boo8b3o3bo23boo7bo$bb6o6bo14b5o6bobo5boo19b5o7boobbo$b8o3bobo
+13b7o5boob6o19b7o8bo$oob6obboo14boob5o4bo8boo17boob5o8bo$boo9boo14boo
+10bob6o20boo14boo$13bo26boobo3bobbo31bo$9boo27b3o4bo4bo27b3obbo$4boo4b
+oo19boo3b3oboobboo25boo3b4obo$bbooboo22booboo3bo9boo20booboo3bobobo$b
+3obb3oboo16b3obb3o4boo26b3obb3o4boob4o$oobb5oboo15boobb5obo29boobb5obo
+4bo4bo$bo8bo17bo8bo30bo8bo$bboo4bo20boo4bo33boo4bo11bo$$5bo26bo39bo!

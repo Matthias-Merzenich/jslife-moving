@@ -1,0 +1,8 @@
+#C p8 puffers build a p16 wick.
+#C Jason Summers, Nov 2003
+x = 24, y = 33, rule = B3/S23
+16bo$16b4o$18boo$21bo$18b4o$11bo10bo$7bo3b3o4bobb3o$4b4o5boo5b3o$4boo
+8bo6bo$bbo11bobob3o$bb4o10boobbo$bo12bo3boo$3obbo4boo3b4o$b3o5boo$bbo
+6bobo3b4o$3b3obobobobbo3boo$3bobboo8boobbo$4boo3bobbobobob3o$5b4o3bobo
+6bo$13boo5b3o$5b4o3boo4bobb3o$4boo3bo12bo$3bobboo10b4o$3b3obobo11bo$bb
+o6bo8boo$b3o5boo5b4o$3obbo4b3o3bo$bo10bo$bb4o$bbo$4boo$4b4o$7bo!

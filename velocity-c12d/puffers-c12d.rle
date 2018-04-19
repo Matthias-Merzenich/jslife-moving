@@ -1,0 +1,14 @@
+#C The only two known puffers that use only a single "switch engine".
+#C
+#C (left) p288/2 glide-reflective "block-laying" puffer.
+#C (right) p384 "glider-producing" puffer.
+#C Both found by Charles Corderman, 1971.
+x = 162, y = 68, rule = B3/S23
+15bo98bo$bobo6bobb4o83bobo6bobb4o$o9bob4o83bo9bob4o$bobbo6b3o3boo81bo
+bbo6b3o3boo$3b3o9bobboo82b3o9bobboo$16boboo95boboo$17bo98bo7$107boobo$
+19boo86booboo21boo$19boo112boo17bo$16bo92boo39b4o$16boo91boo43bo$18bo
+87b3o40b4o3boboo$13b3o144bo$14boo136boo6bo$149bo3bo5boo$126boo20b3o3bo
+$125bobo21boo3bo3bo$126bo29bo$$14boo$14boo129boo$144bobbo$145bobo$146b
+o4$121boo$121boo$141bo4b3o$140b3o6bo$139bobooboo3bo$139bobobobobooboo$
+140b3obb3obboo8boo$140boo4boobobo7bobo$129boo20bo8bo$129boo16boobo$
+147b3o5$140boo$140bobo$141bo3$158boo$157bobo$158bo10$153boo$153boo!

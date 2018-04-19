@@ -1,0 +1,45 @@
+#C A fuse consumes a simple diagonal wick at c/12.
+#C Dave Green and David Bell, Jun 2005.
+x = 304, y = 281, rule = B3/S23
+oo$o$bo$bbo$3bo$4bo$5bo$6bo$7bo$8bo$9bo$10bo$11bo$12bo$13bo$14bo$15bo$
+16bo$17bo$18bo$19bo$20bo$21bo$22bo$23bo$24bo$25bo$26bo$27bo$28bo$29bo$
+30bo$31bo$32bo$33bo$34bo$35bo$36bo$37bo$38bo$39bo$40bo$41bo$42bo$43bo$
+44bo$45bo$46bo$47bo$48bo$49bo$50bo$51bo$52bo$53bo$54bo$55bo$56bo$57bo$
+58bo$59bo$60bo$61bo$62bo$63bo$64bo$65bo$66bo$67bo$68bo$69bo$70bo$71bo$
+72bo$73bo$74bo$75bo$76bo$77bo$78bo$79bo$80bo$81bo$82bo$83bo$84bo$85bo$
+86bo$87bo$88bo$89bo$90bo$91bo$92bo$93bo$94bo$95bo$96bo$97bo$98bo$99bo$
+100bo$101bo$102bo$103bo$104bo$105bo$106bo$107bo$108bo$109bo$110bo$111b
+o$112bo$113bo$114bo$115bo$116bo$117bo$118bo$119bo$120bo$121bo$122bo$
+123bo$124bo$125bo$126bo$127bo$128bo$129bo$130bo$131bo$132bo$133bo$134b
+o$135bo$136bo$137bo$138bo$139bo$140bo$141bo$142bo$143bo$144bo$145bo$
+146bo$147bo$148bo$149bo$150bo$151bo$152bo$153bo$154bo$155bo$156bo$157b
+o83bo$158bo82bo5b3o$159bo80bobo3boobbo$160bo80bo3bo5bo$161bo79bo3bo$
+162bo83bobboo$163bo83boo11boo$164bo95boo$165bo$166bo$167bo$168bo$169bo
+$170bo$171bo96boo$172bo81bo13boo$173bo70boo9boo$174bo68bob3o8boo$175bo
+67bo3bo10bo$176bo67boobo5b5o$177bo67bo10bo$178bo$179bo$180bo60bo$181bo
+51b3o3b4o$182bo50bobo3booboo$183bo49b3obbo$184bo53boo3bo$185bo53b4o$
+186bo53b3o$187bo23bo$188bo22bo5b3o49bo$189bo20bobo3boobbo47boo$190bo
+20bo3bo5bo45b5o$191bo19bo3bo50bo19bo$192bo23bobboo44boo5bo13bo$193bo
+23boo11boo32b3oboo8bobo5bo$194bo35boo33boboboobboo3bobo$195bo70bobbobb
+oo5bo$196bo71boo$197bo35bo36boobo20boo$198bo33b5o36bo12b3o5boo$199bo
+32bobb3o46boobbo$200bo26boo8boo46b3o$201bo32bobbo48bo$183bo18bo21bo9b
+3o56b3o3bo$182bobo18bo10boo9boo7boo57boboob3o$204bo8bob3o8boo64boo3bo
+bb3o$182bobbo3bob3o11bo7bo3bo10bo68bobooboo$184bo4bo16bo7boobo5b5o6boo
+63bobboo$185boboobobo14bo7bo10bo6bobbo59booboo$186boo3bo16bo23booboo$
+187bo15boo4bo21bobo40boo4bo$203boo5bo19boo42boo3bobo6boo$211bo18bo3bo
+26boo15booboo4b3o$212bo18bobbo25bo17boobbo4bobbo$213bo4boo11b3o26bobbo
+15boboo5boo$214bo3boo38boob4o14bobo$215bo14bo26bo22boo$216bo13bo26bo3b
+3obbo12bobo$211boo4bo9boo28bobbobbob3o11bobo$194bo16boo5bo8boo10bo19b
+oo4b3o11boo$194b3o22bo7bobbo7boo21boobobo$186bo6bo3bo22bo7b3o6b5o20boo
+bo$186bo3b3o4bo23bo7bo6bo19bo8bo$186bo3b3oboboo24bobo10boo5bo13bo$190b
+oo3bo27boo9b3oboo8bobo5bo$235boboboobboo3bobo$176bo59bobbobboo5bo$176b
+o61boo$176bo8bo54boobo$183bobo57bo12b3o$177b3obbo3bo67boobbo$178bob5o
+70b3o$184bo71bo$179boo5$159b3o$180b3o$163boo15b3o61boo$165bo12bo4boo
+59boo$159b4obo13bobo3bo$159b5o13boo3b3o$177boo3bo$180bo21bo$144bo14bob
+o14bo3bo21boo$140boobobo7bo5bobo14bobo22bobo$140bobbooboobbooboo5bo91b
+oo$140bo5bobo5bo4bobo90boo$141boobbo8bo5boo$145bobb3obbo6bo$145b3o$
+118bobo$118bobobo7bo$117bobboobo4b3o$118boo3boboboobo44bo$118boo3boob
+5o10b3o29booboo$122boboo3boo10bobo29b3oboo$121bobo16booboo15boo12b5o$
+140boo18boo13b3o$176bo$$143bo$143bo$$137b3o$136bo3bo27boo$135bo4bo27b
+oo$125boobo5bo3boo3bo$121bo3b6o11bo$120bo5bo4bobboo6b3o$120bo11bo$121b
+o9bo$126bo$126bobbo$128bo3$128boo$128boo!

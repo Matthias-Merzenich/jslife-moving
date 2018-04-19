@@ -1,0 +1,16 @@
+#C A period 45 c/3 puffer which produces four blocks every period.
+#C This is a smaller version of the original period 45 puffer.
+#C David I. Bell, April 1998
+x = 69, y = 36
+33b3o$33b3o$13boob3o13bo3bo13b3oboo$13boo4booboo21booboo4boo$12bobbobo
+4boo7bo5bo7boo4bobobbo$19boobobboo4booboboo4boobboboo$25boboo11boobo$
+20b3oboobbo3bo3bo3bobboob3o$20bo3b3obo4bobo4bob3o3bo$18booboboo4bobbo
+3bobbo4booboboo$17bobobbo8bobobobo8bobbobo$15b3obobbo5boobobbobboboo5b
+obbob3o$14boobo9bobobob3obobobo9boboo$13bo3bo9bobobbooboobbobo9bo3bo$
+28b3obbobobb3o$29boboo3boobo$27boo3bo3bo3boo$27bobo4bo4bobo$29bobbobob
+obbo$29bob3ob3obo$29bobo5bobo$26boobobobbobboboboo$26boobobobbobbobob
+oo$29bobob3obobo$28bobb7obbo$bboboob3o49b3oboobo$booboo4boobo16bo7bo
+16boboo4booboo$obbobobbo3b3o18b3o18b3o3bobbobobbo$bo5bo3bo3bo13b3o5b3o
+13bo3bo3bo5bo$14boo4b3o5boob3ob3oboo5b3o4boo$14boobboobo9b3ob3o9boboo
+bboo$15boo4boboo9bo9boobo4boo$20bobbobo3boo7boo3bobobbo$15boobobbobobo
+bo13bobobobobboboo$19bo8bo11bo8bo$26bob13obo!

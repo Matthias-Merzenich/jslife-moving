@@ -1,0 +1,21 @@
+#C 1. rake by Jason Summers, 1999 
+#C   (based on a known puffer)
+x = 97, y = 220, rule = B3/S23
+45bobbo$24boo18bo$22bo4bo16bo3bo$21bo22b4o45boo$21bo5bo63bo4bo$21b6o
+63bo$90bo5bo$90b6o$$27boo$23bo3bobo$22boobbooboo33bo$21boobobbobo34bo
+29boo$22bobo3bo35bo13boo15boo$23boo53boo14bo$$23boo$o21bobo3bo35bo$21b
+oobobbobo34bo$o21boobbooboo33bo$23bo3bobo40boo$o26boo42boo$70bo$o$58b
+oo$o20b6o32boo19bo$21bo5bo30bo19bo3bo$15boo4bo55bo$14b4o4bo4bo18boo29b
+o4bo$13booboo6boo21boo28b5o$14boo30bo$$22bo11boo$18b6o11boo$13b8o3bo9b
+o$13bo8boo$13bo6b3o$14bo5boo$16boo$24b4o$23b6o$22boob4o$23boo39$27boo
+44boo$26boob3o40b4o$27b5o40booboo$28b3o43boo$$17b4o18boo$16b9o14boo3bo
+$15boob3obobbo14b5obbo$16boo3boo3bo12boob3o$23b3o13boboo3bobbo9bo4boo$
+19boo10boo6b3o7bo8bobo$17bo12b3o6bobbo3b3obboo5bobbo4bo$16bo12bobbo6b
+3ob3o6bo8b3o$16bo3bo9boo8bo4bo13bobo3bo$16b4o6b6o9b4o17bobo$25b5o12bo$
+24boob3o$25boo$$39b4o$39bo3bo$39bo$40bobbo35$18bobbo$17bo$17bo3bo$17b
+4o4$17b7o$17bo6bo$17bo$18bo5bo11boo$20boobbo10boob5o$23boobboo7bobb4o$
+20boobbobboo7bobbo6bo$19bo3boo12boo5b5o$19bo3boo18b3oboo$19b3obo20b5o$
+23boo21bo$22b3o$22boo3$19boo$18boob4o$19b6o$20b4o30$18b4o$17b6o$16boob
+4o$17boo3$29b3o$29b4o$25b3obobb5o$17b3o6boo5boobo$17bo6b3o4b4obbo$17bo
+bo4bo$18boo$$18boo$17bobo4bo$17bo6b3o4b4obbo$17b3o6boo5boobo$25b3obobb
+5o$29b4o$29b3o3$17boo$16boob4o$17b6o$18b4o!

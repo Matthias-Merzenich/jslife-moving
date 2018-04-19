@@ -1,0 +1,17 @@
+#C left: p8 tagalong for c/4 diagonal spaceships.
+#C Jason Summers, Nov 2000
+#C Note that there are two possible locations for
+#C the spark.
+#C ---
+#C right: p12 spaceship derived from p28 puffer,
+#C Hartmut Holzwart with David Bell, Sep 2005
+x = 97, y = 46, rule = B3/S23
+87b3o$87bo$88bo$90boo$91bo$$88bo$85b4obo$85bo4bo$86bo4boo$4boobo7b3o
+70bobb3o$4bo3bo6bo76boo$4bo4bo7bo7boo62booboo$6boo7bobo4boobo63booboo$
+8bobo4b3obobboo63boo3boo$3o11bo3boobboo62boo4bo3bo$o9boob4oboo67boob3o
+3bo$3bo7b7o64boobb4obbo$obbo77bobboboobooboo$bobbo75boobo$bbo73boobo3b
+o3bo4boo$4bobo69bo6bo$6boo68boboo3boo$7bo6b3o66b3o$6boo6bobbo63boboo$
+5b3o5bo3bo62boobobo$oobooboo7bo65bobbo$o3boboo9boo54boo6bobobo$ob3obbo
+5bo6bo51boo8bo$5boo8b3o3bo52bo5bobo$4b3o14bo54bobobbo$19bo55booboobo$
+20bo45boo13bo$3b3o60bobo3bobboo3bo$3b3o60bo3bobboo5bo$69boo3bo$bboo65b
+o$bbo69boo$74bo$$70b3o$62b3o5b3o$62bo6bobo$63bo4boo$65b4obo$66boo!

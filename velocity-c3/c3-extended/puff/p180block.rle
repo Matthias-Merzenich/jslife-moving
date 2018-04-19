@@ -1,0 +1,49 @@
+#C A period 180 c/3 block puffer.
+#C This uses a period 90 forward rake whose gliders impact into a period 21
+#C frothing spaceship to create the block.
+#C David I. Bell, October 2002
+x = 121, y = 256
+86bo$85b3o$66boboo14bo3bo14boobo$65boobooboobo10b3o10boboobooboo$64bo
+bbobobooboo8b5o8booboobobobbo$65bo6bo5bo4boo3boo4bo5bo6bo$73bo3b4obo7b
+ob4o3bo$77bo3b3obobob3o3bo$72boobobbo3boo5boo3bobboboo$71bo4bobbobobb
+ooboobbobobbo4bo$70boobobo6boo5boo6boboboo$68boobobo6booboboboboboo6bo
+boboo$66boobo9bo3bobbobbo3bo9boboo$65bo3bo9boboboo3boobobo9bo3bo$66bob
+o11bobobo3bobobo11bobo$83bobobobo$80bo11bo$78boobo3bobo3boboo$81bo4bo
+4bo$81bobooboboobo$80boobo5boboo$79bobobo5bobobo$78boobobob3oboboboo$
+81bobo5bobo$78booboboo3booboboo$57boboo24b3o24boobo$53b3obooboboo18b9o
+18booboboob3o$52bo6boobb4o15boo5boo15b4obboo6bo$53boo3bo3bo4bo12boo9b
+oo12bo4bo3bo3boo$65b3o5boo9bobobo9boo5b3o$71boboo5bobboo3boobbo5boobo$
+68boboo3boo19boo3boobo$67booboobobobo4bob5obo4bobobobooboo$67boobo4bob
+3ob11ob3obo4boboo$71boobo3bob13obo3boboo$78bo15bo$79bo13bo$$82b9o$$69b
+o11bobo5bobo$68boob3o6boobbo3bobboo$66b3o5bo5bo3booboo3bo$63boo7boo5bo
+bb3obob3obbo$63boo4bo10bobobb3obbobo$63b3o4bo15bo$51bo5b3o5boo3boo$47b
+3ob3o6bobb3obboobboo$46bo6boo5boo6boob3o$47boo3bobbob4o3boobbooboo$96b
+o$57bo17bobbo15bo3bo$55bobo17bobbo15bo3bo$74bo4bo13bo4bo$73b4obbo3boo
+3boo3bo$73b4o6boo3boo8bo$78boo13boobobo4$84bo3bo$84bo3bo$82bobo3bobo$
+80boo9boo$81b4o3b4o$82b3o3b3o$81boo7boo$81bo9bo$82bo7bo4$83b3ob3o$83b
+3ob3o3$83b3o$82bo3bo$81bo5bo$81bo5bo$81bo5bo$82bo3bo$83b3o4$86boo$86b
+oo4$75b4o4bo6bo$75boobbobo9bo$84bo8bo$74boo5booboo3bo3bo$74booboboo7bo
+3bo15b3oboo$77bobo11bo14boo4boo$78bo9b3o14bo3bobobbo$100b3obb3o$99bobo
+b3o$100bo4bo$103boo$87boo$85boobo$79boo3bo3bo$79boobbobboo$82b5o$51boo
+boo26b3oboo$48boobooboboo28b3o$45b4obb3obbob3o25b3o$44bo4bo5b3o4b3o$
+45boo8bob3obobobo$56b4obobobo$54bobbo4bobo$55bo$63bo$63bo7$49boob3o$
+49boo4boo$48bobbobo3bo$55b3obb3o$31b3o9b3o11b3obobo$27boboo3bo7bo3boob
+o7bo4bo8boo$26b3o3bobo7bobo3b3o7boo8booboo$25bo3bo4boo5boo4bo3bo13b4o
+bboo4boo$26bo7b3o3b3o7bo13bo4bo4booboo12b3o$32bobo7bobo20boo7boo3bo11b
+obo$31boo11boo28boo$30bo3bo7bo3bo43boo4bo$34bo7bo46bobo3bobo$31boboo7b
+oobo48bo$31bo13bo49boo$31b3o9b3o$$32bo11bo$38bo$31boo4bobo4boo$36bo3bo
+49boobbo$30bo6b3o6bo44b3o$31boo11boo46bo$30bobobboo3boobbobo$35boo3boo
+$30bobo3b5o3bobo$30bobbobbobobobbobbo$30bobb3o5b3obbo$38bo$38bo$32bo3b
+o3bo3bo$31booboo5booboo$35booboboo$31bo3b7o3bo$31bobo9bobo$31boo3b5o3b
+oo$34bo3bo3bo$32bob3obob3obo$32boobo5boboo$31bobobbo3bobbobo64bo$31bo
+6bo6bo62b3ob3o$30bobbo3b3o3bobbo60boo6bo$30bob3o3bo3b3obo55bo3bobbo3b
+oo$32bobbo5bobbo56b4o$31b3obooboboob3o54bo3bo$30boobobob3oboboboo54bob
+obbo$29bo3bo4bo4bo3bo33boo22bo$29bobobo3bobo3bobobo32boo9boo19b3oboo$
+33bo3bobo3bo38bo8boo17boo4boo$30boo5bobo5boo62bo3bobobbo$31b5obobob5o
+58b3obb3o$35bobobobo61bobob3o$35bobobobo62bo4bo$34booboboboo16bo47boo$
+35boo3boo16boo$58bobo5$76boob3o20b3oboo$76boo4boo16boo4boo$75bobbobo3b
+o14bo3bobobbo$82b3obb3o4b3obb3o$84b3obobobbobob3o$84bo4bo4bo4bo$23bo
+61boo10boo$22boboboo$21bo4boo$18boboo3bobbo$17booboobo$16bobb6o19boo$
+12boo9bobbo17boo$boob3o4boobo3bo3bo3bo$boo4boobboob3oboobbobboo$obbobo
+3boboo5boo3bobbo$7b3o5boo5bo$9b3obo$9boo5$15boo$12booboo$9b4obboo4boo$
+8bo4bo4booboo$9boo7boo3bo$18boo43$44boo$44boo!

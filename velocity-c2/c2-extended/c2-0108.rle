@@ -1,0 +1,13 @@
+#C David Bell, 16 Feb 2000
+x = 100, y = 53, rule = B3/S23
+9bobo$8bobbo$7boo$6bo$5b6obo$bboo7boo$bo3b3oboo$o3bo4boo27b6o$o5bo3boo
+26bo5bo$3o3b4obo26bo$27bobo9bo4bo$3o3b4obo12b4ob3o9boo33b4o5bobbo$o5bo
+3boo12bo6boo42b6o3bo$o3bo4boo13bobo3b3o41boob4o3bo3bo$bo3b3oboo14b3o5b
+oo22b6o12boo7b4o$bboo7boobo14b4obo22bo5bo$5b6obobo12bo9boboboo14bo$6bo
+7bobob3obobo3b10o5bo14bo4bo$7b4obo3booboob3obo12bobbo17boo$7bo3boobobo
+b3obobo3b11oboo$9boo3bo12bo9bo$9b4obo14b4obo$12b4o9b3o5boo$15bo8bobo3b
+3o$24bo6boo6boo$24b4ob3o7bobo16b3o37bo$27bobo9bo17b5o37bo$56boob3o35b
+3o$19boo36boo$18booboo$19b4o$20boo$$30boo$4b4o22bobo$4bo3bo21bo$4bo7bo
+$5bobbobb7o$10boob3obbo$5bobbobb7o$4bo7bo$4bo3bo11b3o22bobo$4b4o37bobb
+o$41boobo3bo$43bob3o$16b5o$16bo4bo$16bo$17bo3bo$19bo5boo$24booboo$25b
+4o$26boo!

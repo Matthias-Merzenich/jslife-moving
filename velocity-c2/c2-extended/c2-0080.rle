@@ -1,0 +1,15 @@
+#C single-engine rake (center) by Noam Elkies
+x = 77, y = 130, rule = B3/S23
+51boo$50boo$52bo6$21boo$20boob4obo7bo$21b5obbo7bo$22b3o3bo$34bo$10bobb
+o20bo$boo6bo11b4o11bo$ooboo4bo3bo7bo3bo10boo$b4o4b4o8bo13boo$bboo18bo
+bbo11bo3$4bo7b3o16boo$3boo9bo15boo$bboobo6b3o17bo$3bobo3b3o$4boo$26boo
+$25boo$26bo$boo22bo$ooboo14boo$b4o13b4o$bboo13booboo$18boo25$12boo5boo
+$bboo6bo4bobboob3o$b4o4bo9b5o35b6o$ooboo4bo5bo4b3o36bo5bo8bo$boo6b6o
+44bo13boo$60bo4bo7bobo$62boo$$4boo$3bobo3b3o$bboobo6b3o5boo$3boo9bo5b
+oo$4bo7b3o3boo$18boo17bo$36bobo$bboo31bobbo$b4o31boo$ooboo$boo52bo$53b
+o3bo$52bo14b5o$52bo4bo9bo4bo$52b5o10bo$68bo3bo$70bo19$52b4o$37boo13bo
+3bo$36booboo11bo$24boo11b4o12bobbo$22bo15boo$21bo6bo$21bo8bo24bo$21b8o
+bo23bobo$26boo25booboo$55bo$10bobbo$boo6bo12boo$ooboo4bo3bo7booboo10b
+oo11bo$b4o4b4o9b4o9boo11b3o$bboo19boo12bo9bobobo$47bobobo$48b3o$4bo7b
+3o16boo16bo$3boo9bo15boo$bboobo6b3o17bo$3bobo3b3o$4boo69bo$26boo48bo$
+25boo47b3o$26bo$boo22bo$ooboo14boo$b4o13b4o$bboo13booboo$18boo!

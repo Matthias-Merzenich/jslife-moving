@@ -1,0 +1,12 @@
+#C A period 15 c/3 ship.
+x = 104, y = 27
+8bo86bo$boob3ob3o6bo4b3obo50bob3o4bo6b3ob3oboo$boo4bobbooboobboo3boob
+oob3o42b3obooboo3boobbooboobbo4boo$obboboo3bobboobboboboboo6bo40bo6boo
+bobobobboobbo3boobobbo$12bobbobbobbo4bobobo42bobobo4bobbobbobbo$18bobb
+4obo50bob4obbo$20b3oboobo48boboob3o$28boo7boo26boo7boo$24bobb4o3boobob
+oo3bo14bo3booboboo3b4obbo$24bobbo3bobboobo4b4o12b4o4boboobbo3bobbo$33b
+obo6bo3bo10bo3bo6bobo$28bobo3boo3boobbobo12bobobboo3boo3bobo$30bo4bo3b
+3o20b3o3bo4bo$29boobobo4b5o16b5o4boboboo$24b3obbobbo3boobbo3boo12boo3b
+obboo3bobbobb3o$23bo4boobobbo6boo18boo6bobboboo4bo$24bobbo8bobb3o4boo
+8boo4b3obbo8bobbo$26bo10bobooboobobo8bobobooboobo10bo$38bo8bobb4obbo8b
+o$47bo8bo$51boo$46b12o$45boo10boo$$51boo$$49b6o!

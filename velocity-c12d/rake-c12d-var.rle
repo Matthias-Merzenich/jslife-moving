@@ -1,0 +1,35 @@
+#C Variable period rake, shown at p5952.
+#C David Bell, 26 Jun 2005.
+x = 417, y = 448, rule = B3/S23
+35bo$$31bo7bo$31bo8bobb3o$30bo4boo3bobb3o$31bobo6bobboobbo$31boboo10bo
+bo$45b3o$36bo18boo$55boo6$56bo$54boobo5boo$52booboboo4boo$54bo$43boo4b
+oobo$35boo8boobo$35boo5b3obob4o$47bo$$40b3o$41boo$23boo7boo3bob3o$23b
+3o6b3obbob3o$23boobobo$26boo$5bo$$bo7bo$bo8bobb3o$o4boo3bobb3o$bobo6bo
+bboobbo$boboo10bobo$15b3o$6bo6$21b3o$20boobboo$20boobboo$21boboo$21boo
+$13boo6boo$5boo8b3o8bobo$5boo5b3oboo8boo$27bo6$13boo$13boo213$379bo$
+379bo$378bobo$379boobbo11boo$378bo5bo9bobbo$378bo5bo10boo$378bo4bo12bo
+$382bo13bo$379b3o13boobo$394boo$398bo$377booboo12bob3o4boo$382bo12bobb
+o4boo$377boo16b3o$379b3o3$395bo$394boo$393boobo$392boo$391boo21bo$392b
+oo21boo$383boo16bo$371b3o9b3o4bo$371bobo8bo4bo10bo$371bobo9boobboo4boo
+4bobo$371bo4boo5boobo7boo$370b3o3boo15bo$376bo$372b4o$373boo$373bo$$
+374bo$372bobo$371b4o$371b3o$373bo$$364boo$367boo4bo$364boob4o3bo$361b
+5o4b4o9boo$364b3o6bo9boo$365bo$364b3o$371bo$371bo3$391boo$391boo5$382b
+o$351bo28boobo$350boboo16boo9boboo$354bo15boo11bo$348bo3bobbo11bo$346b
+o9bo9bobo$346bo4boobboo8booboo$355boo7boobbo$328bo19bo5bo10b3o$327bobo
+19bo4b3o9bo$327bobboo18bo4boo$325b7o14bo5b4o$324bobbo3bo14bo$323b3obb
+7o11bo$325b3obbo8bo$326booboo8bo$327b3obobbo$328b3oboo13boo$331bo13boo
+bo$344bo3bo$344bobboo$345b3o$346bo4$371bo$370bo$370b3o$334boo$334boo7$
+342boo$342boo$306b3o$305bo3bo$305bo3bo$305bo3bo12b3o$322b3o$306booboo
+9boo4bo$307bobbo9b3obobo$308bobo10boo3bo$309boo10b5o$306bo3bo12bo7boo$
+305bobobobo19boo$306bo3$321boobbo$$321bo3bo$321bo$322bobo13bo$339boo
+14bo$322b3obbobo3b3obbobo13bo$311boo13bo3bo4boboobo13b3o$300bo10boobb
+oo8boo10b3o$299b3o12bobbo6bo27boo$298bobobo12boobboo5bobo3bo19bobo$
+297b3ob3o14boob3obbo3boo21bo$318boobb3obbo$299bob3o14bo6b3o$299b5o22bo
+$299boobboo11boobo$301boboo12bobo24b3o$284bo18boo13bo27bo$299bobobbo
+40bo$280bo7bo9bobobbo$280bo8bobb3o4bo$279bo4boo3bobb3o$267bo12bobo6bo
+bboobbo$266bobo11boboo10bobo$266bobo25b3o$266bobbo15bo$267bobo$270bo$
+269boo$269bo$243b3o$243b3o$312b3o$243boboo67bo$243bo3bo65bo$245b3o$
+260boo18boo$260boo4bo13boo$265b3o$264bobobo$244bo19bo3bo$243bobo17boob
+oo$244bo19b3o$243boo$243boo43boo$244bo43boo$242boboo$243boboobo12boo$
+243bo4bo12b3o$246bobo15bo$263boo$261b3o$260boo$258boo$259bo$$248boo5b
+4o$248boo4bo$254bobboo$255b3o$256bo4$256boo$256boo!

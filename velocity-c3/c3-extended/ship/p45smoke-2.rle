@@ -1,0 +1,37 @@
+#C A period 45 c/3 spaceship with some smoke at the back.
+#C This smoke can be reached by backward or forward gliders to produce
+#C another glider or other output.  In particular, a backward glider can
+#C be reflected to become another backward glider traveling back through
+#C the same columns.
+#C David I. Bell, December 1999
+x = 99, y = 124
+50bo$49bobo$33bo14bo3bo14bo$29b3ob3o13b3o13b3ob3o$28bo6bob3o21b3obo6bo
+$29boo3bo5bo6boo3boo6bo5bo3boo$37b7o3boo3boo3b7o$35bobboo3boobb3ob3obb
+oo3boobbo$36boobo4boo9boo4boboo$42b4obbooboobb4o$34boob4o7booboo7b4ob
+oo$33boboboo5boobob3oboboo5boobobo$30boobo10boobo5boboo10boboo$30boobo
+9bobobo5bobobo9boboo$30bobo10bo3bo5bo3bo10bobo$49bobo$43bo3b3ob3o3bo$
+43bob5ob5obo$43bobo9bobo$45bobooboboobo$44boobob3oboboo$45bobob3obobo$
+42booboboo3booboboo$42boobobo5boboboo$43bobobo5bobobo$24bo21boo5boo21b
+o$17boob3ob3o20b7o20b3ob3oboo$17boo4bobbooboo19bo19booboobbo4boo$16bo
+bboboo3bobboo14bobobbobbobo14boobbo3boobobbo$28bobbo5bo6boobo5boboo6bo
+5bobbo$32bobb4o5boo3bobo3boo5b4obbo$35bo3bo6boo5boo6bo3bo$30b3obbobob
+oo5b9o5boobobobb3o$33bobbooboboo15booboboobbo$35boobo3boboo9boobo3bob
+oo$42bobob9obobo13b3o$43b15o13bo$45bo9bo14boo$47bo5bo10boboobboobb3o$
+46bo7bo8boobooboo5bo4boo$47bo5bo8bobboo3boboo4booboo$48b5o15b4o6boo3bo
+$64boboboo8boo$66bo$63boo18bo$62boobbo4boobo3bo3boob3o$64b3obooboboob
+ooboobob3obbo3b3o$60bobbo5boboo6bo9bobboboboo$42bo18bob4obo3b3o3bobobb
+o3bobobbobo3bo$41boo13bobo7b3obboo10bo4boobbobbobo$41bo24boo4bo16b5o$
+47boo7bobo8boboobo17boo$41boo3bobo$41bob5o20bobbo$41bo3boo21bobbo$42b
+3o$42b3o4$45boo$46boo14bo5boo11bo$44bobo14b4o3booboo7b4o$44bobo13bo3b
+oobo3boo6bo3bob3o$45boo3boo8bo4bobobb3o5boobobbo3bo$51bo7booboboobo8b
+ooboboo3boo$45bo14b3o4bob6obobbobbo$46boo11boobobobbob3o6booboo$25bo
+31bobboob3obbo5bo4boo$25boo30bo4b7o6boobbo3boo$25boboo15boo11boo4bobbo
+16boo$23bobbo16bobbo10bobbo12bobbo3b4o$22boo6b3oboo7bobo15bobo10bobo4b
+o$16b3obboob3obboo3boo8bo36bo$15bobob3o4bo5b4o15boo$16bo4bo4boobbobo
+18boo$19boo9bobbo$31bobboo12boo$12bob3o16b4o10b4o$4bo6bo4boob3oboob3o
+bboo3bo9b5o$bb4o4boobbob4oboboo4b6obo8boo$boo3boboobb4obo3bobo3bobo5b
+oo9b4o$o3bob4o9bo8b3ob5o10b3o$4bo22bobbo3bo13bo$5bo4bo14booboo$9bo17bo
+bb3o$27b4o4$46boo3bo$44b3o4boo$34bo8bo8boo17b3oboo$32b4o7bobobb5o16boo
+4boo$28booboo3bo3bo3bo3b3o17bo3bobobbo$28boobbo5b4o21b3obb3o$27bobbo7b
+o3bo19bobob3o$36bobbobo21bo4bo$37bo28boo$$59b3o$56bobbobbo$55bob3o3bo$
+61b3o14$62boo$62boo$66bo5bo$65bobobbobo$65boboob3o$64booboo$66bo!

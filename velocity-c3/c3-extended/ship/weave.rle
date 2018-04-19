@@ -1,0 +1,43 @@
+! "main" (cells 254 length 39 width 101 generation 0)
+! Period 3 spaceship with weaving wicktrailer.
+! David I. Bell
+19k47h@!
+2.....O
+2....O.O
+2...OO
+2.....O
+2...OO
+2...OOO
+2...OOO
+2.....O.O
+2.OO...OO
+2.OOO.OO
+2.....OO
+..O..O11.O21.OO10.O21.OO10.O
+3.3O10.OO9.3O20.OO9.3O20.OO
+5.O8.5O7.O10.OO..O6.5O7.O10.OO..O6.5O.3O7.O.O
+3.O3.O5.O6.O3.OO4.O5.O10.O6.O3.OO4.O5.O10.O8.O.O3.O..O
+..O3.O5.O..O..OO4.3O3.O.O..OO4.3O3.O.O..OO4.3O3.O.O..OO4.3O3.O.O..OO4.O.O.O..OO
+3.O3.OO.O..O.O3.O10.O6.O3.OO4.O5.O10.O6.O3.OO4.O5.O..3O
+4.5O.O9.OO..O6.5O7.O10.OO..O6.5O7.O10.O
+4...O..........................OO.........OOO....................OO.........OOO
+4.......O...........OO..........O.....................OO..........O
+4....O
+4...O.OOO
+4..OO
+4..O
+4.OOOO
+4.....O
+.OOO..O
+.OO...OOO
+.....O
+OOO
+OO.OO.O
+..O.O..O
+.....O
+..OOOO
+.O..OO
+..OO.O
+..OOO
+.....O
+.....O.O

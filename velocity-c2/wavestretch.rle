@@ -1,0 +1,23 @@
+#C Two objects moving in different directions stretch a
+#C moving "wave" between them. This is actually very similar
+#C to the Spacefiller.
+#C Jason Summers, 14 Apr 1999
+x = 112, y = 91, rule = B3/S23
+80b6o$79bo5bo$85bo$79bo4bo$81boo$$76booboboo$75bobobo3bo$83bo$77bo3b3o
+$79bo$71b4obboboo$74bobbo$69bo3boboboo$69bo5boo$72boboo$69bob4o$68boo
+bbobbo$66bo5bo3bo$66boo3boo3bo$65bobo3boo3bo$16bo21bo32b5o$11b3ob3o19b
+3ob3o23bo3bobbo$10boobo3boo17boo3boboo26bo$8boobobobobboo15boobbobobob
+oo23boo4boo$9bo3bo4bo17bo4bo3bo27bobbo$6boobobobo4boo15boo4boboboboo
+23boboboboo$5bobo8boboboo11boobobo8bo23bobo4bo$3b3obo7boobobo13boboboo
+7boboo20bobo4boboo$bbobbo8bo3boboboo7boobobo3bo8bo30bo$bbo6bo8bo3boo7b
+oo3bo12boboo27boboo$bb4oboo5boo3bob3o7b3obo3boo10bo30bo$6booboo12boo5b
+oo19boboo27boboo$5bo47bo30bo$53boboo27boboo$55bo30bo$6o49boboo27boboo$
+o5bo50bo30bo$o56boboo27boboo$bo4bo52bo30bo$3boo54boboo27boboo$61bo30bo
+$61boboo3bo23boboo$63bobob3o24bo$63bobo3boo23boboo$67bobboo24bo$70bo
+25boboo$70boo26bo$68boboboo24boboo$67boobobo27bo$66bo3boboboo24boboo$
+70bo3boo26bo$66boo3bob3o26boboo$75boo27bobo$104bob3o$38b3o65bobbo$38bo
+bbo60bo6bo$38bo64boob4o$38bo5bo56booboo$38bo4b3o60bo$39bo5boo$42bobboo
+$41bo3boo59b6o$40boo63bo5bo$39b3o4b3o62bo$39b3o6boo55bo4bo$39b3o6b3o
+56boo$39b3o7boboo$40boo9bo$49boboboo$53bo$53boboo$55bo$55boboo$57bo$
+57boboo$59bo$59boboo$61bo$61boboo3bo$63bobob3o$63bobo3boo$67bobboo$70b
+o$70boo$68boboboo$67boobobo$66bo3boboboo$70bo3boo$66boo3bob3o$75boo!

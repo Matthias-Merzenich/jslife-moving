@@ -1,0 +1,44 @@
+#C A period 45 c/3 spaceship with some smoke at the back.
+#C This is actually composed of a period 45 backward rake which emits a pair
+#C of gliders and a period 15 ship.  Each pair of gliders is converted into
+#C smoke by the period 15 ship.  This smoke can be hit by forward gliders to
+#C produce other output.  In particular, a single forward glider can be
+#C duplicated into one forward and one backward glider which continue in
+#C the same sideways direction.
+#C David I. Bell, December 1999
+x = 112, y = 127
+46b3o$46b3o$26boob3o13bo3bo13b3oboo$26boo4booboo21booboo4boo$25bobbobo
+4boo7bo5bo7boo4bobobbo$32boobobboo4booboboo4boobboboo$38boboo11boobo$
+33b3oboobbo3bo3bo3bobboob3o$33bo3b3obo4bobo4bob3o3bo$31booboboo4bobbo
+3bobbo4booboboo$30bobobbo8bobobobo8bobbobo$28b3obobbo5boobobbobboboo5b
+obbob3o$27boobo9bobobob3obobobo9boboo$26bo3bo9bobobbooboobbobo9bo3bo$
+41b3obbobobb3o$42boboo3boobo$40boo3bo3bo3boo$40bobo4bo4bobo$42bobbobob
+obbo$42bob3ob3obo$42bobo5bobo$39boobobobbobboboboo$39boobobobbobbobob
+oo$42bobob3obobo$41bobb7obbo$15boboob3o49b3oboobo$14booboo4boobo16bo7b
+o16boboo4booboo$13bobbobobbo3b3o18b3o18b3o3bobbobobbo$14bo5bo3bo3bo13b
+3o5b3o13bo3bo3bo5bo$27boo4b3o5boob3ob3oboo5b3o4boo$27boobboobo9b3ob3o
+9boboobboo$28boo4boboo9bo9boobo4boo$33bobbobo3boo7boo3bobobbo$28boobo
+bbobobobo13bobobobobboboo$24boo6bo8bo11bo8bo$23boobo12bob13obo$23boobo
+$21b3oboo3bo$16bo3bo4bobb3ob3o$15b4o4b3obboo5bo$14bo3bo9boobobbo$15bob
+obbo4boo4bo$19bo9bob3o$14bo16bo3bo$14b3obbo6bo3bobobbo$3boo4b5o4bobob
+3ob3o6boo$ooboo3b3obbo4bobo3boobbo3booboo18bo$oo3bo4b5obobo3boo12bo4bo
+11b3o$obobbobbo3boo12bobboobobbo4bobo9b4o$3bob4o16boobboobbo6bobbo7bo$
+25boboo11bobboo5boo$30bo10bobo7boobo$26b4o10bo11boboo$27boo10booboo7b
+oobo5$48bobo$48bobbo$52bo$48bo3bo$27boo17boo4bo$26boobo16boo$26boobo
+18boobbo$24b3oboo3bo16boo$19bo3bo4bobb3ob3o$18b4o4b3obboo5bo31boo$17bo
+3bo9boobobbo14boo15boboo$18bobobbo4boo4bo16bobbo14boboo$22bo9bob3o15bo
+bo10bo3boob3o$17bo16bo3bo14bo7b3ob3obbo4bo3bo$17b3obbo6bo3bobobbo21bo
+5boobb3o4b4o$6boo4b5o4bobob3ob3o6boo6bobo12bobboboo9bo3bo$3booboo3b3o
+bbo4bobo3boobbo3booboo6bobo15bo4boo4bobbobo$3boo3bo4b5obobo3boo12bo6bo
+15b3obo9bo$3bobobbobbo3boo12bobboobobbo9bo11bo3bo16bo$6bob4o16boobboo
+bbo23bobbobo3bo6bobb3o$28boboo18bobo6boo6b3ob3obobo4b5o4boo$33bo17boo
+6booboo3bobboo3bobo4bobb3o3booboo$29b4o18bo7bo12boo3bobob5o4bo3boo$30b
+oo28bobboboobbo12boo3bobbobbobo$62bobboobboo16b4obo$67boobo$65bo$66b4o
+$67boo$91boo$75boob3o7booboo5boo$75boo4boo5boo3b3obob4o$55bo19b3obo3bo
+bboo3bobo3bo3boo3bo$56bo20bob3obobbobbo3bobo3bo4b3ob3o$54b3o14bo5boob
+ooboobobo6bo3bobbobo6bo$70boo4bobb3obbobob3obo9bobbo3boo$68boobo3boobo
+5bobboobbooboo$70bobbo9b4obbobbo$73bo3boo5boo5boobobooboo3bo$65boobobo
+9boobobbobb3o3b3o3booboo$65boo14boboboo4bo3boo4bobbo$65b5o8b5o14booboo
+5bobo$67bobbo6bobbobbo7boo4boo7b5o$73boo8bo20boobo3bo$69b4obb4o23boobo
+4bo$69b10o22bo3bo$63bo3boo10boo21bobo$61bobo$62boo3bo5boo5bo$71b6o5$
+72bobbo$71boobboo$72bobbo3$65bobo$66boo$66bo5$68boo$67bobo$68bo!
