@@ -1,5 +1,6 @@
-#C All known period-2 ships up to 75 cells
-#C Collection compiled by Aidan F. Pierce
+#C All known period-2 ships up to 75 bits.
+#C Spaceships found by Dean Hickerson, David Bell, Harmut Holzwart,
+#C Aidan F. Pierce, and Matthias Merzenich
 x = 611, y = 281, rule = B3/S23
 28bobo$27bo2bo144bobo$26b2o146bo2bo$25bo147b2o14bobo$24b4o144bo4bo10bo
 2bo$23bo4bo142b5obo9b2o$23bo2bo141b2o16bo$23bo2bo140bo3b3o11b4o$24bo
