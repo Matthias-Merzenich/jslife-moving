@@ -1,0 +1,17 @@
+#C 13-engine Cordership
+#C This was the first c/12 diagonal spaceship to be discovered.
+#C Dean Hickerson, Apr 1991
+x = 97, y = 98, rule = B3/S23
+54b3o$53bo2bo$52bo4bo$52bo2b3o$52bo5bo$53b7o$59bo$59bo$57b2o12b2o$71b
+2o7$79b2o$79b2o$36b3o$35bo3bo$34bo4bo$34bo2bobo35bo$34b2obobo34bo$36b
+2obo2bo32bo$38b2o2bo44b2o$39b3o45b2o$28b3o38bo$27bo2bo36bobo$26bo4bo
+34b2o$26bo2b3o$26bo5bo14b3o7bobo$27b7o16b3o5bo$33bo16b3o42b2o$33bo17bo
+34bo8b2o$31b2o53bo$86bo$87b2o$87b3o$39bo47b2o$39bo$39bo$40b2o$40b3o$
+40b2o44bo$10b3o74bo$9bo3bo72bo$8bo4bo52b2o$8bo2bobo52b2o$8b2obobo25bo
+27bo$10b2obo2bo21bobo$12b2o2bo21bo2bo$13b3o$2b3o62b3o7bobo$bo2bo32bo2b
+o29b3o5bo$o4bo31b2ob3o27b3o$o2b3o33b2o2bo27bo$o5bo27b2o4bo2bo$b7o22b2o
+3bo4bobo12b2o$7bo11b3o7bo6bo18b3o$7bo14b3o5bo3b5o21bo$5b2o15b3o6bo3bo
+24bo$23bo11bo2bo21bo$36b2o23b2o$61b3o$4bo56b2o$3bobo$2b2obo$2b2o$3b3o$
+4bo55bo$5bo2bo52bo$2bo6bo50bo$2bo6bo$2bo4b3o5$41b3o7bobo$44b3o5bo$7b2o
+35b3o$7b2o36bo4$34bo$34bo$34bo$15b2o18b2o$15b2o18b3o$35b2o5$34bo$23b2o
+10bo$23b2o9bo!
