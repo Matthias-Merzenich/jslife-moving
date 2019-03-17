@@ -1,7 +1,7 @@
 #C Small c/7 orthogonal "Loafer" spaceship by Josh Ball, 17 Feb 2013
 #C Larger ship by Matthias Merzenich, 4 Feb 2017
-#C Much larger c/7 orthogonal spaceships have been constructed by
-#C Michael Simkin using the caterloopillar design.
+#C Much larger high-period c/7 orthogonal spaceships have been
+#C constructed by Michael Simkin using the caterloopillar design.
 x = 67, y = 96, rule = B3/S23
 7bo47b2o3b2o$6bobo44b2o2bobo2b2o$5bo2bo$6b2o49bobo$52bo4bobo4bo$2bo5bo
 43bo3bo3bo3bo$bobo3bo44bo2bo5bo2bo$o2bo3b2o$o2b2o3bo43bo11bo$52bo2b2o
