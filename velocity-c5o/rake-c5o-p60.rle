@@ -1,6 +1,4 @@
 #C Period-60 c/5 orthogonal forward rake
-#C As of Nov 2016, this is the lowest-known
-#C period for a c/5 orthogonal rake.
 #C Paul Tooke, 2004
 x = 1779, y = 877, rule = B3/S23
 883b3o6b3o$880b4obo6bob4o$879bo18bo$879bo2bob2o6b2obo2bo$886bob2obo$

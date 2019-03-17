@@ -1,6 +1,4 @@
 #C Period-85 c/5 diagonal rake
-#C As of Nov 2016, this is the lowest-known
-#C period for a c/5 diagonal rake.
 #C Matthias Merzenich, 12 Mar 2012
 x = 825, y = 1014, rule = B3/S23
 215bo$214b2o$213bo$211b3ob2o$210b2obo3bo$209bob3o$208b2obobob2o$209bob
