@@ -1,6 +1,6 @@
-#C A period-6612 glide-symmetric c/6 orthogonal dirty puffer
-#C Nico Brown, 26 Jul 2017
+#C A period-6612 glide-symmetric c/6 orthogonal dirty puffer.
 #C This was the first c/6 orthogonal puffer to be found. 
+#C Nico Brown, 26 Jul 2017
 x = 759, y = 176, rule = B3/S23
 20b5o7b5o685b5o7b5o$19bo2bo2bo5bo2bo2bo683bo2bo2bo5bo2bo2bo$19b2obobo
 7bobob2o683b2obobo7bobob2o$23bo9bo691bo9bo$22bo11bo689bo11bo$21b2o11b
