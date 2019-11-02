@@ -1,17 +1,32 @@
-#C left: p8 tagalong for c/4 diagonal spaceships.
-#C Jason Summers, Nov 2000
-#C Note that there are two possible locations for
-#C the spark.
-#C ---
-#C right: p12 spaceship derived from p28 puffer,
-#C Hartmut Holzwart with David Bell, Sep 2005
-x = 97, y = 46, rule = B3/S23
-87b3o$87bo$88bo$90boo$91bo$$88bo$85b4obo$85bo4bo$86bo4boo$4boobo7b3o
-70bobb3o$4bo3bo6bo76boo$4bo4bo7bo7boo62booboo$6boo7bobo4boobo63booboo$
-8bobo4b3obobboo63boo3boo$3o11bo3boobboo62boo4bo3bo$o9boob4oboo67boob3o
-3bo$3bo7b7o64boobb4obbo$obbo77bobboboobooboo$bobbo75boobo$bbo73boobo3b
-o3bo4boo$4bobo69bo6bo$6boo68boboo3boo$7bo6b3o66b3o$6boo6bobbo63boboo$
-5b3o5bo3bo62boobobo$oobooboo7bo65bobbo$o3boboo9boo54boo6bobobo$ob3obbo
-5bo6bo51boo8bo$5boo8b3o3bo52bo5bobo$4b3o14bo54bobobbo$19bo55booboobo$
-20bo45boo13bo$3b3o60bobo3bobboo3bo$3b3o60bo3bobboo5bo$69boo3bo$bboo65b
-o$bbo69boo$74bo$$70b3o$62b3o5b3o$62bo6bobo$63bo4boo$65b4obo$66boo!
+#C 1. p8 tagalong for c/4 diagonal spaceships.
+#C    Jason Summers, Nov 2000
+#C    Note that there are two possible locations for
+#C    the spark.
+#C 2. p12 spaceship derived from p28 puffer,
+#C    Hartmut Holzwart with David Bell, Sep 2005
+#C 3. p12 spaceships derived from p28 puffer,
+#C    Aidan F. Pierce, 30 Oct 2019
+x = 235, y = 66, rule = B3/S23
+14bo59bobobo71bobobo2$14bo63bo75bo2$14bo59bobobo71bobobo2$14bo59bo79bo
+2$14bo59bobobo71bobobo11$224bo$87b3o133b2o$87bo135bobo$88bo$90b2o68b2o
+64b2o$91bo67b2o28bob3o32b2o2b3o$143b3o15bo25bobo40b2obo$88bo54bo19b2o
+21b2o2b2o2bo33bo4bo$85b4obo53bo17bo17b2o5b2o3bo2bo31b3o4bo$85bo4bo55b
+2o32bobo3bobo4bo2bo30bo5bo$86bo4b2o54bo9b3obo2bo15bo6bo6b2o3bo14b2o12b
+obo2b2o$4b2obo7b3o70bo2b3o63bo2bo22bo3bo9b4o4b4o4b2o$4bo3bo6bo76b2o50b
+o15bo2bo19b2o12b2ob6ob3o5bo9b3o$4bo4bo7bo7b2o62b2ob2o47b4obo11bo38bo7b
+2o10b2o6b2ob2o$6b2o7bobo4b2obo63b2ob2o47bo4bo11b4o32b3o4b2obo12b2o2b2o
+2bob3o$8bobo4b3obo2b2o63b2o3b2o48bo4b2o5b3o4bobo30bo25b2obo2b2o$3o11bo
+3b2o2b2o62b2o4bo3bo47bo2b3o4bo2bo37bo11bo2bo10bo4b2o$o9b2ob4ob2o67b2ob
+3o3bo51b2o6bo49bo3bo7b2o3bo$3bo7b7o64b2o2b4o2bo52b2ob2o5b2o3b2o44bo3bo
+b3o3b2o$o2bo77bo2bob2ob2ob2o51b2ob2o5b2o3bobo43bobo3bobo3bo$bo2bo75b2o
+bo59b2o3b2o2bo2b3o2bo51bob2o3b2ob2o$2bo73b2obo3bo3bo4b2o48b2o4bo3bo7bo
+53b2o5bobo$4bobo69bo6bo59b2ob3o8bob2ob3o46b2ob2o$6b2o68bob2o3b2o55b5ob
+2o11b2o5bo44b2ob2o$7bo6b3o66b3o53b2o3bob2o10b3o6bo41b2o3b2o$6b2o6bo2bo
+63bob2o56bob2o19bobo41b2o4bo$5b3o5bo3bo62b2obobo58bo15bob2o45b2ob3o$2o
+b2ob2o7bo65bo2bo121b5ob2o$o3bob2o9b2o54b2o6bobobo58bo60b2o3bob2o$ob3o
+2bo5bo6bo51b2o8bo54bo5b3o61bob2o$5b2o8b3o3bo52bo5bobo53b2o5bo66bo$4b3o
+14bo54bobo2bo54bobo7b2o$19bo55b2ob2obo59b3o3b2o61bo$20bo45b2o13bo52bo
+4b5o2bo56bo5b3o$3b3o60bobo3bo2b2o3bo52b2o3b3o61b2o5bo$3b3o60bo3bo2b2o
+5bo52bobo3bo62bobo7b2o$69b2o3bo132b3o3b2o$2b2o65bo66b2o62bo4b5o2bo$2bo
+69b2o61b3o61b2o3b3o$74bo124bobo3bo$134b2o$70b3o61bo67b2o$62b3o5b3o128b
+3o$62bo6bobo$63bo4b2o130b2o$65b4obo129bo$66b2o!

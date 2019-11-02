@@ -1,12 +1,31 @@
-#C p28 puffer by Hartmut Holzwart, 9 Feb 2004
-#C (The original was much larger than the improved
-#C forms shown here.)
-x = 86, y = 36, rule = B3/S23
-10b3o57b3o$10bo59bo$11bo59bo$13boo58boo$14bo59bo$$11bo59bo$8b4obo54b4o
-bo$8bo4bo54bo4bo$9bo4boo53bo4boo$11bobb3o54bobb3o$15boo40boo16boo$12b
-ooboo40bobo12booboo$12booboo40bo14booboo$10boo3boobobo39bo9boo3boobobo
-$9boo4bo3bo40boo7boo4bo3bo$10boob3o6bo37boo8boob3o6bo$7b5oboo6bobo35b
-oo6b5oboo6bobo$6boo3boboo7bo32booboo6boo3boboo7bo$8boboo43bo4bo7boboo$
-11bo43bob4o10bo$59boo$11bo12bo34boo5boo3bo12bo$4bo5b3o10bobo33boo5bo3b
-oobo9bobo$3boo5bo12bobo35bo4bobo3bo10bobo$3bobo7boo9bo35boo3boobo15bo$
-8b3o3boo44bo$bo4b5obbo47bo$oo3b3o$obo3bo$$3boo$bb3o$$boo$bo!
+#C 1. p28 puffer by Hartmut Holzwart, 9 Feb 2004
+#C    (The original was much larger than the improved
+#C    forms shown here.)
+#C 2. p28 puffer by Aidan F. Pierce, 29 Oct 2019
+#C 3. p40 puffer by Aidan F. Pierce, 29 Oct 2019
+x = 283, y = 66, rule = B3/S23
+10bo123bobobo111bobobo2$10bo127bo115bo2$10bo123bobobo111bobobo2$10bo
+123bo119bo2$10bo123bobobo111bobobo14$153bo$152b5o$152bo2b2o$120bob3o
+29b2obo72bob3o$118bobo107bobo$117b2o2b2o2bo31bobo67b2o2b2o2bo$111b2o5b
+2o3bo2bo94b2o5b2o3bo2bo$111bobo3bobo4bo2bo22b3o6b3o59bobo3bobo4bo2bo$
+10b3o57b3o38bo6bo6b2o3bo14bo4bo2b3o4b3o58bo6bo6b2o3bo13b2o22bo$10bo59b
+o43bo3bo9b4o4b4o4b2o5b2ob5ob3o61bo3bo9b4o4b4o3b2o11b2o9b2o$11bo59bo42b
+2o12b2ob6ob3o3bobo3b3o4b2ob2o62b2o12b2ob6ob3o3bobo9bobo8bobo$13b2o58b
+2o53bo7b2o18bobo79bo7b2o6b3o9bo14bo$14bo59bo50b3o4b2obo10b3o6bo2bo76b
+3o4b2obo8b2o13bo11bo$125bo19b3o7bo79bo20bobo3bo5bobobo6bo2bo$11bo59bo
+54bo11bo2bo5bobob4o2bo78bo11bo2bo10bo5bo3b4o2bo$8b4obo54b4obo63bo3bo7b
+2ob2o93bo3bo6bobobo5bob2o3bo2bo2bo$8bo4bo54bo4bo63bo3bob3o3b6o92bo3bob
+3o4b3ob3o2b4o3bo$9bo4b2o53bo4b2o61bobo3bobo101bobo3bobo4b3o6b2o7bo$11b
+o2b3o54bo2b3o66bob2o106bob2o4b2o6b2o7bo$15b2o40b2o16b2o68b2o108b2o$12b
+2ob2o40bobo12b2ob2o65b2ob2o105b2ob2o$12b2ob2o40bo14b2ob2o65b2ob2o105b
+2ob2o$10b2o3b2obobo39bo9b2o3b2obobo59b2o3b2obobo99b2o3b2obobo$9b2o4bo
+3bo40b2o7b2o4bo3bo59b2o4bo3bo99b2o4bo3bo4b2o$10b2ob3o6bo37b2o8b2ob3o6b
+o57b2ob3o104b2ob3o8b2o$7b5ob2o6bobo35b2o6b5ob2o6bobo53b5ob2o102b5ob2o$
+6b2o3bob2o7bo32b2ob2o6b2o3bob2o7bo53b2o3bob2o101b2o3bob2o$8bob2o43bo4b
+o7bob2o66bob2o106bob2o$11bo43bob4o10bo69bo109bo$59b2o204b2o$11bo12bo
+34b2o5b2o3bo12bo56bo12bo96bo13b2o$4bo5b3o10bobo33b2o5bo3b2obo9bobo48bo
+5b3o10bobo88bo5b3o$3b2o5bo12bobo35bo4bobo3bo10bobo47b2o5bo12bobo87b2o
+5bo$3bobo7b2o9bo35b2o3b2obo15bo48bobo7b2o9bo88bobo7b2o12bo$8b3o3b2o44b
+o77b3o3b2o102b3o3b2o10bobo$bo4b5o2bo47bo69bo4b5o2bo97bo4b5o2bo12bobo$
+2o3b3o122b2o3b3o102b2o3b3o19bo$obo3bo123bobo3bo103bobo3bo2$3b2o128b2o
+108b2o$2b3o127b3o107b3o2$b2o128b2o108b2o$bo129bo109bo!
