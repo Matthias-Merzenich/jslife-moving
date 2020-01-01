@@ -1,9 +1,25 @@
-#C "Weekender": 2c/7 spaceship found by David Eppstein, 12 Jan 2000
-#C Tagalong by Stephen Silver, 27 Apr 2000
-x = 37, y = 52, rule = B3/S23
-11bo12bo$11bo12bo$10bobo10bobo$11bo12bo$11bo12bo$12bo3b4o3bo$16b4o$12b
-4o4b4o$$14bo6bo$15boobboo18$bo12bo7bo12bo$bo12bo7bo12bo$obo10bobo5bobo
-10bobo$bo12bo7bo12bo$bo12bo7bo12bo$bbo3b4o3bo9bo3b4o3bo$6b4o8bo8b4o$bb
-4o4b4obb5obb4o4b4o$15bobobobo$4bo6bo13bo6bo$5boobboo6bobo6boobboo$14bo
-bbobobbo$14bobbobobbo$14bobo3bobo3$14boo5boo$14boo5boo$$16booboo$15bob
-obobo$15bobobobo$17bobo$15boo3boo!
+#C 1. "Weekender": spaceship by David Eppstein, 12 Jan 2000
+#C 2. Tagalong by Stephen Silver, 27 Apr 2000
+#C 3. "Scholar": spaceship by Andrew J. Wade, 30 Dec 2019
+x = 123, y = 82, rule = B3/S23
+2bo24bo12bo43bobobo22bo$27bo12bo69b3o$2bo23bobo10bobo46bo21b3o$27bo12b
+o$2bo24bo12bo43bobobo17b3o5b3o$28bo3b4o3bo$2bo29b4o52bo17bobo5bobo$28b
+4o4b4o66bobo5bobo$2bo81bobobo18bo7bo$30bo6bo68bo2bo3bo2bo$31b2o2b2o70b
+ob2ob2obo$104bo4bo3bo4bo$104b6o3b6o$104bo4bo3bo4bo$105b2obo5bob2o$109b
+o3bo$105bo11bo$105bo3bo3bo3bo$106bo2bo3bo2bo$106bo2bo3bo2bo$101b3o3bob
+o3bobo3b3o$100bo2bo3b9o3bo2bo$100bo2bo2b2ob5ob2o2bo2bo$107b2o2bo2b2o$
+106b2o3bo3b2o$106b2o7b2o$109b2ob2o$106bo3bobo3bo$17bo12bo7bo12bo54bo3b
+obo3bo$17bo12bo7bo12bo54b2o2bobo2b2o$16bobo10bobo5bobo10bobo55b3ob3o$
+17bo12bo7bo12bo52b2ob2o5b2ob2o$17bo12bo7bo12bo51bo2b2o7b2o2bo$18bo3b4o
+3bo9bo3b4o3bo51bo17bo$22b4o8bo8b4o56bob3o7b3obo$18b4o4b4o2b5o2b4o4b4o
+55bo2bo3bo2bo$31bobobobo69b3o3b3o$obobo15bo6bo13bo6bo55b2o4bobo4b2o$
+21b2o2b2o6bobo6b2o2b2o61bo3bo$4bo25bo2bobo2bo66bo4bobo4bo$30bo2bobo2bo
+63bo6b2ob2o6bo$obobo25bobo3bobo62b2o2b3obo3bob3o2b2o$100bo5b4o3b4o5bo$
+o100bo3b2o2bo3bo2b2o3bo$30b2o5b2o63b3o2bobo3bobo2b3o$obobo25b2o5b2o$
+107b3o3b3o$32b2ob2o69b2o7b2o$31bobobobo67b2o9b2o$31bobobobo67bobo7bobo
+$33bobo70bo9bo$31b2o3b2o69bobo3bobo$107bobo3bobo$106bo9bo$106bo9bo$
+106bo3bobo3bo$107bo2bobo2bo$107bo2bobo2bo2$108b3ob3o$108bobobobo$109b
+5o$103b3o11b3o$103b3o11b3o$101bo3bo11bo3bo$105bo11bo$106bo9bo$101bo3bo
+3bobobo3bo3bo$102b2o4bo5bo4b2o$103bo15bo$104b3o9b3o$105bo5bo5bo$110b3o
+$109b2ob2o$109b5o$106b3o2bo2b3o$104bo13bo$104bobo9bobo$106bo9bo$103bob
+o11bobo$102bo2bo11bo2bo$103b2o13b2o!
