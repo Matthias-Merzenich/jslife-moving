@@ -1,0 +1,37 @@
+#C A period-400 c/10 orthogonal rake constructed
+#C by doubling the period of a p200 rake
+#C By Christoph R., 26 May 2020
+x = 158, y = 168, rule = B3/S23
+25b2o$25b2o$24bo2bo$24b4o$23bob2obo$12b2o2b2o6bo2bo$12b2o2b2o$11b3o2b
+3o4b2o2b2o$11b3o2b3o3bo6bo2$11bo6bo4bo4bo$11bo2b2o2bo5bo2bo$2o10b6o7b
+2o$obo$o21b2o4b2o$14b2o5bo2bo2bo2bo$14b2o6b2o4b2o$23bo4bo15$97b2o2b2o$
+36b3o58b2o2b2o$36bo59b3o2b3o7bo2bo$37bo45b4o9b3o2b3o7bo2bo$83bo2bo23bo
+4bo$82b6o8bo6bo6bo4bo$96bo2b2o2bo6bo4bo$97b6o7bo4bo$81bo2b2o2bo20b3o2b
+3o$81bob4obo20bob4obo$50b2o29bobo2bobo10b2o9bo4bo$50bobo45bo2bo$22b2o
+26bo47b4o$22b2o60b2o11b2o2b2o9b2o$84b2o8bo2bo4bo2bo6b2o$97bo4bo9b2o$
+81b2o4b2o9b4o8bo4bo$81b3o2b3o5bo10bo2b3o4b3o$80bo2bo2bo2bo5bo8bo2b3o6b
+3o$80b2ob4ob2o17b2o8b2o$81b8o10b2o7b10o$109b8o$41b2o56bo11b4o16b2o$39b
+2o2b2o53bo30b2o2b2o$41b2o54bob2o30b2o$38bo6bo50b2ob2o27bo6bo$39bo4bo
+52b2o9b2o19bo4bo$41b2o55b3o2b3obo23b2o$29b4o5b3o2b3o53bo5bo2b2o18b3o2b
+3o5b4o$38b2o4b2o54b2o2bo23b2o4b2o$29bo2bo69b2o37bo2bo$28bob2obo52b3o
+51bob2obo$28bo4bo7b2o43bo44b2o7bo4bo$40bo2bo43bo42bo2bo$28bo4bo106bo4b
+o$28b2o2b2o5bo4bo84bo4bo5b2o2b2o$28b6o4b2o4b2o82b2o4b2o4b6o$29bo2bo4bo
+2bo2bo2bo80bo2bo2bo2bo4bo2bo$30b2o5b2ob4ob2o80b2ob4ob2o5b2o$30b2o7bo4b
+o84bo4bo7b2o2$27b2o4b2o104b2o4b2o$27b2o4b2o104b2o4b2o$27b2o4b2o104b2o
+4b2o2$29bo2bo108bo2bo$60b3o$20b2o40bo89b2o$20b2o39bo71b2o17b2o$19bo2bo
+110b2o16bo2bo$19b4o128b4o$18bob2obo29bo96bob2obo$19bo2bo29b2o97bo2bo$
+52bobo$18b2o2b2o126b2o2b2o$17bo6bo124bo6bo2$18bo4bo109bobo14bo4bo$19bo
+2bo16b2o92bo17bo2bo$20b2o17b2o94bobo14b2o$137bo$17b2o4b2o111bobo10b2o
+4b2o$16bo2bo2bo2bo22b2o74b2o11b2o9bo2bo2bo2bo$17b2o4b2o22bo2bo72bo2bo
+12bo9b2o4b2o$18bo4bo23bo2bo72bo2bo10b2o11bo4bo$46bo4bo70bo4bo9bo$46bo
+4bo43bo26bo4bo$47b4o44b2o26b4o$46b2o2b2o42bobo25b2o2b2o5b2o$46bo4bo70b
+o4bo5b2o$46bo4bo70bo4bo3$47b4o72b4o$48b2o74b2o2$45b2o4b2o68b2o4b2o$44b
+o2bo2bo2bo66bo2bo2bo2bo$35bo9b3o2b3o68b3o2b3o$34b3o8b2o4b2o68b2o4b2o$
+33bob3o$33bo4bo64bo$34b2o2b2o62b2o$35bo2b3o61bobo$38b2o$38bo$34bo2bo$
+35b2o4$138bo$137bobo$136bo$138b2o$134b2o4b2o$45bo87b3o2bo3bo$45b2o86b
+3o2b2ob2o$44bobo87bob2obob2o$135b4obo$135b2o3bo$137b4o$137bo$139bo2$
+137bobo$137bob2o$136b5o$136b4obo$138bo2bo$138b3o$139bo2$130bo2bo$130bo
+2bo$129bo4bo$129bo4bo$129bo4bo$24b4o101bo4bo$24bo2bo100b3o2b3o$23b6o
+99bob4obo$33b2o94bo4bo$33b2o$22bo2b2o2bo$22bob4obo101b2o$22bobo2bobo
+101b2o$131b2o$129bo4bo$25b2o100b3o4b3o$25b2o99b3o6b3o$126b2o8b2o$22b2o
+4b2o97b10o$22b3o2b3o98b8o$21bo2bo2bo2bo99b4o$21b2ob4ob2o$22b8o!

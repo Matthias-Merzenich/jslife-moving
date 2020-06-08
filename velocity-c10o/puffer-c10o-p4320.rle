@@ -1,0 +1,20 @@
+#C A period-4320 c/10 orthogonal puffer constructed
+#C using only eight fireships
+#C By Christoph R., 7 Jun 2020
+x = 358, y = 49, rule = B3/S23
+53b2o2b2o240b2o2b2o$53b2o2b2o240b2o2b2o$52b3o2b3o238b3o2b3o$52b3o2b3o
+238b3o2b3o2$52bo6bo238bo6bo$52bo2b2o2bo238bo2b2o2bo$53b6o240b6o3$55b2o
+244b2o$54bo2bo242bo2bo$54b4o242b4o$39b2o2b2o8b2o2b2o240b2o2b2o8b2o2b2o
+$39b2o2b2o5bo2bo4bo2bo234bo2bo4bo2bo5b2o2b2o$38b3o2b3o7bo4bo240bo4bo7b
+3o2b3o$38b3o2b3o8b4o242b4o8b3o2b3o$50bo10bo234bo10bo$26b2o2b2o6bo6bo5b
+o8bo236bo8bo5bo6bo6b2o2b2o$26b2o2b2o6bo2b2o2bo266bo2b2o2bo6b2o2b2o$25b
+3o2b3o6b6o10b2o244b2o10b6o6b3o2b3o$25b3o2b3o292b3o2b3o$54b3o$25bo6bo8b
+2o11bo260b2o8bo6bo$25bo2b2o2bo7bo2bo11bo258bo2bo7bo2b2o2bo$26b6o8b4o
+270b4o8b6o$39b2o2b2o268b2o2b2o$36bo2bo4bo2bo262bo2bo4bo2bo$4bo2bo20b2o
+9bo4bo268bo4bo9b2o20bo2bo$4bo2bo19bo2bo9b4o270b4o9bo2bo19bo2bo$3bo4bo
+18b4o5bo10bo262bo10bo5b4o18bo4bo$3bo4bo17b2o2b2o5bo8bo264bo8bo5b2o2b2o
+17bo4bo$3bo4bo14bo2bo4bo2bo288bo2bo4bo2bo14bo4bo$3bo4bo17bo4bo9b2o272b
+2o9bo4bo17bo4bo$2b3o2b3o17b4o296b4o17b3o2b3o$2bob4obo13bo10bo288bo10bo
+13bob4obo$3bo4bo15bo8bo290bo8bo15bo4bo2$28b2o298b2o$5b2o344b2o$5b2o
+344b2o$5b2o344b2o$3bo4bo340bo4bo$b3o4b3o336b3o4b3o$3o6b3o334b3o6b3o$2o
+8b2o334b2o8b2o$b10o336b10o$2b8o338b8o$4b4o342b4o!
