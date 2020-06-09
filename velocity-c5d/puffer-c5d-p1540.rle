@@ -1,0 +1,10 @@
+#C A small period-1540 c/5 diagonal puffer
+#C By Peter Naszvadi, 27 Mar 2020
+x = 63, y = 63, rule = B3/S23
+60b2o$60b2o$59bo2bo$56b2obo2bo$62bo$54b2o3bo2bo$26b2o26b2o5bo$26b2o27b
+ob5o$25bo2bo27bo$22b2obo2bo$28bo$20b2o3bo2bo24b3o$20b2o5bo25bo$21bob5o
+23b2o$22bo22b2o4bo$45b3o3bo$30b2o11bo4bo$19b3o8bobo10bo3bo$19bo10bo16b
+o$17b2o23b2obobo$11b2o4bo22b2o5bo$11b3o3bo22b2o4b2o$9bo4bo27b4o$9bo3bo
+$13bo$8b2obobo$6b2o5bo$6b2o4b2o$8b4o12$20b2o$20b2o$19bo2bo$16b2obo2bo$
+22bo$14b2o3bo2bo$14b2o5bo$15bob5o$16bo3$13b3o$13bo$11b2o$5b2o4bo$5b3o
+3bo$3bo4bo$3bo3bo$7bo$2b2obobo$2o5bo$2o4b2o$2b4o!
