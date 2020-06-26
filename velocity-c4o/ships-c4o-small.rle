@@ -1,6 +1,7 @@
 #C All known c/4 orthogonal ships up to 70 bits.
 #C
 #C Discovery credits:
+#C AA = "AforAmpere"
 #C AP = Aidan F. Pierce
 #C BU = "Bullet51"
 #C DH = Dean Hickerson
@@ -183,7 +184,7 @@
 #C    MM 27 Sep 2017 (tag by SS 9 Oct 2000 based on a ship by HH 5 Feb 1993)
 #C    MM 27 Sep 2017 (tag by SS 9 Oct 2000 based on a ship by HH 5 Feb 1993)
 #C 66 HH 11 Aug 1992
-#C    AP 13 Apr 2020
+#C    AA 13 Apr 2020
 #C    TC Between Dec 2015 and 19 Mar 2016
 #C    TC Between Dec 2015 and 19 Mar 2016
 #C    MM 20 Jan 2017
