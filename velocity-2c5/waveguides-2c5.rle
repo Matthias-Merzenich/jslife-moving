@@ -5,7 +5,9 @@
 #C 3. Right-hand stabilization by Matthias Merzenich, 3 Jun 2018
 #C 4. Wave by Arie Paap, 8 Jun 2018
 #C    Stabilization by Arie Paap, 6 Jul 2018
-x = 158, y = 254, rule = B3/S23
+#C 5. Wave by Hartmut Holzwart, 23 Jul 2020
+#C    Stabilization by Matthias Merzenich, 23 Jul 2020
+x = 158, y = 317, rule = B3/S23
 49bo$41bo5b2ob2o$40b3o4b2o2bob2o$39bo5b2ob2o5b2o$39b3o3bob2o6b2ob2o$
 41b2o2bo7b2o5b2o$32bo13b3o11b2ob2o$31b3o4b5o5b2o8b2o5b2o$31bo3b2ob4o3b
 o4bo14b2ob2o$28b5o4bo7bo4bo12b2o5b2o$26b2ob4o2bo2b2o8b3o19b2ob2o$29bo
@@ -67,4 +69,20 @@ o11bo3bo46bo3bo11bobo$27b2ob2o9bo56bo9b2ob2o$28b2o11bo56bo11b2o$22b3o
 2b2o8b3o60b3o8b2o2b3o$22b3o11b2ob2o2bo52bo2b2ob2o11b3o$21bo2bo11b2o3b
 2o54b2o3b2o11bo2bo$24bo12bobo60bobo12bo$23bo13b3o60b3o13bo$22bobo12b2o
 bo4bo48bo4bob2o12bobo$36bo2bobo2bobo46bobo2bobo2bo$35bo2b3o2bo3bo44bo
-3bo2b3o2bo$36bo6b2obo46bob2o6bo$44b2o48b2o$44b2o48b2o$45bo48bo!
+3bo2b3o2bo$36bo6b2obo46bob2o6bo$44b2o48b2o$44b2o48b2o$45bo48bo34$39bo
+7bo7bo7bo7bo7bo7bo7bo$38b3o5b3o5b3o5b3o5b3o5b3o5b3o5b3o$31bo5bo2bo5bo
+2bo3bo2bo5bo2bo3bo2bo5bo2bo3bo2bo5bo2bo5bo$30b3o3bo2bo7bo2bobo2bo7bo2b
+obo2bo7bo2bobo2bo7bo2bo3b3o$30bo2bo2bobobo5bobobobobobo5bobobobobobo5b
+obobobobobo5bobobo2bo2bo$obobo26b2obobobob2o3b2obobobobob2o3b2obobobob
+ob2o3b2obobobobob2o3b2obobobob2o$27bo3b2obobobo9bobobobo9bobobobo9bobo
+bobo9bobobob2o3bo$o25bobo5bobobob2o3b2obobobobob2o3b2obobobobob2o3b2ob
+obobobob2o3b2obobobo5bobo$25b2ob2o3b2obobo3bobo3bobobobo3bobo3bobobobo
+3bobo3bobobobo3bobo3bobob2o3b2ob2o$obobo21bo7bobobob3ob3obobobobob3ob
+3obobobobob3ob3obobobobob3ob3obobobo7bo$26bo7bobobo2bo3bo2bobobobo2bo
+3bo2bobobobo2bo3bo2bobobobo2bo3bo2bobobo7bo$4bo21bo2bo2bobobob2o7b2obo
+bob2o7b2obobob2o7b2obobob2o7b2obobobo2bo2bo$27bo3b2obobobobo5bobobobob
+obo5bobobobobobo5bobobobobobo5bobobobob2o3bo$obobo29bobo13bobo13bobo
+13bobo13bobo$31b2obob2o12bobo13bobo13bobo12b2obob2o$32bobo14b2ob2o11b
+2ob2o11b2ob2o14bobo$33b2ob2o59b2ob2o$33bo3bo59bo3bo$32b3o65b3o$31bo71b
+o2$29b3o71b3o$30b2o71b2o$31bo4bo61bo4bo$31b2o2bobo59bobo2b2o$34bo3bo
+57bo3bo$34b2obo59bob2o$35b2o61b2o$35b2o61b2o$36bo61bo!
