@@ -5,7 +5,7 @@
 #C 5.1: David Bell, 25 Jun 2005
 #C 5.2: David Bell, 9 Jul 2005
 #C Rows 6,7 by David Bell, 4 Jun 2005
-#C 8: period-192 4-engine Cordership by wwei23, 9 Sep 2020
+#C 8: period-192 4-engine Cordership by "wwei23", 9 Sep 2020
 x = 303, y = 737, rule = B3/S23
 46bo$46bo5b3o$45bobo3b2o2bo$46bo3bo5bo$46bo3bo$51bo2b2o$52b2o11b2o$65b
 2o7$35b3o35b2o$35b3o21bo13b2o$36bo12b2o9b2o$2bo34b2o9bob3o8b2o$38bo9bo
