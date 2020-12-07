@@ -1,0 +1,29 @@
+#C An adjustable diagonal c/12 period 1248 (13*96) sideways rake.
+#C This uses a period 96 sideways rake and a two-engine Cordership.
+#C A loop is formed from forward gliders which are turned into boats
+#C by the Cordership, and then the boats turn sideways gliders from
+#C the period 96 sideways rake into forward gliders again.  A gap in
+#C the loop allows the occasional sideways glider to escape.  The
+#C period can have any multiple of 96 by adjusting the spacing between
+#C the period 96 rake and the Cordership.  Furthermore, the rake can
+#C be made intermittent as desired by introducing further gaps in the
+#C loop.  This is a smaller version of a rake from February 2004.
+#C David I. Bell, September 2020
+x = 139, y = 139
+30bo$14booboo6boboobboo$14boo8bob5o$14boobobo5bo4boo$17bobo11bobo$18b
+oo$31b3o6boo$40boo$$3bo$bb3o106bo$bobobo105bo$3ob3o12bo91bob3o$18bobo
+92b3o$bbob3o13boo92bo13b3o$bb5o9bo3bo93boo$bboobboo11bobboo91bo$4boboo
+14bo92boo13bo$6boo9bobboo22b4o81boo$bbobobbo11bo24boobo52bo11booboo11b
+3o6boo$bobobbo36bobobbo49booboo10b3o12bo8boo$bbo40b3oboo64bo12bo$43b3o
+boo52boo23bo3boo$47bo54bo27boo$96bo3bo15boo9bo$17boo81bo3bo11boo10bobb
+o$128b3o$17boo$98bo$18bobo78b3o$19bo$7boo10bo97bo$7boo90b3o13bobo$99b
+3o13bobo$99booboo12bo$103bo12boo$101b3o14bo$116boo$89bo25bobo$15boo56b
+ooboo6boboobboo23bobo$15boo56boo8bob5o27bo$73boobobo5bo4boo22bobo$76bo
+bo11bobo20bo$77boo33bobo$26boo62b3o6boo3boo6boo$26bobo6b3o61boo3boo5bo
+$27bo7bo76boo$36bo76bo3$100boo$74bo24bobbo$34boo30b3o3b4o23bobboo3boo
+3boo$34bobo29bobo3booboo22boboo4boo3boo$35bo30b3obbo24bobbobo$71boo3bo
+19boo$72b4o3boo14bo$73b3o3boo9boobboo$90boobbo$91boboo$42boo48boo$42bo
+bo6b3o$43bo7bo$52bo3$81bo$70boo9b3o$50boo17bobobo7b3o$50bobo16bo3boo5b
+o3bo$51bo18boo8b4o$70b3o7boboo$109bo$108bo$108b3o$$58boo$58bobo6b3o4b
+oo$59bo7bo6boo$68bo5$66boo$66bobo$67bo6$74boo$74bobo$75bo6$82boo$82bob
+o$83bo$$93bo$92bo$92b3o$$90boo$90bobo$91bo26$77bo$76bo$76b3o!

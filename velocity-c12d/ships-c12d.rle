@@ -5,8 +5,9 @@
 #C 5.1: David Bell, 25 Jun 2005
 #C 5.2: David Bell, 9 Jul 2005
 #C Rows 6,7 by David Bell, 4 Jun 2005
-#C 8: period-192 4-engine Cordership by "wwei23", 9 Sep 2020
-x = 303, y = 737, rule = B3/S23
+#C 8.1: period-192 4-engine Cordership by "wwei23", 9 Sep 2020
+#C 8.2: 108-cell 4-engine Cordership by "Ian07", 11 Sep 2020
+x = 303, y = 742, rule = B3/S23
 46bo$46bo5b3o$45bobo3b2o2bo$46bo3bo5bo$46bo3bo$51bo2b2o$52b2o11b2o$65b
 2o7$35b3o35b2o$35b3o21bo13b2o$36bo12b2o9b2o$2bo34b2o9bob3o8b2o$38bo9bo
 3bo10bo$2bo34bo11b2obo5b5o$50bo10bo$2bo2$2bo32b2o$35b2o$2bo33bo$36bo$
@@ -120,16 +121,20 @@ b2o4b3o55bobo$61bob3obo7b2o55bo55bobo40b2o5bo$62bo3b4o4b2o111bo41bob2o
 119b2o12bobo41bo$23bobo17bo3bo133bo3bo38bo$23bo2bo18bo135b2o2bo$41bo2b
 o137b3o$40bo27b2o113bo$22bo2bo42b2o$22b2ob3o$24b2o2bo11b3o$25bo2bo11bo
 bo$25bobo14b2o$40bo2bo127b2o$41b2o128b2o$41bo$37bo$38b2o$36bobo$28b2o
-6bo$28b2o4b2o$35bobo141b2o$36b2o141b2o5$36b2o$36b2o41$72bo$56b2ob2o6bo
-b2o2b2o$56b2o8bob5o$56b2obobo5bo4b2o$59bobo11bobo$60b2o$73b3o6b2o$82b
-2o3$61bo$47bobo6bo2b4o$46bo9bob4o21b2o$47bo2bo6b3o3b2o17bo2bo$49b3o9bo
-2b2o16bo2b2o3b2o$62bob2o16bob2o4b2o$63bo15bo2bobo$62b2o15b2o$62b2o14bo
-$62b2o9b2o2b2o$73b2o2bo$74bob2o$73b4o$72b3o$34bo35bo4bo$obobo28bobo36b
-ob2o$54bo5bo8b3o$o3bo28bo2bo16bobo5b2o$35b2o16bob2o4bo3bobo$obobo31bo
-17bo5b2obo3bo$57b2o5bo2bo$o3bo44b2o14b2o$48bo2bo$obobo44b2o$23b3o7b2o
-15bo$23b3o9bo16bo$34b2o16bo$23bob2o6b3o$23bo3bo5b2o13bo2bo13b2o$25b3o
-4b3obo12b3o12bo2bo$33bo3bob3o7bo15b2o$35bo2b4o9bo$35b3o14bo8bo$36b2o
-12bo2bo6bobo$24bo28bo6bobo$23bobo24b3o8bo$24bo$23b2o23bo$23b2o21bobo$
-24bo23bo$22bob2o19bobo$23bob2obo12b2ob2o$23bo4bo12b5obo$26bobo15bob2o$
-43b2o$41b3o$40b2o$38b2o$39bo2$28b2o5b4o$28b2o4bo$34bo2b2o$35b3o$36bo4$
-36b2o$36b2o!
+6bo$28b2o4b2o$35bobo141b2o$36b2o141b2o5$36b2o$36b2o39$183bo$182bobo$
+72bo109bobo$56b2ob2o6bob2o2b2o107bo2bo$56b2o8bob5o110bobo$56b2obobo5bo
+4b2o112bo$59bobo11bobo109b2o$60b2o123bo13b2o$73b3o6b2o115b2o$82b2o2$
+183bo$61bo120bobo$47bobo6bo2b4o121bo$46bo9bob4o21b2o99bo$47bo2bo6b3o3b
+2o17bo2bo98bo22b2o$49b3o9bo2b2o16bo2b2o3b2o115b2o$62bob2o16bob2o4b2o
+93bo$63bo15bo2bobo84bo11b2ob3o$62b2o15b2o87b3o12b3ob2o$62b2o14bo107bo$
+62b2o9b2o2b2o89b3o$73b2o2bo91b2ob2o$74bob2o93bo$73b4o$72b3o116bo$34bo
+35bo4bo115bo$obobo28bobo36bob2o115bo$54bo5bo8b3o$o3bo28bo2bo16bobo5b2o
+$35b2o16bob2o4bo3bobo$obobo31bo17bo5b2obo3bo$57b2o5bo2bo$o3bo44b2o14b
+2o$48bo2bo$obobo44b2o$23b3o7b2o15bo100bobo$23b3o9bo16bo97b2ob2o$34b2o
+16bo98bob2o$23bob2o6b3o119bo$23bo3bo5b2o13bo2bo13b2o87bo$25b3o4b3obo
+12b3o12bo2bo86bo$33bo3bob3o7bo15b2o$35bo2b4o9bo$35b3o14bo8bo$36b2o12bo
+2bo6bobo$24bo28bo6bobo$23bobo24b3o8bo$24bo$23b2o23bo101bo$23b2o21bobo
+84b3o8bo5bo$24bo23bo83bo3bo6bo7bo$22bob2o19bobo85b2o9b4o2b2o$23bob2obo
+12b2ob2o89b2ob2o9b3o$23bo4bo12b5obo89b2o11bobo$26bobo15bob2o103bo$43b
+2o106bo$41b3o$40b2o$38b2o117b3o$39bo2$28b2o5b4o$28b2o4bo$34bo2b2o$35b
+3o$36bo$139b2o$139b2o2$36b2o$36b2o4$147b2o$147b2o!

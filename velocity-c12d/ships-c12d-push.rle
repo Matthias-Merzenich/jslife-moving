@@ -1,0 +1,24 @@
+#C Four reactions in which a leading switch engine is
+#C supported by a trailing switch engine on the same lane.
+#C "wwei23" and "Ian07", 24 Sep 2020
+x = 287, y = 58, rule = B3/S23
+b3o79bo105bo50b2o2bo$bobo79bo79bo25bo7bo45bobo$bobo78bobo75b4o25bo5b3o
+44bo$bo4b2o75b2o2bo100b2o3bobo$3o3b2o74bo5bo105bo2bo46b2o$6bo75bo5bo
+104bo2b2o$2b4o76bo4bo75bobo42b2o35b2o$3b2o81bo77bo43b2o34bo$3bo79b3o
+76b2o78b2ob2o$162bo2bo79b2o$4bo156b2ob2o77bo$2bobo76b2ob2o180bo$b4o81b
+o165bobo6bo2b4o$b3o77b2o101bo66bo9bob4o$3bo79b3o84bobo6bo2b4o30b2o34bo
+2bo6b3o3b2o$26bo142bo9bob4o31b2o36b3o9bo2b2o$12bobo6bo2b4o142bo2bo6b3o
+3b2o79bob2o$11bo9bob4o81bo63b3o9bo2b2o79bo8b2o$12bo2bo6b3o3b2o64bobo6b
+o2b4o75bob2o88b2o$14b3o9bo2b2o62bo9bob4o77bo25b2o$27bob2o63bo2bo6b3o3b
+2o100b2o$28bo8b2o57b3o9bo2b2o99b2o$37b2o70bob2o$110bo8b2o87b2o2bo$119b
+2o88b3o33bo31b3o$205b2o3bo34bo7bo21bo4bo4b2o$205b2o38bo5b3o23bob2o4b2o
+$202b3obo37b2o3bobo22b3o$5bo31b3o41b3o115b2ob2o46bo2bo13bo$5bo7bo21bo
+4bo4b2o34bobo110b2o3b3o47bo2b2o3b2o9bobobo$5bo5b3o23bob2o4b2o34b3o109b
+2o62b2o5b5o3bo$4b2o3bobo22b3o60b2o76b2o16bob3o67b2o2bo2bo$10bo2bo13bo
+68bo2b2o74b2o11b3o4bo74b2o$9bo2b2o3b2o9bobobo50b2o11b2ob2o88b2ob2obo3b
+o$17b2o5b5o3bo48b2ob2o14bo90bo$25b2o2bo2bo48b2o2b2o10b2o27b2o68bo2bo$
+30b2o48b2o3b2o11bo22b2o2bo70bo$81b2o2b2o37b2o71b2o$82bobo37bobobobo$
+127bo55b2o$183b2o68b2o3b2o$247bo3b4o3bobo$98b3o146bob2o2bo2bo3bo$95b3o
+bo147bob2o4bo3b2o$13b2o3b2o76b2ob2o150bo3bo$7bo3b4o3bobo75b2ob2o155bo$
+7bob2o2bo2bo3bo77bo$7bob2o4bo3b2o$11bo3bo70b2o$16bo69b2o$252b2o$252b2o
+3$12b2o$12b2o$94b2o$94b2o!

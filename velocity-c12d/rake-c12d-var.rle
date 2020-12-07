@@ -1,35 +1,36 @@
-#C Variable period rake, shown at p5952.
-#C David Bell, 26 Jun 2005.
-x = 417, y = 448, rule = B3/S23
-35bo$$31bo7bo$31bo8bobb3o$30bo4boo3bobb3o$31bobo6bobboobbo$31boboo10bo
-bo$45b3o$36bo18boo$55boo6$56bo$54boobo5boo$52booboboo4boo$54bo$43boo4b
-oobo$35boo8boobo$35boo5b3obob4o$47bo$$40b3o$41boo$23boo7boo3bob3o$23b
-3o6b3obbob3o$23boobobo$26boo$5bo$$bo7bo$bo8bobb3o$o4boo3bobb3o$bobo6bo
-bboobbo$boboo10bobo$15b3o$6bo6$21b3o$20boobboo$20boobboo$21boboo$21boo
-$13boo6boo$5boo8b3o8bobo$5boo5b3oboo8boo$27bo6$13boo$13boo213$379bo$
-379bo$378bobo$379boobbo11boo$378bo5bo9bobbo$378bo5bo10boo$378bo4bo12bo
-$382bo13bo$379b3o13boobo$394boo$398bo$377booboo12bob3o4boo$382bo12bobb
-o4boo$377boo16b3o$379b3o3$395bo$394boo$393boobo$392boo$391boo21bo$392b
-oo21boo$383boo16bo$371b3o9b3o4bo$371bobo8bo4bo10bo$371bobo9boobboo4boo
-4bobo$371bo4boo5boobo7boo$370b3o3boo15bo$376bo$372b4o$373boo$373bo$$
-374bo$372bobo$371b4o$371b3o$373bo$$364boo$367boo4bo$364boob4o3bo$361b
-5o4b4o9boo$364b3o6bo9boo$365bo$364b3o$371bo$371bo3$391boo$391boo5$382b
-o$351bo28boobo$350boboo16boo9boboo$354bo15boo11bo$348bo3bobbo11bo$346b
-o9bo9bobo$346bo4boobboo8booboo$355boo7boobbo$328bo19bo5bo10b3o$327bobo
-19bo4b3o9bo$327bobboo18bo4boo$325b7o14bo5b4o$324bobbo3bo14bo$323b3obb
-7o11bo$325b3obbo8bo$326booboo8bo$327b3obobbo$328b3oboo13boo$331bo13boo
-bo$344bo3bo$344bobboo$345b3o$346bo4$371bo$370bo$370b3o$334boo$334boo7$
-342boo$342boo$306b3o$305bo3bo$305bo3bo$305bo3bo12b3o$322b3o$306booboo
-9boo4bo$307bobbo9b3obobo$308bobo10boo3bo$309boo10b5o$306bo3bo12bo7boo$
-305bobobobo19boo$306bo3$321boobbo$$321bo3bo$321bo$322bobo13bo$339boo
-14bo$322b3obbobo3b3obbobo13bo$311boo13bo3bo4boboobo13b3o$300bo10boobb
-oo8boo10b3o$299b3o12bobbo6bo27boo$298bobobo12boobboo5bobo3bo19bobo$
-297b3ob3o14boob3obbo3boo21bo$318boobb3obbo$299bob3o14bo6b3o$299b5o22bo
-$299boobboo11boobo$301boboo12bobo24b3o$284bo18boo13bo27bo$299bobobbo
-40bo$280bo7bo9bobobbo$280bo8bobb3o4bo$279bo4boo3bobb3o$267bo12bobo6bo
-bboobbo$266bobo11boboo10bobo$266bobo25b3o$266bobbo15bo$267bobo$270bo$
-269boo$269bo$243b3o$243b3o$312b3o$243boboo67bo$243bo3bo65bo$245b3o$
-260boo18boo$260boo4bo13boo$265b3o$264bobobo$244bo19bo3bo$243bobo17boob
-oo$244bo19b3o$243boo$243boo43boo$244bo43boo$242boboo$243boboobo12boo$
-243bo4bo12b3o$246bobo15bo$263boo$261b3o$260boo$258boo$259bo$$248boo5b
-4o$248boo4bo$254bobboo$255b3o$256bo4$256boo$256boo!
+#C A diagonal c/12 period 1920 (20*96) sideways rake which is one of
+#C an infinite series of rakes using a bounded population.  Other
+#C rakes in the series can be simply built by advancing or delaying
+#C the topmost Cordership by multiples of 64 generations, which
+#C increases or decreases the period by 96.  Alternatively, you can
+#C simply shift the topmost ship diagonally by multiples of 16 cells
+#C to adjust the period by multiples of 288.  This is a smaller
+#C version of the original rake from June 2005.
+#C David I. Bell, September 2020
+x = 177, y = 201
+17b3o$26bo$19boo5b3o$19b4o4bo$19boob3oboo$24bobo$38boo$38boo4$5bo$$bo
+7bo$bo8bobb3o30boo$o4boo3bobb3o30boo$bobo6bobboobbo$boboo10bobo$15b3o$
+6bo$42b3o$42bo$39boboo$39b3o$33boo5bo$30bo4bo$35bo$29bobb3obo$30bo3b4o
+$25bo4boo3b3o$12bo11boo$5boo6boo10boo$5boo11b3obboo3bo$22b4obbo$18bobb
+oo5bo$27bo$25b3o$27bo$$13boo$13boo10$149bo$149bo$149bob3o$151b3o$152bo
+13b3o$152boo$153bo$153boo13bo$167boo$138bo11booboo11b3o6boo$136booboo
+10b3o12bo8boo$151bo12bo$139boo23bo3boo$140bo27boo$134bo3bo15boo9bo$
+138bo3bo11boo10bobbo$166b3o$$136bo$137b3o$$155bo$137b3o13bobo$137b3o
+13bobo$137booboo12bo$141bo12boo$139b3o14bo$154boo$127bo25bobo$111boob
+oo6boboobboo23bobo$111boo8bob5o27bo$111boobobo5bo4boo22bobo$114bobo11b
+obo20bo$115boo33bobo$128b3o6boo3boo6boo$137boo3boo5bo$150boo$151bo3$
+138boo$112bo24bobbo$104b3o3b4o23bobboo3boo3boo$104bobo3booboo22boboo4b
+oo3boo$104b3obbo24bobbobo$109boo3bo19boo$110b4o3boo14bo$111b3o3boo9boo
+bboo$128boobbo$129boboo$130boo6$119bo$108boo9b3o$107bobobo7b3o$107bo3b
+oo5bo3bo$108boo8b4o$108b3o7boboo$147bo$146bo$146b3o3$112boo$112boo4$
+80boobo$79b3obo6bobo$78bo4bobo4bo$79boo6bobo3bo$80bo3bobbobboo$83boboo
+3bo$82bobo16boo$82bobo16boo3$62bobo$61bo$62bobbo$64bobo$67bo11b3o27boo
+$66b3o40boo$66bo41boo$64boo40bobo$66bo13b3o$64bobbo12b3o21bo4bo$64bobo
+13boo21boob4o$64bo14bo24bo$77boobbo19b3o5boo20bo$78bo3bo18boo27bo$78bo
+bbo19boo27b3o$79b3o$128boo$51b3o74bobo$50bo3bo74bo$49bo4bo$48bo3bo$48b
+obbob3o12boo$48bo7bo11boo$50bo3bobo63b3o$50bo3boboo64bo$52b3oboo63bo$
+68boo$68boo$$76boo$52boo22boo$52boo$53bo$$53bo22boo$76boo$39bo$39bo11b
+o5b3o$39bo11bo7bo$42boo7bo5bobo28b3o$42boo13boo31bo$37bo3b3o45bo$38b3o
+$39bo$38boo$38b3o$40bo$38bo$40bo$38b3o5$63boo4$57bobo$43boo12bo5boo$
+43boo11bo4boo$55boo4bo$56bo3bo$$56bobbo$57bobo$56bobbo$51boo4boo$51boo
+4bo!
