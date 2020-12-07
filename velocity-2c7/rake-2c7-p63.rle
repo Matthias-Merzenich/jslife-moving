@@ -1,0 +1,9 @@
+#C A period-63 rake by "strix421", 6 Dec 2020
+#C using two copies of "Doo-Dah"
+x = 37, y = 59, rule = B3/S23
+2bo12bo$2bo12bo$bobo10bobo$2bo12bo$2bo12bo$3bo3b4o3bo$7b4o$3b4o4b4o$
+20b3o10b3o$5bo6bo$6b2o2b2o8bobo10bobo$21bo12bo2$5b2o4b2o9b2ob6ob2o2$4b
+2o6b2o9bo2bo2bo2bo$5bobo2bobo$24b8o$8b2o17b2o$4b2obo2bob2o10b2o4b2o$7b
+o2bo$2o6b2o6b2o$bo14bo$bo4bo4bo4bo6b2o6b2o$2bobo8bobo6bobo6bobo$3bo10b
+o7bo2bo4bo2bo$16bo6b2o6b2o$16bo7bo6bo$16bo2$19b3o12b3o2$15b2o4bo12bo$
+14bo2bo3b2o10b2o$15b2o4b2o10b2o22$21bo$22bo$20b3o!
