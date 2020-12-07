@@ -1,5 +1,5 @@
 #C A period-250 c/10 orthogonal forward rake
-#C By Christoph R., 5 Jan 2020
+#C By Christoph Reinthaler, 5 Jan 2020
 x = 506, y = 460, rule = B3/S23
 311b2o$310bo2bo$310bo2bo$309bo4bo10b2o$309bo4bo9bo2bo$310b4o9b2o2b2o$
 300b2o7b2o2b2o8b2o2b2o$298b2o2b2o5bo4bo8bob2obo$300b2o7bo4bo10b2o$297b

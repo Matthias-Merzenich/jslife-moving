@@ -1,6 +1,6 @@
 #C Period-200 c/10 orthogonal forward rakes
 #C Left: by Luka Okanishi,  6 Feb 2020
-#C Right: by Christoph R., 28 Apr 2020
+#C Right: by Christoph Reinthaler, 28 Apr 2020
 x = 541, y = 275, rule = B3/S23
 26b2o2b2o$28b2o$28b2o$25bobo2bobo$25bo6bo$16b4o$16bo2bo5bo6bo$15b6o5b
 2o2b2o$27b4o2$14bo2b2o2bo6b2o39bo$14bob4obo5bo2bo38b2o$14bobo2bobo46bo

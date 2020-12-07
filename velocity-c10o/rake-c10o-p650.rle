@@ -1,5 +1,5 @@
 #C A period-650 c/10 orthogonal forward rake
-#C By Christoph R., 9 Oct 2019
+#C By Christoph Reinthaler, 9 Oct 2019
 x = 180, y = 153, rule = B3/S23
 117b2o$117b2o$116bo2bo$91b2o10b2o11b4o$90bo2bo8bo2bo9bob2obo$90bo2bo8b
 o2bo10bo2bo7bo2bo$18b4o67bo4bo6bo4bo20bo2bo$89bo4bo6bo4bo8b2o2b2o5bo4b

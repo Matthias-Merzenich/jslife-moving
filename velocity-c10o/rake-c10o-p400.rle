@@ -1,6 +1,6 @@
 #C A period-400 c/10 orthogonal rake constructed
 #C by doubling the period of a p200 rake
-#C By Christoph R., 26 May 2020
+#C By Christoph Reinthaler, 26 May 2020
 x = 158, y = 168, rule = B3/S23
 25b2o$25b2o$24bo2bo$24b4o$23bob2obo$12b2o2b2o6bo2bo$12b2o2b2o$11b3o2b
 3o4b2o2b2o$11b3o2b3o3bo6bo2$11bo6bo4bo4bo$11bo2b2o2bo5bo2bo$2o10b6o7b

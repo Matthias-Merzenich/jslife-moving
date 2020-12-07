@@ -1,6 +1,6 @@
 #C A period-240 c/10 orthogonal rake with
 #C both forward and backward output streams.
-#C By Christoph R., 21 Feb 2020
+#C By Christoph Reinthaler, 21 Feb 2020
 x = 536, y = 399, rule = B3/S23
 395b4o$452b2o$395bo2bo52bobo$394bob2obo53bo$385b2o7bo4bo$384b4o$394bo
 4bo$383b6o5b2o2b2o$384b4o6b6o$395bo2bo$383b2o2b2o7b2o$381b2obo2bob2o5b

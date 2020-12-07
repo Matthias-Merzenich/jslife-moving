@@ -1,6 +1,6 @@
 #C A period-4320 c/10 orthogonal puffer constructed
 #C using only eight fireships
-#C By Christoph R., 7 Jun 2020
+#C By Christoph Reinthaler, 7 Jun 2020
 x = 358, y = 49, rule = B3/S23
 53b2o2b2o240b2o2b2o$53b2o2b2o240b2o2b2o$52b3o2b3o238b3o2b3o$52b3o2b3o
 238b3o2b3o2$52bo6bo238bo6bo$52bo2b2o2bo238bo2b2o2bo$53b6o240b6o3$55b2o
