@@ -1,26 +1,41 @@
 #C c/2 wickstretcher
-#C Left part by Jason Summers, 16 Sep 2000
-#C Right part by Dean Hickerson, 28 Oct 2002
-#C Bottom: a smaller version by Hartmut Holzwart, May 2005
-x = 69, y = 114, rule = B3/S23
-14bo$4o9bobo$o3bo7bobboo$o8boob3obo$bobbo3bo8boo$7boo3bo$5b7o6bo$5bobb
-o$6b3o$5ob4o5boo$o4boobbo4boob4o$o5bo8b6o$bo4bo9b4o$3boobo4boo$5b3obbo
-$7bobbo7boo22bo$9boo6b3o20b3o8bobo7boo$4o5bo6b3o20bo7booboboobbo3bobbo
-bboo$o3bo6boo4boo17boobb5obboboo5b3obboobobbo$o12b5obbobo13boboo5bobo
-4b4o3boo3bobo$bobbo10boobbo20bobobobob4o4b3obb4oboo$20boboo16bo3bobo6b
-oo4bo4bobo$21bobobboo4boboobobboboo3bobob4o4bob4obo$23boo3bo4bob3ob4ob
-oboobobbobo4bo5bo$26b3obooboobo9bo3bo6b8o$$26b3obooboobo9bo3bo6b8o$23b
-oo3bo4bob3ob4oboboobobbobo4bo5bo$21bobobboo4boboobobboboo3bobob4o4bob
-4obo$20boboo16bo3bobo6boo4bo4bobo$bobbo10boobbo20bobobobob4o4b3obb4ob
-oo$o12b5obbobo13boboo5bobo4b4o3boo3bobo$o3bo6boo4boo17boobb5obboboo5b
-3obboobobbo$4o5bo6b3o20bo7booboboobbo3bobbobboo$9boo6b3o20b3o8bobo7boo
-$7bobbo7boo22bo$5b3obbo$3boobo4boo$bo4bo9b4o$o5bo8b6o$o4boobbo4boob4o$
-5ob4o5boo$6b3o$5bobbo$5b7o6bo$7boo3bo$bobbo3bo8boo$o8boob3obo$o3bo7bo
-bboo$4o9bobo$14bo25$10boo$9b4o$8booboo$9boo$14bo$14bo$$7boo$6boob8o$7b
-10o$8b3o3boo$12bo$10bobbo50bo$8boo3bo50booboo$7b3obbo44boboboo3b3o$6b
-ooboobo42booboboo4boo$7bo4boo4bo5bo5bo5bo5bo5bo5bo5bo$8b3o3bo4boo4boo
-4boo4boo4boo4boo5bobb3o$10bobboobooboobooboobooboobooboobooboobooboob
-3o$$10bobboobooboobooboobooboobooboobooboobooboob3o$8b3o3bo4boo4boo4b
-oo4boo4boo4boo5bobb3o$7bo4boo4bo5bo5bo5bo5bo5bo5bo5bo$6booboobo42boobo
-boo4boo$7b3obbo44boboboo3b3o$8boo3bo50booboo$10bobbo50bo$12bo$8b3o3boo
-$7b10o$6boob8o$7boo$$14bo$14bo$9boo$8booboo$9b4o$10boo!
+#C 1. c/2 stretcher by Jason Summers, 16 Sep 2000
+#C    stationary fencepost by Dean Hickerson, 28 Oct 2002
+#C 2. by Hartmut Holzwart, May 2005
+#C 3. c/5 eater by Matthias Merzenich, 3 Dec 2020
+x = 93, y = 175, rule = B3/S23
+33bo$19b4o9bobo$19bo3bo7bo2b2o$19bo8b2ob3obo$20bo2bo3bo8b2o$26b2o3bo$
+24b7o6bo$24bo2bo$25b3o$19b5ob4o5b2o$19bo4b2o2bo4b2ob4o$19bo5bo8b6o$20b
+o4bo9b4o$22b2obo4b2o$24b3o2bo$26bo2bo7b2o22bo$28b2o6b3o20b3o8bobo7b2o$
+19b4o5bo6b3o20bo7b2obob2o2bo3bo2bo2b2o$19bo3bo6b2o4b2o17b2o2b5o2bob2o
+5b3o2b2obo2bo$19bo12b5o2bobo13bob2o5bobo4b4o3b2o3bobo$20bo2bo10b2o2bo
+20bobobobob4o4b3o2b4ob2o$2bo36bob2o16bo3bobo6b2o4bo4bobo$40bobo2b2o4bo
+b2obo2bob2o3bobob4o4bob4obo$2bo39b2o3bo4bob3ob4obob2obo2bobo4bo5bo$45b
+3ob2ob2obo9bo3bo6b8o$2bo$45b3ob2ob2obo9bo3bo6b8o$2bo39b2o3bo4bob3ob4ob
+ob2obo2bobo4bo5bo$40bobo2b2o4bob2obo2bob2o3bobob4o4bob4obo$2bo36bob2o
+16bo3bobo6b2o4bo4bobo$20bo2bo10b2o2bo20bobobobob4o4b3o2b4ob2o$19bo12b
+5o2bobo13bob2o5bobo4b4o3b2o3bobo$19bo3bo6b2o4b2o17b2o2b5o2bob2o5b3o2b
+2obo2bo$19b4o5bo6b3o20bo7b2obob2o2bo3bo2bo2b2o$28b2o6b3o20b3o8bobo7b2o
+$26bo2bo7b2o22bo$24b3o2bo$22b2obo4b2o$20bo4bo9b4o$19bo5bo8b6o$19bo4b2o
+2bo4b2ob4o$19b5ob4o5b2o$25b3o$24bo2bo$24b7o6bo$26b2o3bo$20bo2bo3bo8b2o
+$19bo8b2ob3obo$19bo3bo7bo2b2o$19b4o9bobo$33bo25$29b2o$28b4o$27b2ob2o$
+28b2o$33bo$33bo2$26b2o$25b2ob8o$26b10o$27b3o3b2o$31bo$29bo2bo50bo$27b
+2o3bo50b2ob2o$26b3o2bo44bobob2o3b3o$obobo20b2ob2obo42b2obob2o4b2o$26bo
+4b2o4bo5bo5bo5bo5bo5bo5bo5bo$4bo22b3o3bo4b2o4b2o4b2o4b2o4b2o4b2o5bo2b
+3o$29bo2b2ob2ob2ob2ob2ob2ob2ob2ob2ob2ob2ob2ob2ob3o$obobo$29bo2b2ob2ob
+2ob2ob2ob2ob2ob2ob2ob2ob2ob2ob2ob3o$o26b3o3bo4b2o4b2o4b2o4b2o4b2o4b2o
+5bo2b3o$26bo4b2o4bo5bo5bo5bo5bo5bo5bo5bo$obobo20b2ob2obo42b2obob2o4b2o
+$26b3o2bo44bobob2o3b3o$27b2o3bo50b2ob2o$29bo2bo50bo$31bo$27b3o3b2o$26b
+10o$25b2ob8o$26b2o2$33bo$33bo$28b2o$27b2ob2o$28b4o$29b2o23$29b2o$28b4o
+$27b2ob2o$28b2o$33bo$33bo2$26b2o$25b2ob8o$26b10o4bo19bo$27b3o3b2o4bo2b
+o12bo3bobo$31bo7bob2o11b2ob2obo$29bo2bo6bo13bo4bo29bobo$27b2o3bo5b2obo
+10bo5b2o7b3o21bo$26b3o2bo9b2o9b2o8b2o21bob2o$obobo20b2ob2obo11b3o2b2o
+2bo4bo3b2o5b2o13b2o2b2o3bo$26bo4b2o4bob3o4bob4obob3o4bo7bo2bo7b2o4bo3b
+o$4bo22b3o3bo4bobob2o7b3ob2o6bob3ob4o3bo3b2o4b4o$29bo2b2ob2ob2o5b3o2b
+2obo3b4obo3b2obo2bob3o2bo3b2o$obobo43bo14bo7bo6b3o$29bo2b2ob2ob2o5b3o
+2b2obo3b4obo3b2obo2bob3o2bo3b2o$4bo22b3o3bo4bobob2o7b3ob2o6bob3ob4o3bo
+3b2o4b4o$26bo4b2o4bob3o4bob4obob3o4bo7bo2bo7b2o4bo3bo$obobo20b2ob2obo
+11b3o2b2o2bo4bo3b2o5b2o13b2o2b2o3bo$26b3o2bo9b2o9b2o8b2o21bob2o$27b2o
+3bo5b2obo10bo5b2o7b3o21bo$29bo2bo6bo13bo4bo29bobo$31bo7bob2o11b2ob2obo
+$27b3o3b2o4bo2bo12bo3bobo$26b10o4bo19bo$25b2ob8o$26b2o2$33bo$33bo$28b
+2o$27b2ob2o$28b4o$29b2o!
