@@ -1,0 +1,42 @@
+#C A period-270 c/10 orthogonal forward rake
+#C By Christoph Reinthaler, 8 Aug 2020
+x = 395, y = 297, rule = B3/S23
+341b2o$327b2o11bo2bo$327b2o11bo2bo$326bo2bo9bo4bo$326b4o9bo4bo$325bob
+2obo9b4o29b2o2b2o$326bo2bo9b2o2b2o28b2o2b2o$339bo4bo27b3o2b3o7bo2bo$
+325b2o2b2o8bo4bo14b4o9b3o2b3o7bo2bo$324bo6bo27bo2bo23bo4bo$358b6o8bo6b
+o6bo4bo$325bo4bo9b4o28bo2b2o2bo6bo4bo$326bo2bo11b2o30b6o7bo4bo$327b2o
+28bo2b2o2bo20b3o2b3o$338b2o4b2o11bob4obo20bob4obo$324b2o4b2o5bo2bo2bo
+2bo10bobo2bobo10b2o9bo4bo$323bo2bo2bo2bo5b3o2b3o28bo2bo$324b2o4b2o6b2o
+4b2o28b4o$325bo4bo29b2o11b2o2b2o9b2o$360b2o8bo2bo4bo2bo6b2o$373bo4bo9b
+2o$336b2o19b2o4b2o9b4o8bo4bo$336bobo18b3o2b3o5bo10bo2b3o4b3o$336bo19bo
+2bo2bo2bo5bo8bo2b3o6b3o$356b2ob4ob2o17b2o8b2o$357b8o10b2o7b10o$385b8o$
+387b4o10$359b2o$358bobo$360bo23$248bo2bo$248bo2bo$247bo4bo$247bo4bo9b
+2o$234b2o11bo4bo8b4o$232b2o2b2o9bo4bo$234b2o10b3o2b3o6b6o$231bo6bo7bob
+4obo7b4o$232bo4bo9bo4bo$234b2o24b2o2b2o$231b3o2b3o19b2obo2bob2o$231b2o
+4b2o10b2o10bo2bo$249b2o$249b2o$206bo27b2o11bo4bo9b2o$205b2o26bo2bo8b3o
+4b3o7b2o$205bobo36b3o6b3o35b3o$232bo4bo6b2o8b2o3bobo2bobo26bo$231b2o4b
+2o6b10o3bo2bo2bo2bo24bo$172b2o56bo2bo2bo2bo6b8o4bo8bo$171bo2bo55b2ob4o
+b2o8b4o6bo8bo$170b2o2b2o56bo4bo20b2o6b2o$170b2o2b2o84b6o$170bob2obo$
+155b2o15b2o$153b2o2b2o11bo4bo$155b2o12b2o4b2o$152bo6bo29b2o$153bo4bo
+29bo2bo$155b2o15b2o13b2o2b2o$152b3o2b3o11bo2bo12b2o2b2o45bo$152b2o4b2o
+11bo2bo12bob2obo45b2o$189b2o46bobo$169b2o4b2o10bo4bo$155b2o11bo2bo2bo
+2bo8b2o4b2o$154bo2bo10bo2bo2bo2bo$169bobo2bobo$153bo4bo30b2o$152b2o4b
+2o28bo2bo$151bo2bo2bo2bo27bo2bo$151b2ob4ob2o$153bo4bo27b2o4b2o$185bo2b
+o2bo2bo$185bo2bo2bo2bo$186bobo2bobo5$269bo$267b2o$161b3o104b2o$160b3o$
+179b2o$180bo2$224b2o$223bobo$171b2o52bo$171b2o$180bo$176bo3bo$177bo2bo
+$177b2ob2o$132b2o44bobo$131bobo45bo$133bo$151b4o$151bo2bo$150b6o3$149b
+o2b2o2bo$149bob4obo$149bobo2bobo3$152b2o$152b2o7b3o$160b3o$149b2o4b2o
+22b2o$149b3o2b3o22b2o$148bo2bo2bo2bo$148b2ob4ob2o$149b8o$171b2o$171b2o
+7$16b2o2b2o149b2o$16b2o2b2o149b2o$4bo2bo7b3o2b3o$4bo2bo7b3o2b3o9b4o$3b
+o4bo23bo2bo$3bo4bo6bo6bo8b6o$3bo4bo6bo2b2o2bo$3bo4bo7b6o$2b3o2b3o20bo
+2b2o2bo129bo$2bob4obo20bob4obo128bobo$3bo4bo9b2o10bobo2bobo128b2o$17bo
+2bo$17b4o43b3o$5b2o9b2o2b2o11b2o31bo$5b2o6bo2bo4bo2bo8b2o30bo$5b2o9bo
+4bo$3bo4bo8b4o9b2o4b2o$b3o4b3o2bo10bo5b3o2b3o$3o6b3o2bo8bo5bo2bo2bo2bo
+$2o8b2o17b2ob4ob2o132b2o$b10o7b2o10b8o133b2o$2b8o$4b4o3$178b4o$178bo2b
+o$171b2o4b6o$26b3o142b2o$26bo$27bo148bo2b2o2bo$176bob4obo$176bobo2bobo
+3$167bo11b2o$166bobo10b2o$166b2o$176b2o4b2o$176b3o2b3o$175bo2bo2bo2bo$
+175b2ob4ob2o$176b8o9$200bobo$200b2o$201bo9$167bo$166bobo$166b2o4$94b2o
+$94bobo$94bo19$167bo$166bobo$166b2o18$161b3o$161bo$162bo13$178b2o$178b
+2o$177bo2bo$177b4o$176bob2obo$177bo2bo$170b2o$170b2o4b2o2b2o$175bo6bo
+2$176bo4bo$177bo2bo$178b2o2$175b2o4b2o$174bo2bo2bo2bo$175b2o4b2o$176bo
+4bo!

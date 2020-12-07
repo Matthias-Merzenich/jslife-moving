@@ -1,0 +1,30 @@
+#C A period-380 c/10 orthogonal forward rake
+#C By Christoph Reinthaler, 4 Dec 2020
+x = 147, y = 144, rule = B3/S23
+98b2o$97bo2bo$97bo2bo$96bo4bo$96bo4bo$97b4o9b2o2b2o$96b2o2b2o8b2o2b2o$
+96bo4bo7b3o2b3o$96bo4bo7b3o2b3o2$109bo6bo$97b4o8bo2b2o2bo$98b2o10b6o2$
+95b2o4b2o$35b4o55bo2bo2bo2bo8b2o$35bo2bo56b3o2b3o8bo2bo$34b6o55b2o4b2o
+8b4o$23b2o85b2o2b2o28b2o$23b2o25b2o55bo2bo4bo2bo26b2o$22bo2bo7bo2b2o2b
+o9b2o58bo4bo28bo$22b4o7bob4obo8bo2bo58b4o$21bob2obo6bobo2bobo8b4o54bo
+10bo$22bo2bo22bob2obo54bo8bo$49bo2bo$21b2o2b2o9b2o74b2o$20bo6bo8b2o10b
+2o2b2o$47bo6bo$21bo4bo6b2o4b2o$22bo2bo7b3o2b3o7bo4bo$23b2o7bo2bo2bo2bo
+7bo2bo$32b2ob4ob2o8b2o$20b2o4b2o5b8o$19bo2bo2bo2bo18b2o4b2o$20b2o4b2o
+18bo2bo2bo2bo24b3o$21bo4bo20b2o4b2o27bo$48bo4bo27bo7$44b3o$44bo$45bo4$
+101bo$100bobo$100bo2bo$101b2o4$2b2o$bo2bo$bo2bo$o4bo$o4bo$b4o$2o2b2o$o
+4bo33bo$o4bo32bobo$38bo2bo$39b2o$b4o86b2o$2b2o87b2o7$87b2o$87b2o22b2o$
+111b2o$110bo2bo$110b4o$109bob2obo$29b2o79bo2bo$29b2o$109b2o2b2o$108bo
+6bo$98b2o$98b2o9bo4bo$110bo2bo$77b2o2b2o20b2o6b2o$25b2o50b2o2b2o20b2o$
+25b2o22b2o25b3o2b3o24b2o4b2o$49b2o25b3o2b3o23bo2bo2bo2bo$48bo2bo56b2o
+4b2o$48b4o24bo6bo25bo4bo$47bob2obo23bo2b2o2bo$48bo2bo25b6o2$47b2o2b2o$
+46bo6bo25b2o$36b2o40bo2bo23b4o$36b2o9bo4bo25b4o23bo2bo$48bo2bo25b2o2b
+2o21b6o$15b2o2b2o20b2o6b2o23bo2bo4bo2bo$15b2o2b2o20b2o34bo4bo$14b3o2b
+3o24b2o4b2o24b4o21bo2b2o2bo$14b3o2b3o23bo2bo2bo2bo19bo10bo5b2o10bob4ob
+o$46b2o4b2o21bo8bo6b2o10bobo2bobo$14bo6bo25bo4bo$14bo2b2o2bo57b2o$15b
+6o85b2o$83b2o21b2o$82b4o$17b2o84b2o4b2o$16bo2bo23b4o34b6o16b3o2b3o$16b
+4o23bo2bo35b4o16bo2bo2bo2bo$15b2o2b2o21b6o54b2ob4ob2o$12bo2bo4bo2bo57b
+2o2b2o16b8o$15bo4bo58b2obo2bob2o$16b4o21bo2b2o2bo33bo2bo$12bo10bo5b2o
+10bob4obo$13bo8bo6b2o10bobo2bobo$83b2o$17b2o64b2o$44b2o$21b2o21b2o34bo
+bo2bobo$20b4o55bo2bo2bo2bo$41b2o4b2o30bo8bo$19b6o16b3o2b3o30bo8bo$20b
+4o16bo2bo2bo2bo29b2o6b2o$40b2ob4ob2o31b6o$19b2o2b2o16b8o$17b2obo2bob2o
+$20bo2bo3$21b2o$21b2o2$18bobo2bobo$17bo2bo2bo2bo$17bo8bo$17bo8bo$17b2o
+6b2o$19b6o!
