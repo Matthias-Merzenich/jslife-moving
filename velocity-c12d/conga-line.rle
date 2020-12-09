@@ -1,4 +1,5 @@
 #C Guns create a line of mutually-supporting switch engines
+#C based on a reaction by "Ian07".
 #C Luka Okanishi and "wwei23", 26 Sep 2020
 x = 221, y = 256, rule = B3/S23
 54b2o73bo$54bobo72b3o$56bo4b2o69bo$52b4ob2o2bo2bo66b2o$52bo2bobobobob
