@@ -1,6 +1,8 @@
+#C Small 2c/7 ships with periods greater than 7
 #C 1. Period-21 "Doo-Dah" tagalong by John Winston Garth, 6 Dec 2020
 #C 2. Period-42 spaceships by "GUYTU6J", 7 Dec 2020
-x = 207, y = 106, rule = B3/S23
+#C 3. Period-42 spaceships by Aidan F. Pierce, 7 Dec 2020
+x = 207, y = 154, rule = B3/S23
 30bo12bo$30bo12bo$29bobo10bobo$30bo12bo$30bo12bo$31bo3b4o3bo$35b4o$31b
 4o4b4o$2bo$33bo6bo$2bo31b2o2b2o2$2bo2$2bo2$2bo29b2o6b2o$31bob2o4b2obo$
 31bo2bo4bo2bo$32b3o4b3o$32b2o6b2o2$29bo14bo$29bo14bo$30bo12bo$30b2o10b
@@ -28,4 +30,15 @@ o2bob2o28b2obo2bob2o$20bo14bo2bo2bo7bo12bo22b2o6b2o6b2o2b2o51bo2bo34bo
 49bo3b5o8b5o21bo10bo18bobo5bo10bo$54b4o50bobobo3bo6b2o6bo53bo$50b4o4b
 4o46bo3bo4b3o3b2o3b3o43bo2bo$108b4o8bobo2bobo46bobo$52bo6bo50bo11bo2bo
 48b3o$53b2o2b2o61bo6bo$121b6o$121bo4bo53b2o$176b2o2bo$178bo6$181bo$
-181bo!
+181bo19$39b3o10b3o50b3o10b3o$38bo3bo8bo3bo48bo3bo8bo3bo2$42bo8bo34b3o
+10b3o6bo8bo$21bo12bo3bo7b2o7bo30bobo10bobo2bo7b2o7bo$20b3o10b3o4b3o2bo
+2bo2b3o32b3o10b3o4b3o2bo2bo2b3o$obobo14b5o8b5o4b2ob2o2b2ob2o34b2o4b2o
+4b2o6b2ob2o2b2ob2o$19b5o8b5o55bo2bo$4bo15bo6b2o6bo52bobo6bobo$21b3o3b
+2o3b3o8b8o38b10o10b8o$obobo19bobo2bobo12bob2obo41bo4bo13bob2obo$26bo2b
+o61bo4bo$4bo19bo6bo59bo4bo$25b6o$obobo20bo4bo12bo6bo58bo6bo$42b3o4b3o
+56b3o4b3o$41b2obo4bob2o54b2obo4bob2o$41bo4b2o4bo54bo4b2o4bo$39b3o4b2o
+4b3o34b3o4b3o6b3o4b2o4b3o$22b2o2bo2bo2b2o12b2o40bo2bo4bo2bo12b2o$23b2o
+6b2o55bo3bo2bo3bo$24bob4obo56bo2bo4bo2bo$25b6o58bobo4bobo$38b2o14bo49b
+2o14bo$20bo4bob2obo4bo4bo12bobo47bo2bo12bobo$20bo5b4o5b2o4bo10bo2bo30b
+2o12b2obo3bo10bo2bo$20bo6b2o6b4obo12bo32b3o10b3o2bobo12bo$86b3o10b3o$
+22bo10bo52bo14bo$21b2o10b2o52bo12bo!
