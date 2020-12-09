@@ -1,0 +1,13 @@
+#C Period-42 2c/7 rake by "iNoMed", 7 Dec 2020
+#C Based on a puffer by "GUYTU6J", 6 Dec 2020
+x = 49, y = 57, rule = B3/S23
+12bo12bo$12bo12bo$11bobo10bobo$12bo12bo$12bo12bo$13bo3b4o3bo$17b4o$13b
+4o4b4o2$15bo6bo8bo12bo$16b2o2b2o8b3o10b3o$29b5o8b5o$29b5o8b5o$15b2o4b
+2o7bo6b2o6bo$31b3o3b2o3b3o$14b2o6b2o10bobo2bobo$15bobo2bobo13bo2bo$34b
+o6bo$18b2o15b6o$14b2obo2bob2o11bo4bo$17bo2bo$10b2o6b2o6b2o$11bo14bo$
+11bo4bo4bo4bo$12bobo8bobo7b3o4b3o$13bo10bo8bo2bo2bo2bo$26bo4bo12bo$26b
+o4bo5b2o5bo$26bo4bo4bo2bo4bo$34bo6bo2$bo12bo$3o10b3o$3o10b3o15bo12b3o$
+22b2o4bo15b3o$21bobo7bo12bo$3bo3b2o3bo7b2o$bob4o2b4obo6b2o6bo$bob4o2b
+4obo7bo4b2o$23b5o$5b6o13b3o$4b2o4b2o13bo$4b2o4b2o3$18bo$16bo2bo$20bo$
+15bo4bo$14bo5bo$16b2o$16bo2bo6b2o$17bobo5bobo$18bo8bo8b3o$38bo8b2o$14b
+3o20bo8bobo$48bo!
