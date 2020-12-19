@@ -1,8 +1,9 @@
-#C (left) Stretcher for a p6 wick, Paul Tooke, Sep 2004.
+#C (left) Stretcher for a p6 wick, Paul Tooke, 8 Sep 2004
 #C   Stationary fencepost by Jason Summers and Matthias
-#C   Merzenich, Jan 2013.
-#C (right) Stretcher by Hartmut Holzwart, Nov 2004.
-#C   c/4 diagonal wick eater by Hartmut Holzwart, Oct 2004.
+#C   Merzenich, 8 Jan 2013
+#C (right) Stretcher by Hartmut Holzwart, 4 Nov 2004
+#C   c/4 diagonal wick eater by Hartmut Holzwart, 4 Nov 2004
+#B   based on an eater from 26 Oct 2004
 x = 193, y = 96, rule = B3/S23
 128b2o6b2o$127b2o4b2obo$128bobo2b2o$128b3o2b2o$122b2ob2ob3o$117b2o3bob
 3o$117bobo2bo$117bo7bo2bo$120bo4bo2bo$113b2o5b3o$112b2o5bo2bo$114bo3b
