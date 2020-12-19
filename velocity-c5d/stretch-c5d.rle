@@ -1,5 +1,6 @@
 #C Double tubstretcher by Matthias Merzenich, 27 Jan 2011
-#C Boateater by Nicolay Beluchenko and Matthias Merzenich
+#C Boateater completed by Matthias Merzenich, 27 Jan 2011
+#C based on a partial result by Nicolay Beluchenko, 20 Jul 2006
 x = 94, y = 75, rule = B3/S23
 45b2o$45b2o$44bo2bo$41b2obo2bo$47bo$39b2o3bo2bo$39b2o5bo$40bob5o$41bo
 3$38b3o$38bo$36b2o$30b2o4bo$30b3o3bo$28bo4bo$28bo3bo$32bo$27b2obobo$
