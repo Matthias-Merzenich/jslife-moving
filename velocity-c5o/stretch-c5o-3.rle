@@ -1,6 +1,7 @@
 #C Repeatable line stretcher by Keith Amling, 1 Jun 2020
 #C Antstretcher by Hartmut Holzwart, 13 Mar 2013
 #C Connecting component by Matthias Merzenich, 7 Jun 2020
+#C Stationary fencepost by Matthias Merzenich, Feb 2013
 x = 311, y = 107, rule = B3/S23
 65bo3b3o5b3o3bo48b3o13b3o13b3o13b3o13b3o13b3o12bo3b3o5b3o3bo$62b2ob5ob
 2o3b2ob5ob2o43bo3bo11bo3bo11bo3bo11bo3bo11bo3bo11bo3bo9b2ob5ob2o3b2ob
