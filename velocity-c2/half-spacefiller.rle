@@ -1,6 +1,9 @@
 #C Combining pieces of a wickstretcher and a
 #C spacefiller yields a half-spacefiller.
-#C Hartmut Holzwart and Jason Summers, May 2005.
+#C Hartmut Holzwart and Jason Summers, 15 May 2005.
+#C Based on a larger example from 4 May 2005.
+#C Stationary fencepost by Hartmut Holzwart, 3 May 2005
+#C with slight reduction by Jason Summers, 15 May 2005.
 x = 65, y = 80, rule = B3/S23
 5bobo49bobo$4bobbo49bobbo$3boo55boo$bbo59bo$b4o55b4o$o4bo53bo4bo$obbo
 24b3o3b3o24bobbo$obbo24bobbobobbo24bobbo$bo26bo7bo26bo$bb4obo20bo7bo
