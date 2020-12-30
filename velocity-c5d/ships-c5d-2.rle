@@ -8,6 +8,7 @@
 #C 8. By Aidan F. Pierce,  9 May 2020
 #C 9. By Aidan F. Pierce,  3 Jun 2020
 #C 10. By John Winston Garth, 24 Nov 2020
+#C 11. By "inspirehep", 26 Dec 2020
 x = 293, y = 399, rule = B3/S23
 56b2o$56b2o$55bo2bo$52b2obo2bo$58bo$50b2o3bo2bo$50b2o5bo$51bob5o$52bo
 2$49b2o$49b2o$48bo2bo$49bob2o$48bobobo2bo$48bob2o3bo$47b2ob2obo$48bobo
@@ -117,13 +118,22 @@ $218bo10b2o3bo$214b6o8bo2bo$99b2o112b2o4b3o5bo2bo$99b2o112bo5b2o5bo$
 6bo3bo2bo2b4ob2o3bo3b2o4bo$27bo4bo4bo3bobo2bo5bobo3bo5b3ob2o3b2obo4b2o
 $27bo3bo5b3o3bobo7b2o2b2o7b3o4bo7b2o$31bo5bo5bo10b3o10b3o4bo9bo$26b2ob
 obo5b2o29b2o4b2o6bo3bo$24b2o5bo37bo14bo3bo$24b2o4b2o56bo$26b4o56bo2bo$
-88bo$91bo$88bo2bo$89bo$90bo17$29b3o$28bo3b2o$o3bobobo18b2o3bo$26bo5bo$
-o3bo3bo16bob2o4b2o$24b2o2bo6bo$o3bo3bo18b2o2bo$27b2ob2o$o3bo3bo19bo$
-29b5o5b2o$o3bobobo21bo2b3o3b2o$33bob2o2b2o$33bo3b4o$34b8obo$33bo2bo6b
-3o$40bo3b2o$40bo4bo$40bo$41bobo$43bo$43b2o2bo$43b2obobo2$48b2o$44b3o$
-44b2o2$45b3o$46b2o$46bo$46b2ob2o$47bo3bo$47bobobo$46bo3bo$45b2o$44b3o
-2$46b3o$47b2o$47b2o$49b2o$49b3ob3o$48bo4bo$47b2o4b3o$47bo7bo$48bo7b4o
-2b2o$56b5ob2o$57bobo$61bo$61b3o$59b2obobo$59b4obo$58bo2bob2ob2o$59b2o
-3bobo$64b2o$62bo2bo$62b3o3bo$64b4ob2ob2o$69bo2bo$64bo2bob2o$65bo7bo$
-71bo$73bob2o$75b2o$72b3obo$71bobo$72bo2$74b3o$74bo2bo$74b2ob3o$79bo$
-77bo2b3o$77bob2ob4o$76bo2bo3b3o$75b3o$75bo3bo$76bo$78b2o!
+88bo$91bo$88bo2bo$89bo$90bo17$29b3o137b3o44b3o$28bo3b2o134bo3b2o41bo3b
+2o$o3bobobo18b2o3bo110bo4bo18b2o3bo41b2o3bo$26bo5bo133bo5bo40bo5bo$o3b
+o3bo16bob2o4b2o108bo4bo16bob2o4b2o37bob2o4b2o$24b2o2bo6bo128b2o2bo6bo
+35b2o2bo6bo$o3bo3bo18b2o2bo111bo4bo18b2o2bo42b2o2bo$27b2ob2o135b2ob2o
+42b2ob2o$o3bo3bo19bo114bo4bo19bo46bo$29b5o5b2o128b5o42b5o$o3bobobo21bo
+2b3o3b2o102bo4bo21bo2b3o2b2o37bo2b3o2b2o$33bob2o2b2o132bob2o2bob2o37bo
+b2o2bob2o$33bo3b4o132bo3bobo2bo37bo3bobo2bo$34b8obo130b5o5b2o35b5o5b2o
+$33bo2bo6b3o127bo2bo2bo6bo33bo2bo2bo6bo$40bo3b2o138bo2bo43bo2bo$40bo4b
+o134b3o44b3o$40bo139bo5b2obo37bo5b2obo$41bobo135bo11bo3bo30bo11bo3bo$
+43bo136b2o7bo3b2obo30b2o7bo3b2obo$43b2o2bo142bo2b2obo40bo2b2obo$43b2ob
+obo138b2o5bo39b2o5bo$187bo6b3o37bo6b3o$48b2o138bo5b3o2b2o34bo5b3o2b2o$
+44b3o147b2o2b3obo38b2o2b3obo$44b2o152bob2obo41bob2obo$202bobo44bobo$
+45b3o154b2o45b3o$46b2o156bo$46bo$46b2ob2o197bo$47bo3bo195b3obo$47bobob
+o$46bo3bo196b3o$45b2o$44b3o2$46b3o$47b2o$47b2o$49b2o$49b3ob3o$48bo4bo$
+47b2o4b3o$47bo7bo$48bo7b4o2b2o$56b5ob2o$57bobo$61bo$61b3o$59b2obobo$
+59b4obo$58bo2bob2ob2o$59b2o3bobo$64b2o$62bo2bo$62b3o3bo$64b4ob2ob2o$
+69bo2bo$64bo2bob2o$65bo7bo$71bo$73bob2o$75b2o$72b3obo$71bobo$72bo2$74b
+3o$74bo2bo$74b2ob3o$79bo$77bo2b3o$77bob2ob4o$76bo2bo3b3o$75b3o$75bo3bo
+$76bo$78b2o!
