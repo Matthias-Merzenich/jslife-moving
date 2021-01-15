@@ -3,7 +3,10 @@
 #C 2. By Nicolay Beluchenko, 22 Sep 2005
 #C 3. By Josh Ball, 25 Mar 2011
 #C 4. By Aidan F. Pierce, 22 Apr 2020
-x = 154, y = 109, rule = B3/S23
+#C 5. By "Bullet51", 5 Jan 2021
+#C    Based on a partial result by Josh Ball and
+#C    Matthias Merzenich, 27 Mar 2011
+x = 154, y = 190, rule = B3/S23
 o11b2o38bobobo9b2o$11b3ob3o47b3ob3o$o12bo3b2o37bo10bo3b2o$10b2ob2o2bo
 2bobo41b2ob2o2bo2bobo$o9bo6bob4o29bobobo7bo6bob4o$16b2obo2bo47b2obo2bo
 $o9bo4b2o3bob2o28bo11bo4b2o3bob2o$10b2o8bobo2bo38b2o8bobo2bo$o9bo2b5ob
@@ -31,4 +34,15 @@ o3bob3o101bo3bob3o$22bo109bo$16b2o108b2o$17b2o108b2o$13b4o2b2o102b4o2b
 8b2o7b2o4bob2o2b2o2b2o$64bo3bo3b3o3bob2o12b5o2bo2b2o4bo4bo$50bo3bo9bo
 3b2ob3o6b3o2b2obo4b2obo5b3o2bo4bobo2b2o$63bo7b2o9bo2b2ob2o3bo15b2ob3o$
 50bobobo8b4ob2o5bo4b7ob2o4b2o3b6o7bobo$65b2o8bo3bobo9bo2bo2bobobo2bo9b
-2o$54bo15bo8b2o10bo3bobo2b2o5bo4bobo$71bo29bo11b2o$54bo46bo!
+2o$54bo15bo8b2o10bo3bobo2b2o5bo4bobo$71bo29bo11b2o$54bo46bo20$8bobobo$
+40b2o$8bo29b2o2bo2$8bobobo24bo$34b4obo$12bo21b3obo$33bobo$8bobobo19bob
+2o$31b2o$30b2obo2bo$30b4obo$28b2o$27b2o$27b2obo$25bob2obo$24b2ob2o$23b
+o4b2o$23bo3bobo$24bo3bo$20bo3b3o$19bobo4b4o$18bo3bo3b3ob2o$22bo9bo8b2o
+$16b2o14b2o8bo$17b2o10b2o2b2o5bob2o$13b4o2b2o13b3o2b2o2bo$13b2o20b2o3b
+2o$36bo$12bo28b2o$10bo2bo21b2o3b4o$10bo2bo21bob2o4bo$9bo22b2o3bo3b4o$
+8bo23b2o3bo3bob3ob2o$9b2o21b2obo5bo6bo$32b2obobob5o3bo$32b4obo5b3o$33b
+o9bobo6b3o$41bo2bo3bo3b2o$40bo4bob4o$40bo3bo2b4o5bo$41b2o5bobo3b2obo$
+49b2o3b2obo$46b2o12bo$45bo2bob2o3b2o2bobo$44b5o2bo3bo2b5o$44bobo3bo2b
+2o3bo3bo$48bo3b3o3b4o$47b2o4b3ob5o$47b3o7bo$52bob6o$52bob2o2bo3b2o$52b
+o9b2o2bo$52bobo3bo3bob2obo$52bo2bo3b2o4bo2bo$61bo4b3o$53bobo4b3o5b2o$
+61b2o$61bo$60bo2bo$61b3o$63b2o!
