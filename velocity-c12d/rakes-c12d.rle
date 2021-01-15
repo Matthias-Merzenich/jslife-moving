@@ -7,7 +7,8 @@
 #C 4. David Bell,  4 Jun 2005
 #C 5. David Bell, 27 Jun 2005 (improved using 2-engine corderships)
 #C 6. "wwei23", 12 Sep 2020
-x = 649, y = 362, rule = B3/S23
+#C 7. "wwei23",  8 Jan 2021
+x = 649, y = 496, rule = B3/S23
 391b3o$353bo35b7o6bo$388b9o4bo$353bo33bo7b3o2b2o204b3o$223bo164b3o6bo
 3bo2bo$223bo129bo35b2o11b3o199bo5bo$171bobobo47bo168bo10bo200b7o12bo$
 224b2o127bo39bo18b2o192bo17b2o$175bo48b3o167bo17b2o192bo3bo13b2o$49bo
@@ -152,4 +153,15 @@ o32bo189b3o116bo2bo25b2o5bo3bo15b2o9bo116b3o$17bo30bo310b3o36bo3bo11b
 386bo14bo12b2o71b2o9b2o10bo$384bobo12b3o14bo$384b2o28b2o$413bobo78bo$
 413bobo$415bo$189b2o220bobo$189b2o203b2o15bo83b2o$394bo15bobo82b2o$
 392bobo7b2o6b2o$392b2o8b2o5bo$410b2o$248bo162bo$246bobo$247b2o3$410b2o
-$410b2o$272bo$273bo$33bo237b3o$32bo$32b3o!
+$410b2o$272bo$273bo$33bo237b3o$32bo$32b3o40$31bobobo2$35bo39b3o$75b3o$
+35bo40bo$77b2o$35bo42bo$77bo14b2o$35bo56b2o3$75b2o$64bo10b2o$59bo2bobo
+2bo3bo4bo$59bo4b2ob5o4bo15bo$59bo3bo4bobo4bobo15b2o5b2o$74bo16bobo6b2o
+$61b3o11bo2b2o11bo2bo$62bo13bo3bo10b2obo$78b2o12bobo$78bo13bobo$73b2o
+17b3o$64b2o7b2o17b3o$64b2o$53b3o31bo2bobo$53b3o30bo6bo$54bo32bo5bo$55b
+2o31bo$56bo$55bo$20bo$20bo5b3o$19bobo3b2o2bo$20bo3bo5bo22b2o$20bo3bo
+28b2o$25bo2b2o24bo$26b2o11b2o13bo$39b2o12bobo$52bo$53bo2b2o11b2o$54bo
+3bo9bo2bo$56b2o13bo$56bo11bo2bo$67b4o$9b3o35b2o18bo$9b3o21bo13b2o18bo$
+10bo12b2o9b2o$11b2o9bob3o8b2o$12bo9bo3bo10bo$11bo11b2obo5b5o$24bo10bo
+3$9b2o$9b2o$10bo$10bo$9bobo$8bo$9bo2b2o$10bo3bo47bo$12b2o48bobo$12bo
+49b2o7$14b2o$14b2o$27bo$27b3o$28b2o$28bo2$26b2obo$26b4o$28b2o14$46bo$
+46bobo$46b2o!
