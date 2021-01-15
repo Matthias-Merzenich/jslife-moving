@@ -4,10 +4,11 @@
 #C     Dylan Chen, 4 Jan 2021
 #C 28: Extensible period-28 tagalong by Stephen Silver, 2 Feb 2000
 #C 35: By "iNoMed", 5 Jan 2021
+#C     Based on a period-70 puffer by "bubblegum", 4 Jan 2021
 #C 42: By Aidan F. Pierce, 2 Jan 2021
 #C     Based on a period-42 puffer by "iNoMed", 2 Jan 2021
 #C 63: By Aidan F. Pierce, 4 Jan 2021
-#C     Based on a puffer by Dylan Chen, 4 Jan 2021
+#C     Based on a period-154 puffer by Dylan Chen, 4 Jan 2021
 x = 353, y = 384, rule = B3/S23
 42bo4bo3bo120bobobo4bo125bobobo3bobobo2$42bo4bo3bo124bo4bo129bo3bo3bo
 2$42bo4bobobo120bobobo4bo125bobobo3bobobo2$42bo8bo120bo8bo125bo7bo3bo
