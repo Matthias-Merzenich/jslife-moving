@@ -8,7 +8,8 @@
 #C    E. Jason Summers, 27 Sep 1999
 #C 5. Hartmut Holzwart, 29 Jul 2005
 #C 6. Hartmut Holzwart, 12 Dec 2020
-x = 190, y = 495, rule = B3/S23
+#C 7. Hartmut Holzwart, 11 Jan 2021
+x = 190, y = 584, rule = B3/S23
 84bobo$83bo2bo$82b2o$81bo$80b4o$79bo4bo$38bobo38bo2bo$37bo2bo38bo2bo$
 36b2o42bo$35bo45b4obo$34b4o44bo3bo$33bo4bo44bo$33bo2bo46bobo$33bo2bo$
 34bo47b3o$35b4obo41b2o$36bo3bo41b3o$37bo$37bobo43bobo$82bo2bo$36b3o43b
@@ -76,4 +77,14 @@ o$31b2o9bo4b2o3bobo$30b2ob2o5b3o8bo$31b4o3b2o6bo$32b2o3b3o3bob2o3bo$
 4bo$36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$
 36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$36bo$
 37bo3bo$41bo$37b2o$36b2o2b2o2b2ob2o$37b2obob2o4bo$31b2o7bo2b3o$30b2ob
-2o6bo2bo2b2o$31b4o6bobo4b2obobo$32b2o15bo3bo$53bo!
+2o6bo2bo2b2o$31b4o6bobo4b2obobo$32b2o15bo3bo$53bo17$33b5o$33bo4bo$33bo
+$34bo3bo$38bo$37b2o$35b2o2bo2bo$36bobob3o$34bobobo2bo$33b2obobob2o$34b
+2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobob2o$34bo2bobobo$33b2o2bobo$
+34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36bo2b3o$34bobobobo$33b2obobob2o$
+34b2o2bo$35bo2bo$37b2o$37b2o2bo$obobo32bob3o$35bobob2o$4bo29bo2bobobo$
+33b2o2bobo$4bo29b2obo2bo$35bob2o$4bo31b2o3bo$36b2ob3o$4bo31bo2b3o$34bo
+bobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobob2o$
+34bo2bobobo$33b2o2bobo$34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36bo2b3o$
+34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobo
+b2o$34bo2bobobo$33b2o2bobo$34b2obobobo$35bobobobo$36bo4bo$36b2o$40bo2$
+33b5o$33bo4bo$33bo$34bo3bo!
