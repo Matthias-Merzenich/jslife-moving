@@ -7,9 +7,10 @@
 #C    D. Jason Summers, 14 Apr 1999
 #C    E. Jason Summers, 27 Sep 1999
 #C 5. Hartmut Holzwart, 29 Jul 2005
-#C 6. Hartmut Holzwart, 12 Dec 2020
-#C 7. Hartmut Holzwart, 11 Jan 2021
-x = 190, y = 584, rule = B3/S23
+#C 6. Hartmut Holzwart, 20 Oct 2016
+#C 7. Hartmut Holzwart, 12 Dec 2020
+#C 8. Hartmut Holzwart, 11 Jan 2021
+x = 190, y = 674, rule = B3/S23
 84bobo$83bo2bo$82b2o$81bo$80b4o$79bo4bo$38bobo38bo2bo$37bo2bo38bo2bo$
 36b2o42bo$35bo45b4obo$34b4o44bo3bo$33bo4bo44bo$33bo2bo46bobo$33bo2bo$
 34bo47b3o$35b4obo41b2o$36bo3bo41b3o$37bo$37bobo43bobo$82bo2bo$36b3o43b
@@ -68,23 +69,32 @@ o2b2o3b3o2b2ob8o$30b2o3bo4b7o10bo2bo2b2o4bo3bob2o6b2o7b2o$31b2o6b2o15b
 108b2o$108b8o$112b2o$112b8o$116b2o$116b8o$120b2o$120b8o$124b2o$124b8o$
 128b2o$128b8o$132b2o$132b8o$136b2o$136b8o$140b2o$140b8o$144b2o$144b8o$
 148b2o$148b8o$152b2o$152b8o$156b2o$156b8o$160b2o$160b8o$164b2o$164b8o$
-168b2o$168b8o$172b2o$172b8o$176b2o$176b6o$180b2o$180bo10$50bo$49bob2ob
-o$31b2o9bo4b2o3bobo$30b2ob2o5b3o8bo$31b4o3b2o6bo$32b2o3b3o3bob2o3bo$
-36bo7bo2bobo$37bobobo2bo$37bob2o$38bo$36b2o$35bo2bo$35bo3bo$35bo4bo$
-36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$36bo$
-37bo$38b2o$38bo$40bo$37bo2bo$obobo31b2o$35bo2bo$o34bo3bo$35bo4bo$obobo
-31bo$37bo$o3bo33b2o$38bo$obobo35bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo
+168b2o$168b8o$172b2o$172b8o$176b2o$176b6o$180b2o$180bo6$43bo$41bo3bo$
+40bo$40bo4bo$40b5o4$38b11o$38bo10bo$38bo$39bo9bo$41b2o3bo$42b2o$39bobo
+$37b3ob2o$36bo7bobo$35b2ob2ob5o$36b2obobobobo$37bobobo$38b2obo$41bo2bo
+$40bo$40bo$41bo2bo$38b2obo$37bobobo$36b2obobobobo$37b2o2bobobo$38bo2bo
+2bo$40b2o$40b2o$38bo2bo2bo$37b2o2bobobo$obobo31b2obobobobo$37bobobo$o
+37b2obo$41bo2bo$obobo35bo$40bo$o3bo36bo2bo$38b2obo$obobo32bobobo$36b2o
+bobobobo$37b2o2bobobo$38bo2bo2bo$40b2o$40b2o$38bo2bo2bo$37b2o2bobobo$
+36b2obobobobo$37bobobo$38b2obo$41bo2bo$40bo$40bo$41bo2bo$38b2obo$37bob
+obo$36b2obobobobo$35b2ob2ob5o$36bo7bobo$37b3ob2o$39bobo$42b2o$41b2o3bo
+$39bo9bo$38bo$38bo10bo$38b11o4$40b5o$40bo4bo$40bo$41bo3bo$43bo17$50bo$
+49bob2obo$31b2o9bo4b2o3bobo$30b2ob2o5b3o8bo$31b4o3b2o6bo$32b2o3b3o3bob
+2o3bo$36bo7bo2bobo$37bobobo2bo$37bob2o$38bo$36b2o$35bo2bo$35bo3bo$35bo
 4bo$36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$
+36bo$37bo$38b2o$38bo$40bo$37bo2bo$obobo31b2o$35bo2bo$4bo30bo3bo$35bo4b
+o$4bo31bo$37bo$4bo33b2o$38bo$4bo35bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35b
+o4bo$36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$
 36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$36bo$
 37bo3bo$41bo$37b2o$36b2o2b2o2b2ob2o$37b2obob2o4bo$31b2o7bo2b3o$30b2ob
 2o6bo2bo2b2o$31b4o6bobo4b2obobo$32b2o15bo3bo$53bo17$33b5o$33bo4bo$33bo
 $34bo3bo$38bo$37b2o$35b2o2bo2bo$36bobob3o$34bobobo2bo$33b2obobob2o$34b
 2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobob2o$34bo2bobobo$33b2o2bobo$
 34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36bo2b3o$34bobobobo$33b2obobob2o$
-34b2o2bo$35bo2bo$37b2o$37b2o2bo$obobo32bob3o$35bobob2o$4bo29bo2bobobo$
-33b2o2bobo$4bo29b2obo2bo$35bob2o$4bo31b2o3bo$36b2ob3o$4bo31bo2b3o$34bo
-bobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobob2o$
-34bo2bobobo$33b2o2bobo$34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36bo2b3o$
-34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobo
-b2o$34bo2bobobo$33b2o2bobo$34b2obobobo$35bobobobo$36bo4bo$36b2o$40bo2$
-33b5o$33bo4bo$33bo$34bo3bo!
+34b2o2bo$35bo2bo$37b2o$37b2o2bo$obobo32bob3o$35bobob2o$o3bo29bo2bobobo
+$33b2o2bobo$obobo29b2obo2bo$35bob2o$o3bo31b2o3bo$36b2ob3o$obobo31bo2b
+3o$34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35b
+obob2o$34bo2bobobo$33b2o2bobo$34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36b
+o2b3o$34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$
+35bobob2o$34bo2bobobo$33b2o2bobo$34b2obobobo$35bobobobo$36bo4bo$36b2o$
+40bo2$33b5o$33bo4bo$33bo$34bo3bo!
