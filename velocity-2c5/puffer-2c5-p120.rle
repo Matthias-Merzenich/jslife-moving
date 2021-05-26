@@ -1,0 +1,5 @@
+#C A small period-120 2c/5 puffer
+#C Chris Rowett, 10 Feb 2021
+x = 13, y = 24, rule = B3/S23
+9bo$8b3o$7bo3bo$7b2ob2o$3bo$2bobo2bob4o$bo3bo2bo2bo$2bob2o$3b2o$3b2o$
+3bo$2b3o$bo3bo$b4o$o5bo$o2bo$5bo$bobo$2b2o3$3bo$b2ob2o$2bobo!
