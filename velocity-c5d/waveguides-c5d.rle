@@ -1,8 +1,8 @@
 #C 1. Waves and boateater front end by Nicolay Beluchenko, 20 Jul 2006
 #C    Back end by Matthias Merzenich, 27 Jan 2011
 #C 2. Alternate front end by Matthias Merzenich, 2 Feb 2011
-#C 3. Alternate front end by Aidan F. Pierce, 25 Apr 2020
-#C 4. By Aidan F. Pierce, 25 Apr 2020
+#C 3. Alternate front end by "praosylen", 25 Apr 2020
+#C 4. By "praosylen", 25 Apr 2020
 x = 386, y = 260, rule = B3/S23
 59bo2$59bo2$59bo173b3o$232bo$59bo171bo2b2o$229b2obob2o$59bo168bo2bo2b
 2o$228bo3bobo$195bobobo28bob2obo10bo$229bobo11b2o16b2o$199bo29b4o3b3o

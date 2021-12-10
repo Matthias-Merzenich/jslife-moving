@@ -1,6 +1,6 @@
 #C Period-105 2c/7 rake by Adam P. Goucher, 6 Dec 2020.
 #C This simplifies an earlier design by "iNoMed" based
-#C on a puffer by Aidan F. Pierce and John Winston Garth.
+#C on a puffer by "praosylen" and John Winston Garth.
 #C Reduced slightly by Matthias Merzenich, 8 Dec 2020
 x = 83, y = 181, rule = B3/S23
 11b3o13b3o$11bobo4b2ob2o4bobo$6b2o3b3o2b2obobob2o2b3o3b2o$5bo2bo7b2o5b

@@ -1,8 +1,8 @@
 #C Discovery credits:
-#C AP = Aidan F. Pierce
 #C DB = David Bell
 #C HH = Hartmut Holzwart
 #C JS = Jason Summers
+#C PR = "praosylen"
 #C PT = Paul Tooke
 #C RW = Robert Wainwright
 #C
@@ -27,7 +27,7 @@
 #C C3 JS 18 Mar 2001
 #C C4 HH  5 May 1995
 #C C5 JS 26 May 2002
-#C C6 AP  9  Apr 2020
+#C C6 PR  9  Apr 2020
 x = 435, y = 293, rule = B3/S23
 231bobo$230bo2bo$229b2o$228bo3bo$227b3obo$31b4o189b2o$30b6o187bo3b5o
 150b5o$29b2ob4o186bo3bo155bo4bo$30b2o190bo5b2o152bo$4bo5bo211b3o3b4o

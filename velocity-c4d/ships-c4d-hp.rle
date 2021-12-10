@@ -5,7 +5,7 @@
 #C 12.1: p12 spaceship derived from p28 puffer,
 #C       Hartmut Holzwart with David Bell, Sep 2005
 #C 12.2-3: p12 spaceships derived from p28 puffer,
-#C         Aidan F. Pierce, 30 Oct 2019
+#C         "praosylen", 30 Oct 2019
 x = 169, y = 92, rule = B3/S23
 26b2obo7b3o50bo$26bo3bo6bo51b2o$26bo4bo7bo7b2o40bobo$28b2o7bobo4b2obo$
 30bobo4b3obo2b2o46b2o$obobo17b3o11bo3b2o2b2o46b2o$22bo9b2ob4ob2o$o3bo

@@ -1,14 +1,14 @@
 #C Higher-period 3c/7 orthogonal spaceships
-#C 14.1: By Aidan F. Pierce and "wwei23", 4 Jan 2021
+#C 14.1: By "praosylen" and "wwei23", 4 Jan 2021
 #C 14.2: By Matthias Merzenich, 18 Jan 2021
 #C 21.1: Based on a puffer by "bubblegum" and a block deleter by
 #C       Dylan Chen, 4 Jan 2021
 #C 28.1: Extensible period-28 tagalong by Stephen Silver, 2 Feb 2000
 #C 35.1: By "iNoMed", 5 Jan 2021
 #C       Based on a period-70 puffer by "bubblegum", 4 Jan 2021
-#C 42.1: By Aidan F. Pierce, 2 Jan 2021
+#C 42.1: By "praosylen", 2 Jan 2021
 #C       Based on a period-42 puffer by "iNoMed", 2 Jan 2021
-#C 63.1: By Aidan F. Pierce, 4 Jan 2021
+#C 63.1: By "praosylen", 4 Jan 2021
 #C       Based on a period-154 puffer by Dylan Chen, 4 Jan 2021
 x = 439, y = 384, rule = B3/S23
 26bo4bo3bo222bobobo4bo125bobobo3bobobo2$26bo4bo3bo226bo4bo129bo3bo3bo

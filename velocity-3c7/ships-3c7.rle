@@ -6,7 +6,7 @@
 #C 6. By Dylan Chen, 10 Jan 2021
 #C 7. Tagalong by Matthias Merzenich, 18 Jan 2021
 #C 8. Spaghetti monster (left-hand) support for front half of Anura
-#C      by Aidan F. Pierce, 28 Dec 2020
+#C      by "praosylen", 28 Dec 2020
 #C    Right-hand support by Matthias Merzenich, 18 Jan 2021
 #C    Wave connecting components by Matthias Merzenich, 14 Jan 2021
 x = 365, y = 317, rule = B3/S23

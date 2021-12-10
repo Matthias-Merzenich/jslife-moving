@@ -1,9 +1,9 @@
 #C 1. p28 puffer by Hartmut Holzwart, 9 Feb 2004
 #C    (The original was much larger than the improved
 #C    forms shown here.)
-#C 2. p28 puffer by Aidan F. Pierce, 29 Oct 2019
-#C 3. p32 puffer by Aidan F. Pierce, 22 Mar 2020
-#C 4. p40 puffer by Aidan F. Pierce, 29 Oct 2019
+#C 2. p28 puffer by "praosylen", 29 Oct 2019
+#C 3. p32 puffer by "praosylen", 22 Mar 2020
+#C 4. p40 puffer by "praosylen", 29 Oct 2019
 x = 347, y = 66, rule = B3/S23
 10bo123bobobo85bobobo85bo3bo2$10bo127bo89bo85bo3bo2$10bo123bobobo85bob
 obo85bobobo2$10bo123bo93bo89bo2$10bo123bobobo85bobobo89bo14$153bo$152b
