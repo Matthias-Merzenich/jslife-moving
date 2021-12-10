@@ -2,7 +2,6 @@
 #C
 #C Discovery credits:
 #C AA = "AforAmpere"
-#C AP = Aidan F. Pierce
 #C BU = "Bullet51"
 #C DH = Dean Hickerson
 #C HH = Hartmut Holzwart
@@ -10,6 +9,7 @@
 #C JS = Jason Summers
 #C MM = Matthias Merzenich
 #C NB = Nicolay Beluchenko
+#C PR = "praosylen"
 #C RM = "rmmh"
 #C SS = Stephen Silver
 #C TC = Tim Coe
@@ -18,11 +18,11 @@
 #C 40 MM 27 Sep 2017
 #C    MM 27 Sep 2017
 #C 41 JB 19 Apr 2013
-#C 42 AP 19 Jan 2017
+#C 42 PR 19 Jan 2017
 #C    MM 27 Sep 2017
 #C    MM 27 Sep 2017
 #C 43 MM 18 Apr 2012
-#C 44 AP 26 Dec 2016
+#C 44 PR 26 Dec 2016
 #C 45 MM 20 Apr 2012
 #C    MM 20 Apr 2012
 #C    MM 18 Jan 2017
@@ -41,15 +41,15 @@
 #C 51 TC  3 May 1996
 #C    SS 11 Nov 2000
 #C    SS 11 Nov 2000
-#C 52 AP 26 Dec 2016
+#C 52 PR 26 Dec 2016
 #C 53 TC  6 Aug 1995
 #C    SS 10 Nov 2000
-#C    AP 10 Jan 2017
-#C    AP 10 Jan 2017
+#C    PR 10 Jan 2017
+#C    PR 10 Jan 2017
 #C    MM 28 Jan 2017
 #C    MM 28 Jan 2017
 #C 54 TC Between Dec 2015 and 21 Apr 2016
-#C    AP 19 Jan 2017
+#C    PR 19 Jan 2017
 #C 55 HH  2 Jan 2004
 #C    MM 20 Apr 2012
 #C    TC    Dec 2015
@@ -68,12 +68,12 @@
 #C    JB 15 Apr 2012 (tag by HH 18 Aug 1992)
 #C    JB 15 Apr 2012 (tag by HH 18 Aug 1992)
 #C    JB 15 Apr 2012 (tag by JS  1 Oct 2000)
-#C    AP 19 Jan 2017 (tag by HH no later than 2 Mar 2006)
+#C    PR 19 Jan 2017 (tag by HH no later than 2 Mar 2006)
 #C    MM 27 Sep 2017 (tag by HH no later than 2 Mar 2006)
 #C    MM 27 Sep 2017 (tag by HH no later than 2 Mar 2006)
 #C 58 MM 16 Jan 2017
 #C    MM 29 Dec 2016
-#C    AP 17 Jan 2017
+#C    PR 17 Jan 2017
 #C    MM 20 Apr 2012
 #C    TC Between Dec 2015 and 21 Apr 2016 (tag)
 #C    JB 19 Apr 2013 (tag by HH 18 Aug 1992)
@@ -86,7 +86,7 @@
 #C    MM 19 Jan 2017
 #C 59 MM 20 Apr 2012
 #C 60 TC Between Dec 2015 and 19 Mar 2016
-#C    AP  1 Jan 2017
+#C    PR  1 Jan 2017
 #C 61 JS 22 Sep 2000
 #C    MM  1 Oct 2017
 #C    MM  1 Oct 2017
@@ -131,7 +131,7 @@
 #C    MM 20 Apr 2012 (tag by HH 18 Aug 1992)
 #C    MM 20 Apr 2012 (tag by HH 18 Aug 1992)
 #C    TC Between Dec 2015 and 21 Apr 2016
-#C    AP 26 Dec 2016 (tag by DH    Dec 1989)
+#C    PR 26 Dec 2016 (tag by DH    Dec 1989)
 #C    MM 19 Jan 2017
 #C    MM 19 Jan 2017
 #C    MM 27 Sep 2017 (tag by TC Between Dec 2015 and 21 Apr 2016)
@@ -139,7 +139,7 @@
 #C 64 TC Between Dec 2015 and 19 Mar 2016
 #C    TC Between Dec 2015 and 19 Mar 2016
 #C    TC Between Dec 2015 and 19 Mar 2016
-#C    AP 19 Jan 2017
+#C    PR 19 Jan 2017
 #C    MM 18 Apr 2012
 #C    MM 16 Jan 2017
 #C    MM  4 Aug 2015 (tag)
@@ -153,9 +153,9 @@
 #C    MM    Aug 2015 (tag)
 #C    MM    Aug 2015 (tag)
 #C    TC Between Dec 2015 and 21 Apr 2016 (tag)
-#C    AP 26 Dec 2016 (tag by HH 18 Aug 1992)
-#C    AP 26 Dec 2016 (tag by HH 18 Aug 1992)
-#C    AP 26 Dec 2016 (tag by JS  1 Oct 2000)
+#C    PR 26 Dec 2016 (tag by HH 18 Aug 1992)
+#C    PR 26 Dec 2016 (tag by HH 18 Aug 1992)
+#C    PR 26 Dec 2016 (tag by JS  1 Oct 2000)
 #C    MM 18 Jan 2017 (tag by BU 19 Mar 2016)
 #C    MM 18 Jan 2017 (tag by BU 19 Mar 2016)
 #C    MM 27 Sep 2017 (tag by MM    Aug 2015)
@@ -208,9 +208,9 @@
 #C    TC Between Dec 2015 and 19 Mar 2016
 #C    SS  7 Oct 2000
 #C    SS  7 Oct 2000
-#C    AP  5 Jan 2017
-#C    AP 17 Jan 2017
-#C    AP 17 Jan 2017
+#C    PR  5 Jan 2017
+#C    PR 17 Jan 2017
+#C    PR 17 Jan 2017
 #C    TC Between Dec 2015 and 21 Apr 2016 (tag)
 #C    MM    Aug 2015 (tag)
 #C    MM    Aug 2015 (tag)
@@ -254,8 +254,8 @@
 #C    MM 18 Jan 2017 (tag by DH Dec 1989)
 #C 68 RM  9 Mar 2016
 #C    HH center: 5 Feb 1993; wings: no later than 2 Mar 2006
-#C    AP 28 Dec 2016
-#C    AP 29 Dec 2016
+#C    PR 28 Dec 2016
+#C    PR 29 Dec 2016
 #C    MM 23 Jan 2017
 #C    MM  1 Oct 2017 (tag)
 #C    MM  1 Oct 2017 (tag)
@@ -322,14 +322,14 @@
 #C    JB 15 Apr 2012 (tags by HH 18 Aug 1992 and 2 Mar 2006)
 #C    JB 15 Apr 2012 (tags by HH 18 Aug 1992 and 2 Mar 2006)
 #C    BU 19 Mar 2016 (tag)
-#C    AP 26 Dec 2016 (tag by TC Between Dec 2015 and 21 Apr 2016)
-#C    AP 26 Dec 2016 (tag by HH 18 Aug 1992)
-#C    AP 26 Dec 2016 (tag by HH 18 Aug 1992)
+#C    PR 26 Dec 2016 (tag by TC Between Dec 2015 and 21 Apr 2016)
+#C    PR 26 Dec 2016 (tag by HH 18 Aug 1992)
+#C    PR 26 Dec 2016 (tag by HH 18 Aug 1992)
 #C    MM 18 Jan 2017 (tag by SS 9 Oct 2000 based on a ship by HH 5 Feb 1993)
 #C    MM 18 Jan 2017 (tag by SS 9 Oct 2000 based on a ship by HH 5 Feb 1993)
 #C    MM 18 Jan 2017 (tag by DH Dec 1989)
-#C    AP 19 Jan 2017 (tag)
-#C    AP 19 Jan 2017 (tag)
+#C    PR 19 Jan 2017 (tag)
+#C    PR 19 Jan 2017 (tag)
 #C    MM 18 Jan 2017 (tag by DH Dec 1989)
 #C    MM 18 Jan 2017 (tag by DH Dec 1989)
 x = 1696, y = 652, rule = B3/S23

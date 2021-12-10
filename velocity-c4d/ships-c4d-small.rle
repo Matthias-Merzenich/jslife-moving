@@ -5,7 +5,6 @@
 #C This collection was compiled by Nicolay Beluchenko.
 #C
 #C Discovery credits:
-#C AP - Aidan F. Pierce
 #C DB - David Bell
 #C DH - Dean Hickerson
 #C GN - Gabriel Nivasch
@@ -13,6 +12,7 @@
 #C HH - Hartmut Holzwart
 #C MM - Matthias Merzenich
 #C NB - Nicolay Beluchenko
+#C PR = "praosylen"
 #C RG - Richard Guy
 #C RW - Robert Wainwright
 #C SS - Steven Silver
@@ -222,7 +222,7 @@
 #C    NB Apr 2012
 #C    NB Jul 2012
 #C    NB Dec 2012
-#C    AP Mar 2017
+#C    PR Mar 2017
 #C 61 JS Oct 2000
 #C    HH Feb 2004
 #C    HH Mar 2004
@@ -260,7 +260,7 @@
 #C    NB Apr 2012
 #C    NB Jul 2012
 #C    NB Dec 2012
-#C    AP Feb 2017
+#C    PR Feb 2017
 #C 63 JS Mar 1999
 #C    NB Jul 2005
 #C    NB Jul 2005 (tag by HH Apr 1993)
@@ -458,7 +458,7 @@
 #C    NB Dec 2012
 #C    NB Dec 2012
 #C    NB Dec 2012
-#C    AP Mar 2017
+#C    PR Mar 2017
 #C 69 DH Mar 1993 "Enterprise"
 #C    HH Apr 1993
 #C    SS Jan 1999 "welded Canada geese"
@@ -512,7 +512,7 @@
 #C    NB Dec 2012
 #C    NB Dec 2012
 #C    NB Dec 2012
-#C    AP Feb 2017
+#C    PR Feb 2017
 #C 70 HH and DB earlier than 2000
 #C    HH Mar 2004
 #C    NB Jul 2005

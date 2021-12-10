@@ -6,7 +6,7 @@
 #C ships-2c5-small.rle
 #C
 #C Discovery credits:
-#C AP = Aidan F. Pierce
+
 #C BU = "Bullet51"
 #C DB = David Bell
 #C DH = Dean Hickerson
@@ -14,6 +14,7 @@
 #C JB = Josh Ball
 #C JG = John Winston Garth
 #C MM = Matthias Merzenich
+#C PR = "praosylen"
 #C PT = Paul Tooke
 #C RW = Robert Wainwright
 #C SS = Stephen Silver
@@ -26,11 +27,11 @@
 #C 51 PT 28 Nov 2000
 #C 54 MM 25 Jan 2017 (tag)
 #C 56 MM 27 Sep 2015 (tag)
-#C    AP 21 Jan 2017 (B-heptomino component by PT between Feb 2000 and
+#C    PR 21 Jan 2017 (B-heptomino component by PT between Feb 2000 and
 #C                    Mar 2000.  Larger component by PT 3 Jul 2000.)
 #C 57 PT  1 Nov 2000
 #C 58 MM 22 Jan 2017
-#C 59 AP 21 Jan 2017
+#C 59 PR 21 Jan 2017
 #C 60 TC  3 May 1996
 #C 62 MM 28 Jan 2017 (tag)
 #C    MM  9 Aug 2015
@@ -57,12 +58,12 @@
 #C 75 PT Between Feb 2000 and Mar 2000
 #C    MM 29 Jan 2017 (tag)
 #C 76 BU 12 Jul 2017
-#C 77 AP 26 Jan 2017
+#C 77 PR 26 Jan 2017
 #C    WM 28 Mar 2018 (tag)
 #C 78 PT Between Feb 2000 and Mar 2000
 #C    MM  1 Feb 2017
 #C    MM  6 Feb 2017
-#C 79 MM 25 Jan 2017 (based on a partial result by AP, 25 Jan 2017)
+#C 79 MM 25 Jan 2017 (based on a partial result by PR, 25 Jan 2017)
 #C    MM 28 Jan 2017 (tag)
 #C 81 MM 10 Aug 2015
 #C    MM 27 Sep 2015 (tag)
@@ -80,7 +81,7 @@
 #C    MM 29 Jan 2017 (tag)
 #C    MM  4 Feb 2017
 #C    MM 11 Aug 2017
-#C 90 MM 25 Jan 2017 (based on a partial result by AP, 25 Jan 2017)
+#C 90 MM 25 Jan 2017 (based on a partial result by PR, 25 Jan 2017)
 #C    MM 25 Jan 2017
 x = 614, y = 322, rule = B3/S23
 146b2o2b2o$145b2o136b2o$146bob2o132b3o$142bo6bo131bo3b3o194b2o$27bo
