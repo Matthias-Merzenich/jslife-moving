@@ -2,7 +2,8 @@
 #C 1. Period-21 "Doo-Dah" tagalong by John Winston Garth, 6 Dec 2020
 #C 2. Period-42 spaceships by "GUYTU6J", 7 Dec 2020
 #C 3. Period-42 spaceships by "praosylen", 7 Dec 2020
-x = 207, y = 154, rule = B3/S23
+#C 4. Period-42 spaceship by "EvinZL", 6 Jun 2021
+x = 207, y = 214, rule = B3/S23
 30bo12bo$30bo12bo$29bobo10bobo$30bo12bo$30bo12bo$31bo3b4o3bo$35b4o$31b
 4o4b4o$2bo$33bo6bo$2bo31b2o2b2o2$2bo2$2bo2$2bo29b2o6b2o$31bob2o4b2obo$
 31bo2bo4bo2bo$32b3o4b3o$32b2o6b2o2$29bo14bo$29bo14bo$30bo12bo$30b2o10b
@@ -41,4 +42,9 @@ o61bo4bo$4bo19bo6bo59bo4bo$25b6o$obobo20bo4bo12bo6bo58bo6bo$42b3o4b3o
 6b2o55bo3bo2bo3bo$24bob4obo56bo2bo4bo2bo$25b6o58bobo4bobo$38b2o14bo49b
 2o14bo$20bo4bob2obo4bo4bo12bobo47bo2bo12bobo$20bo5b4o5b2o4bo10bo2bo30b
 2o12b2obo3bo10bo2bo$20bo6b2o6b4obo12bo32b3o10b3o2bobo12bo$86b3o10b3o$
-22bo10bo52bo14bo$21b2o10b2o52bo12bo!
+22bo10bo52bo14bo$21b2o10b2o52bo12bo29$21bo12bo$21bo12bo$20bobo10bobo$o
+3bo16bo12bo$21bo12bo$o3bo17bo3b4o3bo$26b4o$obobo17b4o4b4o2$4bo19bo6bo$
+25b2o2b2o$4bo5$23b2o6b2o$22bob2o4b2obo$22bo2bo4bo2bo$23b3o4b3o$23b2o6b
+2o$40bo12bo$20bo14bo4bo12bo$20bo14bo3bobo10bobo$21bo12bo5bo12bo$21b2o
+10b2o5bo12bo$20bo14bo5bo3b4o3bo$21b2o10b2o10b4o$41b4o4b4o2$43bo6bo$44b
+2o2b2o!
