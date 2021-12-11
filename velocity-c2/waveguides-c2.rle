@@ -10,7 +10,9 @@
 #C 6. Hartmut Holzwart, 20 Oct 2016
 #C 7. Hartmut Holzwart, 12 Dec 2020
 #C 8. Hartmut Holzwart, 11 Jan 2021
-x = 190, y = 674, rule = B3/S23
+#C 9. Hartmut Holzwart, 2 Feb 2021
+#C    Support for only one side of this wave is known
+x = 190, y = 789, rule = B3/S23
 84bobo$83bo2bo$82b2o$81bo$80b4o$79bo4bo$38bobo38bo2bo$37bo2bo38bo2bo$
 36b2o42bo$35bo45b4obo$34b4o44bo3bo$33bo4bo44bo$33bo2bo46bobo$33bo2bo$
 34bo47b3o$35b4obo41b2o$36bo3bo41b3o$37bo$37bobo43bobo$82bo2bo$36b3o43b
@@ -97,4 +99,18 @@ $33b2o2bobo$obobo29b2obo2bo$35bob2o$o3bo31b2o3bo$36b2ob3o$obobo31bo2b
 obob2o$34bo2bobobo$33b2o2bobo$34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36b
 o2b3o$34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$
 35bobob2o$34bo2bobobo$33b2o2bobo$34b2obobobo$35bobobobo$36bo4bo$36b2o$
-40bo2$33b5o$33bo4bo$33bo$34bo3bo!
+40bo2$33b5o$33bo4bo$33bo$34bo3bo27$42b2o$41b2ob3o$42b5o$43b5o$46bobo$
+46bo$46b2obo$44b2o3bo$43b3o2bo$42b2o11b6o$43bo5bo5bo5bo$44b4obo5bo$56b
+o4bo$46b3o11bo$46bo$46bo12b3o$44bob3o5b2o4bo$42bo4bo5b2ob3ob2o$41bo4bo
+7b4o2bo$41bo4bo8b2o$41b5o11bo2bo$58bobo$46bo11b2o$47b2o9bo$48bo9bo$51b
+obo2bo$46b8o$45b2o8b2o$44b2o2b9o$45bobobo7bo$obobo41bo3b2o3b3o$47bo2b
+3o3bo$o3bo43b2obo2bo$47bobo3b3o$obobo39b4obob3obo$43b2o8b2o$4bo37b2o2b
+9o$43bobobo7bo$obobo39bo3b2o3b3o$45bo2b3o3bo$46b2obo2bo$45bobo3b3o$42b
+4obob3obo$41b2o8b2o$40b2o2b9o$41bobobo7bo$42bo3b2o3b3o$43bo2b3o3bo$44b
+2obo2bo$43bobo3b3o$40b4obob3obo$39b2o8b2o$38b2o2b9o$39bobobo7bo$40bo3b
+2o3b3o$41bo2b3o3bo$42b2obo2bo$41bobo3b3o$38b4obob3obo$37b2o8b2o$36b2o
+2b9o$37bobobo7bo$38bo3b2o3b3o$39bo2b3o3bo$40b2obo2bo$39bobo3b3o$36b4ob
+ob3obo$35b2o8b2o$34b2o2b9o$35bobobo7bo$36bo3b2o3b3o$37bo2b3o3bo$38b2ob
+o2bo$37bobo3b3o$34b4obob3obo$33b2o8b2o$32b2o2b9o$33bobobo7bo$34bo3b2o
+3b3o$35bo2b3o3bo$36b2obo2bo$35bobo3b3o$32b4obob3obo$31b2o8b2o$30b2o2b
+9o$31bobobo7bo$32bo3b2o3b3o$33bo2b3o2bo$34b2o4b3o!
