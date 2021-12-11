@@ -9,7 +9,8 @@
 #C 9. Matthias Merzenich, 16 Sep 2016
 #C 10. Matthias Merzenich, 20 Dec 2016
 #C 11. Matthias Merzenich, 13 Jun 2017
-x = 519, y = 504, rule = B3/S23
+#C 12. Hartmut Holzwart, 23 Feb 2021
+x = 519, y = 535, rule = B3/S23
 23bo93bobobo88bo3bo145bobobo95bobobo2$23bo97bo88bo3bo145bo103bo2$23bo
 93bobobo88bobobo145bobobo99bo2$23bo93bo96bo149bo99bo2$23bo93bobobo92bo
 145bobobo99bo12$23bo11bo17bo11bo54bo9bo14bo9bo60b2o23bo9bo20bo8bo22bo
@@ -557,4 +558,11 @@ o16b2o3bo3bo3b2o19bobobobo$357bo3bo23bobo3bobo21b2o30bo3bo23bobo3bobo
 bo20b4obobob4o$416b2o56bo9bo17bo5bobo5bo$474bo2bo3bo2bo17b5obobob5o$
 476bo5bo18bo2bobobobobobo2bo$503bo2bobobobo2bo$504bobobobobobo$506bobo
 bobo$502b2o2bobobobo2b2o$501bobob2obobob2obobo$506bobobobo$501bo4bobob
-obo4bo$501b2obo3bobo3bob2o$501bo6bobo6bo$501bo5b2ob2o5bo!
+obo4bo$501b2obo3bobo3bob2o$501bo6bobo6bo$501bo5b2ob2o5bo7$o3bobobo17b
+3o27b3o$21b2ob2obo23b2ob2obo$o7bo12b2o4bob2o20b2o4bob2o$20bo2bo3bobobo
+18bo2bo3bobobo$o3bobobo18bobob3o23bobob3o$25bo3bo3bob3o17bo3bo3bob3o$o
+3bo21bo7bobobo17bo7bobobo$28bo3b2o3bo20bo3b2o3bo$o3bobobo20b2ob2o25b2o
+b2o$32bo29bo2$36bo29bo$26b3o2b2o3b2o18b3o2b2o3b2o$25bo2bo2bo5b2o16bo2b
+o2bo5b2o$25bo2bo2bo3b2o18bo2bo2bo3b2o$35bo29bo$27bo3bo3bo21bo3bo3bo$
+27b2ob5o22b2ob5o$28bobo2bobo22bobo2bobo$28bo7b3o19bo7b3o$24b6o6b3o15b
+6o6b3o$24b2o13bo14b2o13bo$38bo22bobo4bo$60bobo$60bobo!
