@@ -1,12 +1,12 @@
 #C higher-period c/5 orthogonal spaceships
-#C p10.1 by Paul Tooke, Nov 2004
+#C p10.1 by Paul Tooke, 30 Nov 2004
 #C p10.2 by "Bullet51", 6 Oct 2015
 #C p10.3 by Matthias Merzenich, 31 Aug 2016
 #C p10.4 glide-symmetric variant of p10.3 noticed by Adam P. Goucher
-#C p15 by Noam Elkies, Dec 1997 (This originally used
+#C p15 by Noam Elkies, 15 Dec 1997 (This originally used
 #C   a larger spaceship found by Tim Coe; shown here
 #C   with a spaceship by Paul Tooke.)
-#C p30 by David Bell, May 1998
+#C p30 by David Bell, 30 May 1998
 x = 327, y = 234, rule = B3/S23
 60bo3bobobo$185bo3bobobo92bobobo2bobobo$60bo3bo3bo$185bo3bo100bo2bo3bo
 $60bo3bo3bo$185bo3bobobo92bobobo2bo3bo$60bo3bo3bo$185bo7bo96bo2bo3bo$
