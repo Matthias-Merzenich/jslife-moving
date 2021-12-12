@@ -1,0 +1,19 @@
+#C A c/5 diagonal component that eats a barberpole wick.
+#C Adam P. Goucher, 7 Aug 2021
+x = 114, y = 159, rule = B3/S23
+2o$obo2$2bobo2$4bobo2$6bobo2$8bobo2$10bobo2$12bobo2$14bobo2$16bobo2$
+18bobo2$20bobo2$22bobo2$24bobo2$26bobo2$28bobo2$30bobo2$32bobo2$34bobo
+2$36bobo2$38bobo2$40bobo2$42bobo2$44bobo2$46bobo2$48bobo2$50bobo$60b2o
+$52bobo3b2obo$61b2o$54bobo3b3o$57bo4bo$56b2ob2o$58b3o$56b2o4bo$56b2o3b
+2o$55bobo3b3o$55bob2o3bo$56b4ob2o$57b2obobo$58bobob3o$63bo2bo$58b3o2bo
+3bo$59b2o2b2obo$64bo$62b3o$62b3o$65bobo$61b2o$61b3o$63bob2o$65b2o$61b
+2o$61b2o2b2o$60bo2bo2bo$60b4ob2o$62bobo2$60bobo$59bo3bo$58b2ob4o$61bob
+6o$64b2o4bo$61b2o7bo$61b2o2b2o$61b2o2b2o$67b2o2bo$65bo3b2o2$65b2obo$
+66bo2b2o$66bo4bo$70b2o$66bob4o$66bo2b2o$66bo4bo$67b2obo2$68b3o$66b2ob
+3o$65b2o4bo$65bobob2o$70bobo$65bo4bobo$64bobo2b3o$64bo2bo2bo2$66b2o$
+68bobo$67b2ob2o$68bob2o$71b2obo$71bo2bo4bo$71bo2b2ob4o$70b3o3bo4bo$71b
+2o2bo2b2o3bo$72bob4o2b2obo$72b2ob2obo$73bobo2b3o$75b2obo2bo$74b3o4bob
+2o$75b2o3b2o2$81bob2o$80bo4bo$79b2o2b3o$82bo2bo$82b3o$83b2o$86b2obo$
+89b4o$86bo2b3o$87bo$88bo2$89b2o$89b3o$90bobo$91bo$91b3o$93b3o$94b2o$
+94b2obo$97b3o3bo$97b2obobobo$102bobo$95b3o5bo$95bo7b2o$96b2o5bo5bo$
+102bo3b3o2bo$103bo2bo4bo$109b2ob2o$111bo$112b2o!
