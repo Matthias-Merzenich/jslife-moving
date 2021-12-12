@@ -1,7 +1,7 @@
 #C A period-3960 rake that works by perturbing a reaction
 #C between a block and a glider using 23 spiders.
 #C This was the first c/5 orthogonal rake to be constructed.
-#C David Bell, 9 Sep 1997
+#C David Bell, 8 Sep 1997
 x = 910, y = 852, rule = B3/S23
 49bo3b3o5b3o3bo404bo3b3o5b3o3bo$46b2ob5ob2o3b2ob5ob2o398b2ob5ob2o3b2ob
 5ob2o$44bob2obo5bobobobo5bob2obo394bob2obo5bobobobo5bob2obo$43bo3bobo
