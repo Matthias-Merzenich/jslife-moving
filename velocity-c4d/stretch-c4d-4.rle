@@ -1,12 +1,34 @@
-#C A wave stretches a series of closely-spaced tubs.
+#C A wave stretches a series of closely spaced tubs.
 #C By Hartmut Holzwart, 14 Aug 2016
-x = 43, y = 50, rule = B3/S23
+#C Multi-tub eater by Hartmut Holzwart, 29 Jul 2021
+x = 76, y = 91, rule = B3/S23
 18b2o$18bobo$18bo$21bo3bobo$21b3obo2bo$11b2o7bobobo2bo2b3o$10b2o7b2obo
-4bo2b2o$12bo13bo5bobo5b2o$14b2o3bo3bo10bo5bobo$14b2o2bo15bob3o$9b2o6b
-2o3bo9b2o3b4o$8b2o7b2o3bobo7b2o3bob2o$10bo12bobo10bo$12b2o3bo2bo3bo8b
-2o$12b2o2bo16bo$7b2o6b2o3bo13bo$6b2o7b2o3bobo$8bo12bobo$10b2o3bo2bo3bo
-$10b2o2bo$5b2o6b2o3bo$4b2o7b2o3bobo$6bo12bobo$8b2o3bo2bo3bo$8b2o2bo$3b
-2o6b2o3bo$2b2o7b2o3bobo$4bo12bobo$6b2o3bo2bo3bo$6b2o2bo$b2o6b2o3bo$2o
-7b2o3bobo$2bo12bobo$4b2o3bo2bo3bo$4b2o2bo$7b2o3bo$7b2o2$7bo2b2o$7bo9b
-2o$7bo3bo5bobo$8bo3bo4bo$7bo3bo8bo$8bo10bobo$6b2o3bo7bobo$19bo$7bo3bo
-7bo$8b3o3b2o3bo$10bo2b2o4bo$14bo3bo!
+4bo2b2o$12bo13bo5bobo5b2o23b2o6b2o$14b2o3bo3bo10bo5bobo22bobo3b3obo$
+14b2o2bo15bob3o26bo4b2o$9b2o6b2o3bo9b2o3b4o25b2o$8b2o7b2o3bobo7b2o3bob
+2o18b3o4bo4bo$10bo12bobo10bo22bo2b3o5bo$12b2o3bo2bo3bobo6b2o25bobo5bo$
+12b2o2bo8bobo5bo28b5o$7b2o6b2o3bo5bobo5bo20b2o6b2o$6b2o7b2o3bobo4bobo
+24b2o2b2obo$8bo12bobo4bobo25bo2bobo$10b2o3bo2bo3bobo4bobo26b2o3bo$10b
+2o2bo8bobo4bobo20bo3bo2b2obo$5b2o6b2o3bo5bobo4bobo18b2o8bo$4b2o7b2o3bo
+bo4bobo4bobo17bobo2bobo$6bo12bobo4bobo4bobo22bobo$8b2o3bo2bo3bobo4bobo
+4bobo18b4obo$8b2o2bo8bobo4bobo4bobo16b3o$3b2o6b2o3bo5bobo4bobo4bobo15b
+o4bo$2b2o7b2o3bobo4bobo4bobo4bobo16bo$4bo12bobo4bobo4bobo4bobo11b2o4bo
+$6b2o3bo2bo3bobo4bobo4bobo4bobo10b2ob2o$6b2o2bo8bobo4bobo4bobo4bobo10b
+o6b3o$b2o6b2o3bo5bobo4bobo4bobo4bobo10bo5bo$2o7b2o3bobo4bobo4bobo4bobo
+4bobo10bo6bo$2bo12bobo4bobo4bobo4bobo4bobo11b2o$4b2o3bo2bo3bobo4bobo4b
+obo4bobo4bobo5bob2ob2obo$4b2o2bo8bobo4bobo4bobo4bobo4bobo2b2o2bo4bo$7b
+2o3bo5bobo4bobo4bobo4bobo4b3ob2obo$7b2o10bobo4bobo4bobo4bobo7bob2ob2o$
+20bobo4bobo4bobo4bobo4b3o4bo$7bo2b2o9bobo4bobo4bobo4bobo4b2o4bo6b3o$7b
+o9b2o3bobo4bobo4bobo4bobo10bo5bo$7bo3bo5bobo3bobo4bobo4bobo4bobo10bo6b
+o$8bo3bo4bo6bobo4bobo4bobo4bobo11b2o$7bo3bo8bo4bobo4bobo4bobo4bobo5bob
+2ob2obo$8bo10bobo4bobo4bobo4bobo4bobo2b2o2bo4bo$6b2o3bo7bobo5bobo4bobo
+4bobo4b3ob2obo$19bo8bobo4bobo4bobo7bob2ob2o$7bo3bo7bo9bobo4bobo4bobo4b
+3o4bo$8b3o3b2o3bo10bobo4bobo4bobo4b2o4bo6b3o$10bo2b2o4bo11bobo4bobo4bo
+bo10bo5bo$14bo3bo13bobo4bobo4bobo10bo6bo$33bobo4bobo4bobo11b2o$34bobo
+4bobo4bobo5bob2ob2obo$35bobo4bobo4bobo2b2o2bo4bo$36bobo4bobo4b3ob2obo$
+37bobo4bobo7bob2ob2o$38bobo4bobo4b3o4bo$39bobo4bobo4b2o4bo6b3o$40bobo
+4bobo10bo5bo$41bobo4bobo10bo6bo$42bobo4bobo11b2o$43bobo4bobo5bob2ob2ob
+o$44bobo4bobo2b2o2bo4bo$45bobo4b3ob2obo$46bobo7bob2ob2o$47bobo4b3o4bo$
+48bobo4b2o4bo6b3o$49bobo10bo5bo$50bobo10bo6bo$51bobo11b2o$52bobo5bob2o
+b2obo$53bobo2b2o2bo4bo$54b3ob2obo$58bob2ob2o$56b3o4bo5bo$57b2o4bo4b2o$
+64bo3bobo$65bo$67bo3b2o$63b2ob2o3b2o$63bobo$65bob2obo$64b2ob2o$66bo$
+68bo$66b4o$67b2o$66b3o5bo$73b2o$68bobo2bobo$69b2ob2o$69bo4bo!
