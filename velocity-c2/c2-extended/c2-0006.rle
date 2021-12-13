@@ -31,7 +31,8 @@
 #C 7   JB    Mar 2010
 #C 8.1 MM  4 Feb 2012
 #C 8.2 AW 25 Mar 2020
-x = 361, y = 651, rule = B3/S23
+#C 8.3 HH  3 Dec 2021
+x = 361, y = 659, rule = B3/S23
 268bo$265b4o$34bobo228b3o$33bo2bo193bo32bo3bo$32b2o193b4o32b4o3b2o$31b
 o195b2o33bo3b4o$30b4o99bobo5bobo81bo3b2o30b3o6b3o$29bo4bo97bo2bob2obo
 2bo42bobo36b4obo29bo5b3obo$29bo2bo46bo51b2o7bo44bo2bo33bobo34b3o4bo3b
@@ -348,11 +349,17 @@ o4bo$27bo5bo3b2o10b2o15b2ob4o3b4o2bo131b2o$27bo3bo4b2o9b2o3b4o9bo3b2o
 4b2o3bobo132bo2bo$28bo3b3ob2o9b3obo12b2o5b2o4bo138bobo$29b2o7b2obo3bo
 3bo3b2o4b2o2b2o2bo3bo2bo$32b6ob2o2b4ob2o3b2ob2o4b2o7bo9bo$33bo7bo6b3o
 4b4o3b5ob4ob4o$34b2o6bobo5bo5b3obo2bo5b2o6b2o3bo$35bo2bo5bobo14b2o$36b
-obo6bo33bobo23$32bobo$31bo2bo$30b2o$29bo$28b4o$27bo4bo$27bo2bo38bo$27b
-o2bo35b4o$28bo37b2o$29b4o31bo$36bo27b6o$29bobo2b2obo23bobo$obobo23b2o
-4bo25b7obo$29b2o28b2o7bo$o3bo25b7o21b2o4b2o4bo8bo$31bobo25bobo2bo5bo2b
-o3b3o$obobo28bo2bo30bo2bo2bo2b2o$31bobo25b4o2b2o4bo4bo$o3bo25b7o21bo7b
-2o4b4o2bo$29b2o26bo2bo6b2o6b3o3bobo$obobo23b2o4bo22bo2bo7b5o7b3obo$29b
-obo2b2obo19bo4bo6bobo3b5o3bo$36bo21b4o10b4o3b2o$29b4o26bo12bo3bo$28bo
-31b2o12b3o$27bo2bo30bo2bo9b4o$27bo2bo31bobo12bo$27bo4bo$28b4o$29bo$30b
-2o$31bo2bo$32bobo!
+obo6bo33bobo15$108bobo$107bo2bo$106b2o$105bo$104b4o$103bo4bo$103bo2bo$
+103bo2bo$32bobo69bo$31bo2bo70b4obo$30b2o74bo3bo$29bo77bo$28b4o75bobo$
+27bo4bo$27bo2bo38bo36b3o$27bo2bo35b4o36b2o$28bo37b2o38b3o8bobo$29b4o
+31bo49b4obo4bobobo$36bo27b6o37bobo4b2o3bo2bo3bobo$29bobo2b2obo23bobo
+42bo2bo2bo3b2o4b2ob2o$obobo23b2o4bo25b7obo37bo5b4obobo3b2o$29b2o28b2o
+7bo37bo3bo8bo$o3bo25b7o21b2o4b2o4bo8bo27bo3b3o5b2o2b2o$31bobo25bobo2bo
+5bo2bo3b3o28b2o4bo5b3o2bo$obobo28bo2bo30bo2bo2bo2b2o33b2o11bo$31bobo
+25b4o2b2o4bo4bo31b2o4bo5b3o2bo$o3bo25b7o21bo7b2o4b4o2bo28bo3b3o5b2o2b
+2o$29b2o26bo2bo6b2o6b3o3bobo22bo3bo8bo$obobo23b2o4bo22bo2bo7b5o7b3obo
+21bo5b4obobo3b2o$29bobo2b2obo19bo4bo6bobo3b5o3bo22bo2bo2bo3b2o4b2ob2o$
+36bo21b4o10b4o3b2o26bobo4b2o3bo2bo3bobo$29b4o26bo12bo3bo37b4obo4bobobo
+$28bo31b2o12b3o29b3o8bobo$27bo2bo30bo2bo9b4o28b2o$27bo2bo31bobo12bo28b
+3o$27bo4bo$28b4o75bobo$29bo77bo$30b2o74bo3bo$31bo2bo70b4obo$32bobo69bo
+$103bo2bo$103bo2bo$103bo4bo$104b4o$105bo$106b2o$107bo2bo$108bobo!
