@@ -1,18 +1,19 @@
-#C 1. Dean Hickerson, 1989
-#C 2. Found before Sep 1995
-#C 3. David Bell, 7 Jun 1992 (reduced 21 Jul 1992)
-#C 4. A. Found before Sep 1995
-#C    B. Found before Sep 1995
-#C    C. ??
-#C    D. Jason Summers, 14 Apr 1999
-#C    E. Jason Summers, 27 Sep 1999
-#C 5. Hartmut Holzwart, 29 Jul 2005
-#C 6. Hartmut Holzwart, 20 Oct 2016
-#C 7. Hartmut Holzwart, 12 Dec 2020
-#C 8. Hartmut Holzwart, 11 Jan 2021
-#C 9. Hartmut Holzwart, 2 Feb 2021
-#C    Support for only one side of this wave is known
-x = 190, y = 789, rule = B3/S23
+#C  1. Dean Hickerson, 1989
+#C  2. Found before Sep 1995
+#C  3. David Bell, 7 Jun 1992 (reduced 21 Jul 1992)
+#C  4. A. Found before Sep 1995
+#C     B. Found before Sep 1995
+#C     C. ??
+#C     D. Jason Summers, 14 Apr 1999
+#C     E. Jason Summers, 27 Sep 1999
+#C  5. Hartmut Holzwart, 29 Jul 2005
+#C  6. Hartmut Holzwart, 20 Oct 2016
+#C  7. Hartmut Holzwart, 12 Dec 2020
+#C  8. Hartmut Holzwart, 11 Jan 2021
+#C  9. "mystical", 24 Aug 2021
+#C 10. Hartmut Holzwart, 2 Feb 2021
+#C     Support for only one side of this wave is known
+x = 190, y = 731, rule = B3/S23
 84bobo$83bo2bo$82b2o$81bo$80b4o$79bo4bo$38bobo38bo2bo$37bo2bo38bo2bo$
 36b2o42bo$35bo45b4obo$34b4o44bo3bo$33bo4bo44bo$33bo2bo46bobo$33bo2bo$
 34bo47b3o$35b4obo41b2o$36bo3bo41b3o$37bo$37bobo43bobo$82bo2bo$36b3o43b
@@ -71,41 +72,54 @@ o2b2o3b3o2b2ob8o$30b2o3bo4b7o10bo2bo2b2o4bo3bob2o6b2o7b2o$31b2o6b2o15b
 108b2o$108b8o$112b2o$112b8o$116b2o$116b8o$120b2o$120b8o$124b2o$124b8o$
 128b2o$128b8o$132b2o$132b8o$136b2o$136b8o$140b2o$140b8o$144b2o$144b8o$
 148b2o$148b8o$152b2o$152b8o$156b2o$156b8o$160b2o$160b8o$164b2o$164b8o$
-168b2o$168b8o$172b2o$172b8o$176b2o$176b6o$180b2o$180bo6$43bo$41bo3bo$
-40bo$40bo4bo$40b5o4$38b11o$38bo10bo$38bo$39bo9bo$41b2o3bo$42b2o$39bobo
-$37b3ob2o$36bo7bobo$35b2ob2ob5o$36b2obobobobo$37bobobo$38b2obo$41bo2bo
-$40bo$40bo$41bo2bo$38b2obo$37bobobo$36b2obobobobo$37b2o2bobobo$38bo2bo
-2bo$40b2o$40b2o$38bo2bo2bo$37b2o2bobobo$obobo31b2obobobobo$37bobobo$o
-37b2obo$41bo2bo$obobo35bo$40bo$o3bo36bo2bo$38b2obo$obobo32bobobo$36b2o
-bobobobo$37b2o2bobobo$38bo2bo2bo$40b2o$40b2o$38bo2bo2bo$37b2o2bobobo$
-36b2obobobobo$37bobobo$38b2obo$41bo2bo$40bo$40bo$41bo2bo$38b2obo$37bob
-obo$36b2obobobobo$35b2ob2ob5o$36bo7bobo$37b3ob2o$39bobo$42b2o$41b2o3bo
-$39bo9bo$38bo$38bo10bo$38b11o4$40b5o$40bo4bo$40bo$41bo3bo$43bo17$50bo$
-49bob2obo$31b2o9bo4b2o3bobo$30b2ob2o5b3o8bo$31b4o3b2o6bo$32b2o3b3o3bob
-2o3bo$36bo7bo2bobo$37bobobo2bo$37bob2o$38bo$36b2o$35bo2bo$35bo3bo$35bo
-4bo$36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$
-36bo$37bo$38b2o$38bo$40bo$37bo2bo$obobo31b2o$35bo2bo$4bo30bo3bo$35bo4b
-o$4bo31bo$37bo$4bo33b2o$38bo$4bo35bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35b
-o4bo$36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$
-36bo$37bo$38b2o$38bo$40bo$37bo2bo$36b2o$35bo2bo$35bo3bo$35bo4bo$36bo$
-37bo3bo$41bo$37b2o$36b2o2b2o2b2ob2o$37b2obob2o4bo$31b2o7bo2b3o$30b2ob
-2o6bo2bo2b2o$31b4o6bobo4b2obobo$32b2o15bo3bo$53bo17$33b5o$33bo4bo$33bo
-$34bo3bo$38bo$37b2o$35b2o2bo2bo$36bobob3o$34bobobo2bo$33b2obobob2o$34b
-2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35bobob2o$34bo2bobobo$33b2o2bobo$
-34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36bo2b3o$34bobobobo$33b2obobob2o$
-34b2o2bo$35bo2bo$37b2o$37b2o2bo$obobo32bob3o$35bobob2o$o3bo29bo2bobobo
-$33b2o2bobo$obobo29b2obo2bo$35bob2o$o3bo31b2o3bo$36b2ob3o$obobo31bo2b
-3o$34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$35b
-obob2o$34bo2bobobo$33b2o2bobo$34b2obo2bo$35bob2o$36b2o3bo$36b2ob3o$36b
-o2b3o$34bobobobo$33b2obobob2o$34b2o2bo$35bo2bo$37b2o$37b2o2bo$37bob3o$
-35bobob2o$34bo2bobobo$33b2o2bobo$34b2obobobo$35bobobobo$36bo4bo$36b2o$
-40bo2$33b5o$33bo4bo$33bo$34bo3bo27$42b2o$41b2ob3o$42b5o$43b5o$46bobo$
-46bo$46b2obo$44b2o3bo$43b3o2bo$42b2o11b6o$43bo5bo5bo5bo$44b4obo5bo$56b
-o4bo$46b3o11bo$46bo$46bo12b3o$44bob3o5b2o4bo$42bo4bo5b2ob3ob2o$41bo4bo
-7b4o2bo$41bo4bo8b2o$41b5o11bo2bo$58bobo$46bo11b2o$47b2o9bo$48bo9bo$51b
-obo2bo$46b8o$45b2o8b2o$44b2o2b9o$45bobobo7bo$obobo41bo3b2o3b3o$47bo2b
-3o3bo$o3bo43b2obo2bo$47bobo3b3o$obobo39b4obob3obo$43b2o8b2o$4bo37b2o2b
-9o$43bobobo7bo$obobo39bo3b2o3b3o$45bo2b3o3bo$46b2obo2bo$45bobo3b3o$42b
+168b2o$168b8o$172b2o$172b8o$176b2o$176b6o$180b2o$180bo6$33bo$31bo3bo$
+30bo68bo$30bo4bo62bob2obo41b5o$30b5o45b2o9bo4b2o3bobo41bo4bo$79b2ob2o
+5b3o8bo44bo$80b4o3b2o6bo50bo3bo$81b2o3b3o3bob2o3bo50bo$28b11o46bo7bo2b
+obo50b2o$28bo10bo46bobobo2bo53b2o2bo2bo$28bo57bob2o58bobob3o$29bo9bo
+47bo58bobobo2bo$31b2o3bo48b2o58b2obobob2o$32b2o50bo2bo58b2o2bo$29bobo
+52bo3bo58bo2bo$27b3ob2o51bo4bo59b2o$26bo7bobo48bo63b2o2bo$25b2ob2ob5o
+50bo62bob3o$26b2obobobobo51b2o58bobob2o$27bobobo55bo58bo2bobobo$28b2ob
+o57bo55b2o2bobo$31bo2bo51bo2bo56b2obo2bo$30bo54b2o60bob2o$30bo53bo2bo
+60b2o3bo$31bo2bo49bo3bo59b2ob3o$28b2obo52bo4bo58bo2b3o$27bobobo53bo60b
+obobobo$26b2obobobobo50bo58b2obobob2o$27b2o2bobobo51b2o57b2o2bo$28bo2b
+o2bo52bo59bo2bo$30b2o57bo59b2o$30b2o54bo2bo59b2o2bo$28bo2bo2bo50b2o62b
+ob3o$27b2o2bobobo48bo2bo59bobob2o$obobo21b2obobobobo30bobobo13bo3bo39b
+obobo13bo2bobobo$27bobobo52bo4bo55b2o2bobo$o27b2obo38bo14bo42bo3bo13b
+2obo2bo$31bo2bo51bo60bob2o$obobo25bo39bo16b2o39bobobo15b2o3bo$30bo56bo
+60b2ob3o$o3bo26bo2bo35bo18bo38bo3bo15bo2b3o$28b2obo54bo2bo56bobobobo$o
+bobo22bobobo38bo14b2o41bobobo12b2obobob2o$26b2obobobobo48bo2bo58b2o2bo
+$27b2o2bobobo48bo3bo58bo2bo$28bo2bo2bo49bo4bo59b2o$30b2o53bo63b2o2bo$
+30b2o54bo62bob3o$28bo2bo2bo52b2o58bobob2o$27b2o2bobobo51bo58bo2bobobo$
+26b2obobobobo53bo55b2o2bobo$27bobobo54bo2bo56b2obo2bo$28b2obo53b2o60bo
+b2o$31bo2bo49bo2bo60b2o3bo$30bo53bo3bo59b2ob3o$30bo53bo4bo58bo2b3o$31b
+o2bo50bo60bobobobo$28b2obo54bo58b2obobob2o$27bobobo55b2o57b2o2bo$26b2o
+bobobobo51bo59bo2bo$25b2ob2ob5o53bo59b2o$26bo7bobo49bo2bo59b2o2bo$27b
+3ob2o52b2o62bob3o$29bobo52bo2bo59bobob2o$32b2o50bo3bo57bo2bobobo$31b2o
+3bo47bo4bo55b2o2bobo$29bo9bo45bo60b2obobobo$28bo57bo3bo56bobobobo$28bo
+10bo50bo57bo4bo$28b11o47b2o60b2o$85b2o2b2o2b2ob2o54bo$86b2obob2o4bo$
+80b2o7bo2b3o50b5o$30b5o44b2ob2o6bo2bo2b2o47bo4bo$30bo4bo44b4o6bobo4b2o
+bobo42bo$30bo50b2o15bo3bo43bo3bo$31bo3bo66bo$33bo29$44b2o$39bo3b3o$38b
+2o2b2ob2o$37b2ob2o2bo$38bob3o$39bo$33b2o6b2o$32bo7b2o$31b2o2bo3b3o3bo$
+35bo5bo3bo$29b2ob2o2bob2o2b2o$29bo6b2o2b3o$29bo6bo4bo$30b2o4bo5b2o$31b
+2o2bo$31b3ob2o$29bobo3b2o$27bo4b4o$26bo5bob2o$26bo9bo$26b7o2$30bo$28b
+4o$27b2obo4b4o$26b2obobob2o4bo$27bobob3o$28b2ob2obo4bo$30bo$30bo$28b2o
+b2obo4bo$27bobob3o$26b2obobob2o4bo$27b2obo4b4o$28b4o$31bo$31bo$28b4o$
+27b2obo4b4o$26b2obobob2o4bo$27bobob3o$28b2ob2obo4bo$30bo$30bo$obobo23b
+2ob2obo4bo$27bobob3o$o3bo21b2obobob2o4bo$27b2obo4b4o$obobo23b4o$31bo$
+4bo26bo$28b4o$obobo22b2obo4b4o$26b2obobob2o4bo$27bobob3o$28b2ob2obo4bo
+$30bo$30bo$28b2ob2obo4bo$27bobob3o$26b2obobob2o4bo$27b2obo4b4o$28b4o$
+31bo$31bo$28b4o$27b2obo4b4o$26b2obobob2o4bo$27bobob3o$28b2ob2obo4bo$
+30bo$30bo$28b2ob2obo4bo$27bobob3o$26b2obobob2o4bo$27b2obo4b4o$28b4o$
+30bo2$26b7o$26bo9bo$26bo5bob2o$27bo4b4o$29bobo3b2o$31b3ob2o$31b2o2bo$
+30b2o4bo5b2o$29bo6bo4bo$29bo6b2o2b3o$29b2ob2o2bob2o2b2o$35bo5bo3bo$31b
+2o2bo3b3o3bo$32bo7b2o$33b2o6b2o$39bo$38bob3o$37b2ob2o2bo$38b2o2b2ob2o$
+39bo3b3o$44b2o21$42b2o$41b2ob3o$42b5o$43b5o$46bobo$46bo$46b2obo$44b2o
+3bo$43b3o2bo$42b2o11b6o$43bo5bo5bo5bo$44b4obo5bo$56bo4bo$46b3o11bo$46b
+o$46bo12b3o$44bob3o5b2o4bo$42bo4bo5b2ob3ob2o$41bo4bo7b4o2bo$41bo4bo8b
+2o$41b5o11bo2bo$58bobo$46bo11b2o$47b2o9bo$48bo9bo$51bobo2bo$46b8o$45b
+2o8b2o$44b2o2b9o$45bobobo7bo$o3bobobo37bo3b2o3b3o$47bo2b3o3bo$o3bo3bo
+39b2obo2bo$47bobo3b3o$o3bo3bo35b4obob3obo$43b2o8b2o$o3bo3bo33b2o2b9o$
+43bobobo7bo$o3bobobo35bo3b2o3b3o$45bo2b3o3bo$46b2obo2bo$45bobo3b3o$42b
 4obob3obo$41b2o8b2o$40b2o2b9o$41bobobo7bo$42bo3b2o3b3o$43bo2b3o3bo$44b
 2obo2bo$43bobo3b3o$40b4obob3obo$39b2o8b2o$38b2o2b9o$39bobobo7bo$40bo3b
 2o3b3o$41bo2b3o3bo$42b2obo2bo$41bobo3b3o$38b4obob3obo$37b2o8b2o$36b2o
