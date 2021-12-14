@@ -1,6 +1,6 @@
 #C A (2,1)c/6 glider reflector with a repeat time of 24 generations
 #C By "cvojan", 10 May 2021
-#C Based on a reaction by "A for Ampere", 9 May 2021
+#C Based on a reaction by "AforAmpere", 9 May 2021
 x = 238, y = 529, rule = B3/S23
 12bobo$13b2o$13bo12$22bobo$23b2o$23bo$10b3o$9bo2b2o3b5o$9bo4bob4o3bo$
 12bo3bo$9bo10bo3bo$9b2obo2bo2b2o4bo$9bo4bo2bo$4bob2o10bo4bo$3b2o5bo3bo
