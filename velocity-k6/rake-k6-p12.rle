@@ -1,0 +1,40 @@
+#C A period-12 (2,1)c/6 rake whose output gliders travel southeast
+#C This was the first (2,1)c/6 rake to be found.
+#C Adam P. Goucher, 10 May 2021
+x = 102, y = 204, rule = B3/S23
+10b3o$9bo2b2o3b5o$9bo4bob4o3bo$12bo3bo$9bo10bo3bo$9b2obo2bo2b2o4bo$9bo
+4bo2bo$4bob2o10bo4bo$3b2o5bo3bo5bo$2bo3bo3b2o2bo$b4o3bo5bo$o4b2o2b4o$o
+2b5o$o3b3ob4ob2o$2bo7bobob2o$7b2o3b2o$7b2o3bo2b3o$6bo6bob3o$7bo7b2obo$
+15bobo$14bo2b2o$13bo$12b3o$11bo2bobo$11b3o2b2o$13bo5b2o$17bob2o$18bo2b
+o$18b4o$18b2o2bo$19bo2bo$15b2o2bo$14b2o2bo3bob2o$16bo2b3o2b2o$14bo2bob
+2o2b2o$14bo4bo3b2o$13bo4bo4b3o$14bob2o5b3o$16bo4bo$14b3o4bo$14b2ob3o$
+17b2ob2o$18bob2o$17b3obo2$21b2o$18b4o$18b2obo$17bo3bo$16b2o4bo$16b3o3b
+o$15bo2bo$14b3o3bo$13bo2b2o2bobo$16bob4obo$13bo2b3o2bobo$14bobo5b3o2bo
+$16b3o3bo3b2o$16bo3b3o$17bo9bo$23bo2bobo$19bob3o2b2o$20bo3b2ob2o$27bo
+2bo$27bob3o$26b2o2bo$26b2o2b2obo$26b5o2bo$26b5o$25bobo3b3o$24b3o4bo$
+23b3o5b3o$32bo$22bo3b2obobo$22bo6bobobo$27b2obo2b3o$23b2ob3obobo$24bo
+3bobobo2bo$27b2o4bo$23bo2bo4bobo$24b5ob2obo21b3o$26b2o4b2o20bo2b2o$31b
+2o2bo18bo4bo$29b4o3bo$28b2o5bo18b3o3b2ob3o$31bo20b2obobo4bob2o$33b2o2b
+2o15bo2bo4bo2b2o$32b3ob3o12bo2bo8bo$37bob2o10bo4bo2b2o2bo2bo$36bo2bobo
+10bob3o2b2o3b2o$36b2obo14b2obob2obo3bo$40bo19b2ob3o$36bobob2o18bo5bo$
+35bo2bob2o21b3o2b3o$35bo30bob2o$41bo19b2obo3b3o$34b2obobobo19b2o2bo2b
+2o$36b2ob2o22b4o3bo$37b2o25b2obo2bo$36bo2bo22b2obobobo$37bobo25bo$36bo
+2bo22bo7b2o$35bo4bo22b2o5bo$35bo3b2o23bob2o2bob2o$34bo4bo30bo3bo$34b2o
+3bo23b3o5bo$35bobobob3o$37bob4obobo20b3o3bo$37b3o3b2obo16bo2bo$44bobo
+15b2obo$40bobo20bob2o3b2o$37bo5b2o20b2ob4o$37b2o2bo2bo28b3o$36bo2b2o3b
+o18b2ob2o3bo2bo$38b5obo27bob2o$38b2o2b4o26b2o$40bo4bo$40b2o30b5o$40bo
+2b2o26b5ob2o$40bo2b4o24bo6b2o$41b2obobo25b2o$37b2o6bo28b2o$36b2o7b2o
+22b3o$37b2o35b2ob4o$38bo30bo2b3o2bobo$38b3obo31b2o2b2o$41bobo27bo2bo$
+41bo32bo$45b2o24bo2bo$40b2o2b2obo23b5o$46bo$48bo21b2obo$48b5o17b2ob2o$
+50b2o2bo14bob2obobo$49bo2bo2bo13bo3bobo$49bo2bo16b8o$47b2o8bo11bo7bo$
+49bobo2bob3o10bo2bo3b3o$53b2ob2obo10bo7b2o$55b3obo15b5o$56b3o13bo7bo$
+57bo16bo$59bo14bo2bo3bo$59b2o$58b2obo10b2obo2bobo$62bo9b2obo4b2o$58bob
+obo3bo9bobo$59b2obobob2o7b2obob2o$59b2obobo10b2obobo$62b2o11b2ob2o$62b
+obo10b2o3bo$61b3o11b4obo$60bo14b4obo$64bo14b3o$60b2obo16b2o$60b5o12b4o
+$60b2o14b6o$76bo$65bo15bobo$64bob2o15b3o$63b2obob2o6bo3b2o2b2o$66bo3bo
+3b2obo4bo2bo$65bob4o2bo3bo7bo$69bo2bo3bo6bob3o$69b4o10b5o$70b3ob2obo7b
+o$73b5o7bobobo$72bo3bobo6b2o2b2o$77bo7b2o2bobo$75bo2bo6b2ob2o$74bob2o
+7bo2b5o$74bo14b2o3b2o$75bo9bob2o4b2obo$73b2o11b2o8bo$73b5o8bo4bo3bo$
+74b4o13bo$76bo13b2o2bo$78b3o8b2o$78bobo7b3o$78b3o7b3o$84bo4bobo$83bobo
+4bo$85b2o$81b3o$81b2o3$89bobo$90b2o$90bo5$94bobo$95b2o$95bo5$99bobo$
+100b2o$100bo!
