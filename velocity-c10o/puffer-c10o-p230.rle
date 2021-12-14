@@ -1,0 +1,11 @@
+#C A period-230 c/10 orthogonal puffer
+#C constructed using only three fireships
+#C By Christoph Reinthaler, 11 Sep 2021
+x = 48, y = 79, rule = B3/S23
+16b2o2b2o$16b2o2b2o$15b3o2b3o$15b3o2b3o$b2o2b2o$3b2o10bo6bo$3b2o10bo2b
+2o2bo$obo2bobo8b6o$o6bo2$o6bo10b2o$b2o2b2o10bo2bo$2b4o11b4o21b4o$16b2o
+2b2o$3b2o8bo2bo4bo2bo17bo2bo$2bo2bo10bo4bo19bob2obo$17b4o20bo4bo$bo4bo
+6bo10bo$2o4b2o6bo8bo17bo4bo$bob2obo34b2o2b2o$2b4o12b2o21b6o$3b2o37bo2b
+o$16b3o24b2o$16bo26b2o$17bo$40b2o4b2o$40b2o4b2o$40b2o4b2o2$42bo2bo7$9b
+3o11$14bo$14bo$14bo$28bo$22b2o3bobo$22b2o4b2o2$11b2o$11b2o4$9b3o11$14b
+o$14bo$14bo$28bo$22b2o3bobo$22b2o4b2o2$11b2o$11b2o!

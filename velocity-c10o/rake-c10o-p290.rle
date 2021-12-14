@@ -1,4 +1,4 @@
-#C A period-270 c/10 orthogonal forward rake
+#C A period-290 c/10 orthogonal forward rake
 #C By Christoph Reinthaler, 6 Jan 2021
 x = 200, y = 161, rule = B3/S23
 23b2o2b2o$25b2o$25b2o91b2o2b2o$22bobo2bobo9b4o75b2o2b2o$22bo6bo87b3o2b

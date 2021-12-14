@@ -1,5 +1,5 @@
-#C A period-1800 c/10 orthogonal puffer constructed
-#C using only five fireships
+#C A period-1800 c/10 orthogonal puffer
+#C constructed using only five fireships
 #C By Christoph Reinthaler, 7 Jun 2020
 x = 74, y = 26, rule = B3/S23
 20bo2bo26bo2bo$20bo2bo26bo2bo$19bo4bo24bo4bo$19bo4bo11b2o11bo4bo$19bo
