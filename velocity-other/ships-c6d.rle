@@ -15,6 +15,7 @@
 #C 10. Tagalong by Frank Everdij, 19 Feb 2022
 #C 11. "salp" and "salp 2" by Frank Everdij, Mar 2022
 #C 12. "Bullhead" by Frank Everdij, 29 Apr 2022
+#C     Based on a partial result by Matthias Merzenich, 2011
 x = 944, y = 540, rule = B3/S23
 o11b2o38bobobo9b2o122bobobo$11b3ob3o47b3ob3o$o12bo3b2o37bo10bo3b2o117b
 o$10b2ob2o2bo2bobo41b2ob2o2bo2bobo$o9bo6bob4o29bobobo7bo6bob4o113bobob
