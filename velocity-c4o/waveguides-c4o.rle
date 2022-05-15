@@ -10,7 +10,9 @@
 #C 7. Wave by "Bullet51", 20 Mar 2016
 #C    Waveguides by Tim Coe, 22 Mar 2016
 #C 8. "mystical", 24 Aug 2021
-x = 229, y = 223, rule = B3/S23
+#C 9. Hartmut Holzwart, 4 Apr 2022
+#C    Reductions by Matthias Merzenich, 4 Apr 2022
+x = 229, y = 269, rule = B3/S23
 126bobobo33bobobo33bo3bo2$130bo37bo33bo3bo2$126bobobo33bobobo33bobobo
 2$126bo41bo37bo2$126bobobo33bobobo37bo3$18bo$17b3o$17b2obob2obo$20bob
 2ob2o$26bo103bo$20bo3b4o98b2obo2bo$20bo5b3ob2o92b2obobo2bo$21bo4bo3bob
@@ -82,4 +84,11 @@ bo4b2o2b2o4bobo4b2o2b2o4bobo4b2o3bo$15b3o4b3o68b3o4b3o35bo4bo9bo6bo9bo
 68b2o6bo$25bo66bo$16b2o5b2o68b2o5b2o$22b3o68b3o$26b2o62b2o$15b3o2b2ob
 2o68b2ob2o2b3o$23b3o66b3o$15bo2bo5b2o66b2o5bo2bo$17bo5b2o68b2o5bo$16b
 6obo70bob6o$22bo3bo64bo3bo$20b4ob2o64b2ob4o$22b2o70b2o$22bo72bo$22bo
-72bo2$19b4obo68bob4o$18bob2o2bo68bo2b2obo$18bo80bo!
+72bo2$19b4obo68bob4o$18bob2o2bo68bo2b2obo$18bo80bo33$15b3o86b3o2$obobo
+10bobo86bobo2$o3bo13b2o82b2o$18bobo17bo6bo6bo16bo6bo6bo17bobo$obobo14b
+2obo14bo2bo3bobo3bo2bo14bo2bo3bobo3bo2bo14bob2o$18bo3b2o12b2o2bo2b2ob
+2o2bo2b2o12b2o2bo2b2ob2o2bo2b2o12b2o3bo$4bo21b3o2b3o4bobo2b2ob2o2bobo
+4b3o2b3o4bobo2b2ob2o2bobo4b3o2b3o$19bobo2b2o8b2o3b2o9b2o3b2o8b2o3b2o9b
+2o3b2o8b2o2bobo$obobo15bo6bo4bo6bo3bo3bo3bo6bo4bo6bo3bo3bo3bo6bo4bo6bo
+$42bo5bo24bo5bo$26bob4obo5bo2bo5bo2bo5bob4obo5bo2bo5bo2bo5bob4obo$26bo
+2b2o2bo23bo2b2o2bo23bo2b2o2bo!
