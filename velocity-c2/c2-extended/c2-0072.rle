@@ -1,13 +1,29 @@
-x = 83, y = 94, rule = B3/S23
-23boo$22boob3o$23b5o$24booboo$28bo15b3o$26booboo15bo$27bob5o11bo$23b4o
-3boboo$22b4ob3o$21booboobboo$22boo4bo$28bo$15b4o$15bo3bo19b6o$15bo14b
-oo7bo5bo$16bobbo9boo8bo$31bo8bo4bo$bboo15bo22boo$b4o13bobo$ooboo12bobb
-oo$boo5boob3o4boobboo$7bo5boo4boobbo$6boo7bo5boo$7bo5boo6bo$boo5boob3o
-$ooboo12bobobbobo$b4o13bo3bobo$bboo18b3o$14b3o$13b5o$12boob3o$13boo$$
-21b4o$21bo3bo$21bo$22bobbo16$52b6o$52bo5bo$52bo$53bo4bo$55boo$23boo$
-22boob3o$23b5o$24booboo$28bo$26booboo$27boboo21boo9bo$23b4o3bo12bo6bo
-4bo6bo$22b4ob3o13bo5bo12b3o$21booboobboo12bo6bo5bo$22boo4bo20b6o$28bo$
-15b4o$15bo3bo19b6o$15bo14boo7bo5bo$16bobbo9boo8bo$31bo8bo4bo$bboo15bo
-22boo$b4o13bobo$ooboo12bobboo$boo5boob3o4boobboo$7bo5boo4boobbo$6boo7b
-o5boo$7bo5boo6bo$boo5boob3o67bo$ooboo12bobobbobo55bo$b4o13bo3bobo55b3o
-$bboo18b3o$14b3o$13b5o$12boob3o$13boo$$21b4o$21bo3bo$21bo$22bobbo!
+#C 1. Rakes formed by perturbing the period-12 Schick engine
+#C 2. By "iNoMed", 2 Mar 2022
+#C    Based on a spaceship by "wwei23"
+#C 3. By "wwei23", 2 Mar 2022
+x = 103, y = 210, rule = B3/S23
+43b2o$42b2ob3o$43b5o$44b2ob2o$48bo15b3o$46b2ob2o15bo$47bob5o11bo$43b4o
+3bob2o$42b4ob3o$41b2ob2o2b2o$42b2o4bo$48bo$35b4o$35bo3bo19b6o$35bo14b
+2o7bo5bo$36bo2bo9b2o8bo$51bo8bo4bo$22b2o15bo22b2o$21b4o13bobo$20b2ob2o
+12bo2b2o$21b2o5b2ob3o4b2o2b2o$27bo5b2o4b2o2bo$26b2o7bo5b2o$27bo5b2o6bo
+$21b2o5b2ob3o$20b2ob2o12bobo2bobo$21b4o13bo3bobo$22b2o18b3o$34b3o$33b
+5o$32b2ob3o$33b2o2$41b4o$41bo3bo$41bo$42bo2bo7$2bo2$2bo2$2bo2$2bo2$2bo
+$72b6o$72bo5bo$72bo$73bo4bo$75b2o$43b2o$42b2ob3o$43b5o$44b2ob2o$48bo$
+46b2ob2o$47bob2o21b2o9bo$43b4o3bo12bo6bo4bo6bo$42b4ob3o13bo5bo12b3o$
+41b2ob2o2b2o12bo6bo5bo$42b2o4bo20b6o$48bo$35b4o$35bo3bo19b6o$35bo14b2o
+7bo5bo$36bo2bo9b2o8bo$51bo8bo4bo$22b2o15bo22b2o$21b4o13bobo$20b2ob2o
+12bo2b2o$21b2o5b2ob3o4b2o2b2o$27bo5b2o4b2o2bo$26b2o7bo5b2o$27bo5b2o6bo
+$21b2o5b2ob3o67bo$20b2ob2o12bobo2bobo55bo$21b4o13bo3bobo55b3o$22b2o18b
+3o$34b3o$33b5o$32b2ob3o$33b2o2$41b4o$41bo3bo$41bo$42bo2bo41$29bobo6bo
+11b2o$28bo2bo5bobo8bo4bo$27b2o6bobo5bo3bo$26bo7bo6b3o3bo5bo$25b6ob2o2b
+4ob2o4b6o4bo16bobo$22b2o7b2obo3bo3bo12bo2bo7bo6bo$obobo16bo3b3ob2o9b3o
+bo8b3o2bo2b2ob2o7bo2bo$20bo3bo4b2o9b2o3bo6b4ob2o4b2o2bo2b3obo$4bo15bo
+5bo3b2o10b2o4bo2b4o9bob2o3b2o2bo4b2o$20b3o3b4obo12b5o19b2ob2obobo3b2o$
+obobo59b3o4b3o3bo$20b3o3b4obo12b5o19b2ob2obobo3b2o$o19bo5bo3b2o10b2o4b
+o2b4o9bob2o3b2o2bo4b2o$20bo3bo4b2o9b2o3bo6b4ob2o4b2o2bo2b3obo$obobo16b
+o3b3ob2o9b3obo8b3o2bo2b2ob2o7bo2bo$22b2o7b2obo3bo3bo12bo2bo7bo6bo$25b
+6ob2o2b4ob2o4b6o4bo16bobo$26bo7bo6b3o3bo5bo$27b2o6bobo5bo3bo$28bo2bo5b
+obo8bo4bo$29bobo6bo11b2o45$20b6o$obobo15bo5bo3b3o$20bo8bo3b3o$4bo16bo
+4bo2bo4b2o$23b2o4b2o2bobo$obobo29b2o$21b3o2b2o3bob3o$4bo15bo4b3o3b4o$
+20bo2b3o2bo3b2o$obobo15b2o$22bo!

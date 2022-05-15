@@ -3,7 +3,8 @@
 #C 3: By "wwei23", 24 Nov 2020
 #C 4,5: By Dean Hickerson
 #C 6: By Ivan Fomichev, Dec 2014
-x = 249, y = 317, rule = B3/S23
+#C 7: By "wwei23", 2 Mar 2022
+x = 249, y = 339, rule = B3/S23
 31b2o14b2o112b4o$30b2ob2o12bobo110b6o4b5o$31b4o12bo111b2ob4o4bo4bo$32b
 2o126b2o8bo$36bobo132bo3bo$35bo137bo3bo$2bo13b4o15bo115b4o21b2o$16bo3b
 o10bo3bo3bo111bo3bo24b3o$2bo13bo7b2o4bobo4bobo111bo7bo8b2o10b3o$17bo2b
@@ -72,10 +73,18 @@ $151b4o9b2o$151bo3bo$151bo$152bo2bo10bo$164bo3bo$163bo$163bo4bo$163b5o
 5$41b2o$41b3o$42b2o3b2o4b2o$36bo4bobo3bo6bo$35b2o4b2o4b2o4b2o$24bo9b2o
 4bo$23bobo9bob2obo$20bo9b2o4b2o2bo$19bo4b2o14bo$18b2o4bobo11bobo$19b2o
 2bo2b2o5b2o4b2o$20bo2bo2bo6b2o4b2o$24b2o2$24b2o$20bo2bo2bo6b2o4b2o$19b
-2o2bo2b2o5b2o6bo$18b2o4bobo12bo2bo$19bo4b2o10b3o3bo$20bo9b2o3bo6bo$obo
-bo18bobo8b2o$24bo8b2o2bo4bo$o33bob2obo2bo$35b2o3b2obo$obobo2$o3bo2$obo
-bo33bo$36b2ob2o$35bo3b2o$34b2ob2o$33b2obo7b2o$22bo4b2o5bobo$20b4o3b2o
-6b2o6bobo$19b2o3bo19bo$18b2o3bobo$19bobo5bo2b2o4b2o$20bob2o3bo3bo4b2o$
-22b2obo2$22b2obo$20bob2o3bo3bo4b2o$19bobo5bo2b2o4b2o$18b2o3bobo$19b2o
-3bo$20b4o3b2o7bo$22bo4b2o6b2o$34b2o11b2o$35bobobo6bo2bo$36b2obo5bo4bo$
-38b2o6bo2bo$47b2o!
+2o2bo2b2o5b2o6bo91bobobo13b2o$18b2o4bobo12bo2bo107b2ob4o4b2o3bo$19bo4b
+2o10b3o3bo94bo13b6o3b2o3bo2bo28b3o$20bo9b2o3bo6bo109b4o3b2o2b2o4bo29bo
+$obobo18bobo8b2o101bo22bo4bo3bo8bo18bobo$24bo8b2o2bo4bo121bo3bo6bo3bo
+17b2o$o33bob2obo2bo94bo14bo7bo4bo8b2o4bo4bo16bo$35b2o3b2obo107b3ob4o2b
+2obo9bobo3bo3bobo14bobo$obobo132bo12b2ob2o8bo9b2o5bo3bobo14b2o$151bo5b
+o19b3o5bo14bobo$o3bo147b2obo21b2o22bo$200b2o$obobo33bo161b2o$36b2ob2o$
+35bo3b2o$34b2ob2o$33b2obo7b2o$22bo4b2o5bobo$20b4o3b2o6b2o6bobo$19b2o3b
+o19bo$18b2o3bobo$19bobo5bo2b2o4b2o$20bob2o3bo3bo4b2o$22b2obo2$22b2obo$
+20bob2o3bo3bo4b2o$19bobo5bo2b2o4b2o$18b2o3bobo$19b2o3bo$20b4o3b2o7bo$
+22bo4b2o6b2o$34b2o11b2o$35bobobo6bo2bo$36b2obo5bo4bo$38b2o6bo2bo101b2o
+$47b2o101b2ob4o4b2o3bo$151b6o3b2o3bo2bo28b3o$152b4o3b2o2b2o4bo29bo$
+160bo4bo3bo8bo18bobo$164bo3bo6bo3bo17b2o$152bo7bo4bo8b2o4bo4bo16bo$
+151b3ob4o2b2obo9bobo3bo3bobo14bobo$150b2ob2o8bo9b2o5bo3bobo14b2o$151bo
+5bo19b3o5bo14bobo$152b2obo21b2o22bo$200b2o$200b2o22bo$224b2o$223bobo6$
+211b4o$210b6o$209b2ob4o$210b2o!
