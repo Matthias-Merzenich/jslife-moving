@@ -1,25 +1,25 @@
 #C  1. "Dragon" by Paul Tooke, 23 Apr 2000
 #C     Toad tagalong noticed by Stephen Silver, 26 Apr 2000
-#C  2. Paul Tooke, 7 Mar 2006
-#C  3. Paul Tooke, 23 Oct 2008
+#C  2. By Paul Tooke, 7 Mar 2006
+#C  3. By Paul Tooke, 23 Oct 2008
 #C     The repeatable front end had already
 #C     been found by Hartmut Holzwart.
-#C  4. Hartmut Holzwart, 19 May 2009
-#C  5. Matthias Merzenich, 21 Aug 2011
-#C  6. Matthias Merzenich, 31 Jan 2016
-#C  7. Josh Ball, 18 Aug 2013
-#C  8. Josh Ball, Nov 2014
-#C  9. Matthias Merzenich, 5 Jan 2016
-#C 10. Tim Coe, Apr 2016
-#C 11. Matthias Merzenich, Aug 2016
-#C 12. Matthias Merzenich, Jun 2016
-#C 13. Matthias Merzenich, 2 Jul 2016
+#C  4. By Hartmut Holzwart, 19 May 2009
+#C  5. By Matthias Merzenich, 21 Aug 2011
+#C  6. By Matthias Merzenich, 31 Jan 2016
+#C  7. By Josh Ball, 18 Aug 2013
+#C  8. By Josh Ball, Nov 2014
+#C  9. By Matthias Merzenich, 5 Jan 2016
+#C 10. By Tim Coe, Apr 2016
+#C 11. By Matthias Merzenich, Aug 2016
+#C 12. By Matthias Merzenich, Jun 2016
+#C 13. By Matthias Merzenich, 2 Jul 2016
 #C     Using components by Tim Coe
 #C 14. Asymmetric front end originally found by Josh Ball (see 7)
 #C     Symmetric connection noticed by Tanner Jacobi, 29 Jun 2016
 #C     Symmetric back end by Tim Coe, Jun 2016
-#C 15. Dongook Lee, 26 Aug 2016
-#C 16. Matthias Merzenich, 26 Aug 2016
+#C 15. By Dongook Lee, 26 Aug 2016
+#C 16. By Matthias Merzenich, 26 Aug 2016
 x = 738, y = 264, rule = B3/S23
 75bo6bo167bobobo16bo5bo164bo53bo3bobobo40bo80bo3bo3bo26bo$20bo6bo23bo
 6bo15bobo4bobo11bo6bo77bo6bo82bo2bobo2bo156bo13bo88bo13bo106bo3bo$19bo

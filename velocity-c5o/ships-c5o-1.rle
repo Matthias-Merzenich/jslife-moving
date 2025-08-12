@@ -1,17 +1,17 @@
 #C  1. "Snail" by Tim Coe, 31 Jan 1996
-#C  2. Tim Coe, Dec 1996
-#C  3. Tim Coe, 2 May 1997
-#C  4. Jason Summers, 11 Nov 2000
-#C  5. Keith Amling, 29 Nov 2000
-#C  6. Jason Summers, 12 Dec 2000
+#C  2. By Tim Coe, Dec 1996
+#C  3. By Tim Coe, 2 May 1997
+#C  4. By Jason Summers, 11 Nov 2000
+#C  5. By Keith Amling, 29 Nov 2000
+#C  6. By Jason Summers, 12 Dec 2000
 #C  7. "Spider" by David Bell, 14 Apr 1997
-#C  8. Jason Summers, 11 Nov 2000
+#C  8. By Jason Summers, 11 Nov 2000
 #C  9. Pushalong by Tim Coe, 2 May 1997
 #C     Left support by Tim Coe (see (1))
 #C     Right support by Jason Summers (see (8))
-#C 10. Jason Summers, 12 Dec 2000
-#C 11. David Bell, 20 Sep 2004
-#C 12. Paul Tooke, 9 Mar 2001
+#C 10. By Jason Summers, 12 Dec 2000
+#C 11. By David Bell, 20 Sep 2004
+#C 12. By Paul Tooke, 9 Mar 2001
 #C     A related ship can be constructed by
 #C     reflecting the first row across a
 #C     vertical axis down the center of the ship.

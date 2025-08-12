@@ -4,7 +4,7 @@
 #C    Left (back) stabilization by Matthias Merzenich, 30 Apr 2020
 #C    Right (front) stabilization by Keith Amling, 30 Apr 2020
 #C 3. By Keith Amling, 2 Jun 2020
-#C 4. "May13", 30 Jan 2022
+#C 4. Dmitry Maitak, 30 Jan 2022
 x = 354, y = 248, rule = B3/S23
 99bo180bobobo2$99bo184bo2$99bo180bobobo2$99bo180bo2$99bo180bobobo12$
 17b2o3b2o8b2o3b2o8b2o3b2o8b2o3b2o8b2o3b2o8b2o3b2o8b2o3b2o8b2o3b2o8b2o

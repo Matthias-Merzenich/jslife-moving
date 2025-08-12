@@ -1,5 +1,5 @@
 #C A period-2334 c/6 orthogonal rake
-#C "May13", 8 Dec 2021
+#C Dmitry Maitak, 8 Dec 2021
 x = 1971, y = 1684, rule = B3/S23
 1152bo3bo7bo3bo504bo3bo7bo3bo$1151bobobobo5bobobobo502bobobobo5bobobob
 o$278bo11bo508bo11bo339b2o2bo2bo3bo2bo2b2o502b2o2bo2bo3bo2bo2b2o$276bo

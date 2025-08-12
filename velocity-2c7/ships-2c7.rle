@@ -9,10 +9,10 @@
 #C  7. Tagalong by Matthias Merzenich, 19 Mar 2021
 #C  8. Component connections by Matthias Merzenich and
 #C     "wwei23", Mar 2021
-#C  9. By "May13", 23 Nov 2021
+#C  9. By Dmitry Maitak, 23 Nov 2021
 #C     Using components by Andrew J. Wade and Matthias Merzenich
 #C 10. By Andrew J. Wade, 26 Apr 2022
-#C 11. Component connections by "May13", 26 Apr 2022
+#C 11. Component connections by Dmitry Maitak, 26 Apr 2022
 x = 493, y = 257, rule = B3/S23
 2bo24bo12bo43bobobo22bo43bo3bo20bo15bo15bo15bo65bo$27bo12bo69b3o66bobo
 13bobo13bobo13bobo64bo$2bo23bobo10bobo46bo21b3o42bo3bo18bo3bo2b3ob3o2b

@@ -1,6 +1,6 @@
 #C A period-48 (2,1)c/6 rake
 #C Rakes of all output directions are represented as subpatterns.
-#C By "May13", 9 May 2021
+#C By Dmitry Maitak, 9 May 2021
 #C Reductions by "wwei23", 10 May 2021
 x = 532, y = 693, rule = B3/S23
 10b3o$9bo2b2o3b5o$9bo4bob4o3bo$12bo3bo$9bo10bo3bo$9b2obo2bo2b2o4bo$9bo

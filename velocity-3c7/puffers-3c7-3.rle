@@ -1,5 +1,5 @@
 #C 3c/7 orthogonal puffers based on a period-56 puffer engine.
-#C By "dani", "May13", and Kalan Warusa, 25 Feb 2022
+#C By "dani", Dmitry Maitak, and Kalan Warusa, 25 Feb 2022
 x = 452, y = 75, rule = B3/S23
 18b3o9b3o51b3o9b3o87b3o9b3o51b3o9b3o87b3o9b3o51b3o9b3o$17bo3bo7bo3bo
 49bo3bo7bo3bo85bo3bo7bo3bo49bo3bo7bo3bo85bo3bo7bo3bo49bo3bo7bo3bo$16bo

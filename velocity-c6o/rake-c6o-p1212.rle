@@ -1,7 +1,7 @@
 #C A period-1212 c/6 orthogonal rake based on a puffer by
 #C Matthias Merzenich (see puffer-c6o-p1212.rle)
 #C This is a reduction of the first known c/6 orthogonal rake.
-#C By "May13" and "iNoMed", 17-18 Nov 2021
+#C By Dmitry Maitak and "iNoMed", 17-18 Nov 2021
 x = 1701, y = 2090, rule = B3/S23
 26bo3bo7bo3bo319bo3bo7bo3bo943bo3bo7bo3bo319bo3bo7bo3bo$25bob3obo5bob
 3obo317bob3obo5bob3obo941bob3obo5bob3obo317bob3obo5bob3obo$25b2obobo7b

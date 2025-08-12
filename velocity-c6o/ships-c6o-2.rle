@@ -1,16 +1,16 @@
-#C  1. Tim Coe, Apr 2016 - Jun 2016
-#C  2. "praosylen", 10 Mar 2017
-#C  3. Matthias Merzenich, Jul 2017
-#C  4. Matthias Merzenich, Aug 2017
-#C  5. "praosylen", 1 Sep 2017
-#C  6. Matthias Merzenich, 12 Jan 2019
-#C  7. Arie Paap, 25 Feb 2019
-#C  8. Keith Amling, 11 Nov 2021
-#C  9. "May13", 14 Nov 2021
-#C 10. "May13", 27 Nov 2021
-#C 11. Keith Amling, 11 Apr 2022
-#C 12. "May13", 15 Apr 2022
-#C 13. "Bullet51", 5 May 2022
+#C  1. By Tim Coe, Apr 2016 - Jun 2016
+#C  2. By "praosylen", 10 Mar 2017
+#C  3. By Matthias Merzenich, Jul 2017
+#C  4. By Matthias Merzenich, Aug 2017
+#C  5. By "praosylen", 1 Sep 2017
+#C  6. By Matthias Merzenich, 12 Jan 2019
+#C  7. By Arie Paap, 25 Feb 2019
+#C  8. By Keith Amling, 11 Nov 2021
+#C  9. By Dmitry Maitak, 14 Nov 2021
+#C 10. By Dmitry Maitak, 27 Nov 2021
+#C 11. By Keith Amling, 11 Apr 2022
+#C 12. By Dmitry Maitak, 15 Apr 2022
+#C 13. By "Bullet51", 5 May 2022
 #C     Based on a partial result by "praosylen", 14 May 2017
 x = 849, y = 849, rule = B3/S23
 4bo24b3o11b3o7b3o11b3o7b3o11b3o7b3o11b3o7b3o11b3o15bo23bo23bo23bo23bo

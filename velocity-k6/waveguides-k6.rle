@@ -1,7 +1,7 @@
 #C Waveguides for a long-known (2,1)c/6 wave
 #C 1. Adam P. Goucher, 19 Jul 2018
 #C 2. Matthias Merzenich, 16 Jan 2019
-#C 3. "May13", 19 Sep 2021
+#C 3. Dmitry Maitak, 19 Sep 2021
 #C 4. "MathAndCode", 16 Nov 2021
 x = 310, y = 304, rule = B3/S23
 48b2o108b2o108b2o$48bo2bo106bo2bo106bo2bo$48bo3bo105bo3bo105bo3bo$50b

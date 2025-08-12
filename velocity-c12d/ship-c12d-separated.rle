@@ -1,5 +1,5 @@
-#C A period 96 Cordership based on individual switch engines.
-#C This uses a forward to sideways reaction, many sideways to sideways
+#C A period-96 Cordership based on individual switch engines.
+#C This uses a forward-to-sideways reaction, many sideways-to-sideways
 #C reactions, a fanout device to produce two adjustable output streams,
 #C and a honey farm producing component.
 #C No two switch engines in this pattern interact directly.
