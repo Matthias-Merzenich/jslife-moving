@@ -1,0 +1,45 @@
+Changes since 19th March 2002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Removed a number of trivial variations of the same engine.
+
+Added new puffer types of periods 10(x2), 12(x4), 14, 16(x7), 18, 20,
+22(x3), 24, 28, 30, 32(x2), 34, 36(x4), 38, 40(x2), 42(x2), 48(x2),
+50, 52, 54(x2), 56(x3), 58, 60, 62, 64(x2), 66, 68, 72(x3), 80(x4),
+84(x2), 92(x2), 96(x2), 98, 100, 104, 108, 112(x2), 114, 120(x3),
+126(x2), 128, 134, 144, 162, 168(x2), 176, 180, 192(x3), 220, 234,
+288(x3), 330, 424 & 660
+
+Added new spaceship types of periods 10(x4), 14, 16, 18, 28, 32, 38 & 52
+
+Shortened or otherwise improved puffers of periods 16, 24, 42, 46, 48,
+54, 56, 68, 140, 168, 400
+
+Started to classify common engines
+
+Changes since 30th January 2002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Removed period 16 puffer from p018.lif.
+
+Replaced some objects with smaller variants found by Stephen Silver
+(p14 spaceship and period 46 puffer) and Jason Summers (p6 puffer
+and two p8 block puffers).
+
+Added more minor variations of the period 6 puffer.
+
+Changes since 16th January 2002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Added spaceships of periods 8 and above.
+
+Added new puffer types of periods: 24(2), 28(2), 32, 36(2), 44, 48, 64, 72
+80, 84(2), 96(2), 128(2), 140, 144, 160, 192, 224 & 256.
+
+Added 2c/4 based puffers at periods 8, 16(2), 20, 24, 48(2), 80(3) & 384.
+
+Added minor variations of existing puffers of periods 6, 8, 12, 20(2), 28(3) & 114.
+
+Shortened, or otherwise improved puffers of periods: 24, 40, 50, 60, & 112.
+
+
